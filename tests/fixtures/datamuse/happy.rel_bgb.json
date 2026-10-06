@@ -1,0 +1,198 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://api.datamuse.com/words?max=20&rel_bgb=happy&md=pf",
+    "headers": {}
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json"
+  },
+  "elapsedMs": 293,
+  "fetchedAt": "2026-09-14T15:41:09.384Z",
+  "body": [
+    {
+      "word": "a",
+      "score": 123805,
+      "tags": [
+        "n",
+        "adj",
+        "v",
+        "adv",
+        "f:440.279225"
+      ]
+    },
+    {
+      "word": "be",
+      "score": 99616,
+      "tags": [
+        "v",
+        "n",
+        "adj",
+        "f:1665.648031"
+      ]
+    },
+    {
+      "word": "the",
+      "score": 76002,
+      "tags": [
+        "adv",
+        "f:407.210664"
+      ]
+    },
+    {
+      "word": "and",
+      "score": 67608,
+      "tags": [
+        "n",
+        "v",
+        "adj",
+        "f:1122.503704"
+      ]
+    },
+    {
+      "word": "very",
+      "score": 53594,
+      "tags": [
+        "adv",
+        "adj",
+        "n",
+        "f:577.371772"
+      ]
+    },
+    {
+      "word": "was",
+      "score": 47947,
+      "tags": [
+        "v",
+        "n",
+        "f:2824.169367"
+      ]
+    },
+    {
+      "word": "so",
+      "score": 38964,
+      "tags": [
+        "adv",
+        "adj",
+        "n",
+        "f:949.097652"
+      ]
+    },
+    {
+      "word": "not",
+      "score": 25314,
+      "tags": [
+        "adv",
+        "n",
+        "f:325.893476"
+      ]
+    },
+    {
+      "word": "are",
+      "score": 24445,
+      "tags": [
+        "n",
+        "f:1982.889722"
+      ]
+    },
+    {
+      "word": "am",
+      "score": 21358,
+      "tags": [
+        "n",
+        "adj",
+        "adv",
+        "f:157.661961"
+      ]
+    },
+    {
+      "word": "were",
+      "score": 20933,
+      "tags": [
+        "v",
+        "n",
+        "f:946.719581"
+      ]
+    },
+    {
+      "word": "is",
+      "score": 19049,
+      "tags": [
+        "v",
+        "n",
+        "f:5240.944233"
+      ]
+    },
+    {
+      "word": "as",
+      "score": 18301,
+      "tags": [
+        "adv",
+        "n",
+        "f:3178.485243"
+      ]
+    },
+    {
+      "word": "how",
+      "score": 16321,
+      "tags": [
+        "adv",
+        "n",
+        "f:510.375791"
+      ]
+    },
+    {
+      "word": "of",
+      "score": 15414,
+      "tags": [
+        "v",
+        "n",
+        "f:23375.750574"
+      ]
+    },
+    {
+      "word": "too",
+      "score": 14035,
+      "tags": [
+        "adv",
+        "f:342.277600"
+      ]
+    },
+    {
+      "word": "this",
+      "score": 13934,
+      "tags": [
+        "adv",
+        "n",
+        "f:1061.572383"
+      ]
+    },
+    {
+      "word": "been",
+      "score": 12973,
+      "tags": [
+        "v",
+        "f:428.888624"
+      ]
+    },
+    {
+      "word": "you",
+      "score": 12454,
+      "tags": [
+        "n",
+        "v",
+        "f:2279.679461"
+      ]
+    },
+    {
+      "word": "quite",
+      "score": 10572,
+      "tags": [
+        "adv",
+        "n",
+        "f:147.135294"
+      ]
+    }
+  ]
+}

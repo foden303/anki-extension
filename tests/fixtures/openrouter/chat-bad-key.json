@@ -1,0 +1,32 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "https://openrouter.ai/api/v1/chat/completions",
+    "headers": {
+      "Authorization": "Bearer <redacted>",
+      "Content-Type": "application/json"
+    },
+    "body": {
+      "model": "openrouter/auto",
+      "messages": [
+        {
+          "role": "user",
+          "content": "hi"
+        }
+      ],
+      "max_tokens": 5
+    }
+  },
+  "status": 401,
+  "headers": {
+    "content-type": "application/json"
+  },
+  "elapsedMs": 78,
+  "fetchedAt": "2026-09-14T15:44:58.527Z",
+  "body": {
+    "error": {
+      "message": "Missing Authentication header",
+      "code": 401
+    }
+  }
+}

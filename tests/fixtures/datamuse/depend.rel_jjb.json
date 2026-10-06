@@ -1,0 +1,23 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://api.datamuse.com/words?max=20&rel_jjb=depend&md=pf",
+    "headers": {}
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json"
+  },
+  "elapsedMs": 289,
+  "fetchedAt": "2026-09-14T15:41:12.228Z",
+  "body": [
+    {
+      "word": "alcohol",
+      "score": 1001,
+      "tags": [
+        "n",
+        "f:27.829074"
+      ]
+    }
+  ]
+}

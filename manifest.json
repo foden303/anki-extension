@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "Anki Add Vocabulary",
+  "version": "0.1.0",
+  "description": "Translate selected English vocabulary, review it, then add it to an Anki deck.",
+  "permissions": ["storage", "contextMenus", "tabs"],
+  "host_permissions": [
+    "http://127.0.0.1/*",
+    "http://localhost/*",
+    "https://translate.googleapis.com/*",
+    "https://translate.google.com/*",
+    "https://clients5.google.com/*",
+    "https://api.mymemory.translated.net/*",
+    "https://api.dictionaryapi.dev/*",
+    "https://api.datamuse.com/*",
+    "https://en.wiktionary.org/*"
+  ],
+  "background": { "service_worker": "background.js", "type": "module" },
+  "content_scripts": [
+    { "matches": ["http://*/*", "https://*/*"], "js": ["term-kind.js", "suggestions.js", "page-context.js", "content.js"], "run_at": "document_idle" }
+  ],
+  "action": { "default_popup": "popup.html", "default_title": "Anki Add Vocabulary" },
+  "options_ui": { "page": "options.html", "open_in_tab": true },
+  "commands": {
+    "translate-selection": { "suggested_key": { "default": "Alt+A" }, "description": "Translate selected word or collocation" }
+  }
+}

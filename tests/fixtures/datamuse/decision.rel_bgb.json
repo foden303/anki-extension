@@ -1,0 +1,194 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://api.datamuse.com/words?max=20&rel_bgb=decision&md=pf",
+    "headers": {}
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json"
+  },
+  "elapsedMs": 298,
+  "fetchedAt": "2026-09-14T15:41:13.876Z",
+  "body": [
+    {
+      "word": "the",
+      "score": 261735,
+      "tags": [
+        "adv",
+        "f:407.210664"
+      ]
+    },
+    {
+      "word": "a",
+      "score": 116454,
+      "tags": [
+        "n",
+        "adj",
+        "v",
+        "adv",
+        "f:440.279225"
+      ]
+    },
+    {
+      "word": "of",
+      "score": 39707,
+      "tags": [
+        "v",
+        "n",
+        "f:23375.750574"
+      ]
+    },
+    {
+      "word": "this",
+      "score": 38712,
+      "tags": [
+        "adv",
+        "n",
+        "f:1061.572383"
+      ]
+    },
+    {
+      "word": "his",
+      "score": 29577,
+      "tags": [
+        "n",
+        "f:41.160366"
+      ]
+    },
+    {
+      "word": "and",
+      "score": 28451,
+      "tags": [
+        "n",
+        "v",
+        "adj",
+        "f:1122.503704"
+      ]
+    },
+    {
+      "word": "final",
+      "score": 18660,
+      "tags": [
+        "adj",
+        "n",
+        "v",
+        "f:86.538436"
+      ]
+    },
+    {
+      "word": "in",
+      "score": 16985,
+      "tags": [
+        "adv",
+        "adj",
+        "n",
+        "v",
+        "f:13718.174726"
+      ]
+    },
+    {
+      "word": "that",
+      "score": 15867,
+      "tags": [
+        "adv",
+        "n",
+        "f:5454.541130"
+      ]
+    },
+    {
+      "word": "its",
+      "score": 15791,
+      "tags": [
+        "n",
+        "f:4.591748"
+      ]
+    },
+    {
+      "word": "their",
+      "score": 15322,
+      "tags": [
+        "adv",
+        "prop",
+        "f:4.880867"
+      ]
+    },
+    {
+      "word": "for",
+      "score": 14120,
+      "tags": [
+        "n",
+        "f:5330.802977"
+      ]
+    },
+    {
+      "word": "court",
+      "score": 11986,
+      "tags": [
+        "n",
+        "v",
+        "f:122.433514"
+      ]
+    },
+    {
+      "word": "your",
+      "score": 10118,
+      "tags": [
+        "adj",
+        "f:7.365699"
+      ]
+    },
+    {
+      "word": "any",
+      "score": 8998,
+      "tags": [
+        "adv",
+        "f:81.296072"
+      ]
+    },
+    {
+      "word": "her",
+      "score": 8900,
+      "tags": [
+        "n",
+        "f:471.255311"
+      ]
+    },
+    {
+      "word": "my",
+      "score": 8376,
+      "tags": [
+        "n",
+        "prop",
+        "f:10.804989"
+      ]
+    },
+    {
+      "word": "our",
+      "score": 6651,
+      "tags": [
+        "v",
+        "prop",
+        "f:9.118974"
+      ]
+    },
+    {
+      "word": "to",
+      "score": 6345,
+      "tags": [
+        "adv",
+        "n",
+        "f:6737.872536"
+      ]
+    },
+    {
+      "word": "political",
+      "score": 6008,
+      "tags": [
+        "adj",
+        "n",
+        "f:257.231452"
+      ]
+    }
+  ]
+}

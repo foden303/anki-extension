@@ -1,0 +1,39 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://api.datamuse.com/words?max=20&rel_syn=decision&md=pf",
+    "headers": {}
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json"
+  },
+  "elapsedMs": 439,
+  "fetchedAt": "2026-09-14T15:41:12.984Z",
+  "body": [
+    {
+      "word": "determination",
+      "score": 34042,
+      "tags": [
+        "n",
+        "f:31.550245"
+      ]
+    },
+    {
+      "word": "conclusion",
+      "score": 18048,
+      "tags": [
+        "n",
+        "f:44.011143"
+      ]
+    },
+    {
+      "word": "decisiveness",
+      "score": 5021,
+      "tags": [
+        "n",
+        "f:0.289000"
+      ]
+    }
+  ]
+}

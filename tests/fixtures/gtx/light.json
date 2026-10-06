@@ -1,0 +1,1146 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=vi&q=light&dt=t&dt=bd&dt=ss&dt=at&dt=md&dt=ex",
+    "headers": {}
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json; charset=utf-8"
+  },
+  "elapsedMs": 216,
+  "fetchedAt": "2026-09-14T15:41:19.495Z",
+  "body": [
+    [
+      [
+        "ánh sáng",
+        "light",
+        null,
+        null,
+        10
+      ]
+    ],
+    [
+      [
+        "adjective",
+        [
+          "bước đi nhẹ nhàng",
+          "đất xốp",
+          "nhẹ",
+          "sáng sủa"
+        ],
+        [
+          [
+            "bước đi nhẹ nhàng",
+            [
+              "light"
+            ]
+          ],
+          [
+            "đất xốp",
+            [
+              "light",
+              "mushy"
+            ]
+          ],
+          [
+            "nhẹ",
+            [
+              "light",
+              "slight",
+              "benign",
+              "sleazy"
+            ]
+          ],
+          [
+            "sáng sủa",
+            [
+              "light",
+              "luminous",
+              "lambent"
+            ]
+          ]
+        ],
+        "light",
+        3
+      ],
+      [
+        "adverb",
+        [
+          "nửa ngũ nửa thức",
+          "tỉnh ngũ"
+        ],
+        [
+          [
+            "nửa ngũ nửa thức",
+            [
+              "light"
+            ]
+          ],
+          [
+            "tỉnh ngũ",
+            [
+              "light"
+            ]
+          ]
+        ],
+        "light",
+        4
+      ],
+      [
+        "noun",
+        [
+          "ánh sáng",
+          "ánh sáng đèn điện",
+          "đèn",
+          "hiện rỏ",
+          "sự chiếu sáng",
+          "sự soi sáng",
+          "tia sáng"
+        ],
+        [
+          [
+            "ánh sáng",
+            [
+              "light",
+              "lit",
+              "shine",
+              "glint",
+              "glitter",
+              "lustre"
+            ]
+          ],
+          [
+            "ánh sáng đèn điện",
+            [
+              "light"
+            ]
+          ],
+          [
+            "đèn",
+            [
+              "lights",
+              "light",
+              "lamp"
+            ]
+          ],
+          [
+            "hiện rỏ",
+            [
+              "light"
+            ]
+          ],
+          [
+            "sự chiếu sáng",
+            [
+              "light",
+              "shine",
+              "lightness"
+            ]
+          ],
+          [
+            "sự soi sáng",
+            [
+              "light",
+              "lightness"
+            ]
+          ],
+          [
+            "tia sáng",
+            [
+              "light",
+              "ray",
+              "flash",
+              "spark",
+              "glint",
+              "sparkle"
+            ]
+          ]
+        ],
+        "light",
+        1
+      ],
+      [
+        "verb",
+        [
+          "cháy",
+          "chiếu sáng",
+          "đốt đèn",
+          "làm cho nhẹ",
+          "làm cho nhẹ bớt",
+          "ngã xuống",
+          "soi sáng",
+          "thắp đèn",
+          "xà xuống",
+          "làm một cách nhẹ nhàng"
+        ],
+        [
+          [
+            "cháy",
+            [
+              "burn",
+              "burnt",
+              "blaze",
+              "ignite",
+              "light"
+            ]
+          ],
+          [
+            "chiếu sáng",
+            [
+              "light",
+              "illuminate",
+              "shine",
+              "shone",
+              "lighten",
+              "lamp"
+            ]
+          ],
+          [
+            "đốt đèn",
+            [
+              "light"
+            ]
+          ],
+          [
+            "làm cho nhẹ",
+            [
+              "light"
+            ]
+          ],
+          [
+            "làm cho nhẹ bớt",
+            [
+              "attenuate",
+              "light",
+              "lighten",
+              "relieve"
+            ]
+          ],
+          [
+            "ngã xuống",
+            [
+              "drop",
+              "come down",
+              "light"
+            ]
+          ],
+          [
+            "soi sáng",
+            [
+              "light",
+              "shine",
+              "glean",
+              "lighten",
+              "lamp"
+            ]
+          ],
+          [
+            "thắp đèn",
+            [
+              "light"
+            ]
+          ],
+          [
+            "xà xuống",
+            [
+              "light"
+            ]
+          ],
+          [
+            "làm một cách nhẹ nhàng",
+            [
+              "light"
+            ]
+          ]
+        ],
+        "light",
+        2
+      ]
+    ],
+    "en",
+    null,
+    null,
+    [
+      [
+        "light",
+        null,
+        [
+          [
+            "ánh sáng",
+            null,
+            true,
+            false,
+            [
+              10
+            ]
+          ],
+          [
+            "soi rọi",
+            null,
+            true,
+            false,
+            [
+              10
+            ]
+          ],
+          [
+            "đèn",
+            null,
+            true,
+            false,
+            [
+              8
+            ]
+          ]
+        ],
+        [
+          [
+            0,
+            5
+          ]
+        ],
+        "light",
+        0,
+        0
+      ]
+    ],
+    null,
+    [],
+    null,
+    null,
+    null,
+    [
+      [
+        "noun",
+        [
+          [
+            [
+              "effulgence",
+              "refulgence",
+              "lambency",
+              "fulguration"
+            ],
+            "m_en_gbus0581170.007",
+            [
+              [
+                "rare"
+              ]
+            ]
+          ],
+          [
+            [
+              "illumination",
+              "brightness",
+              "luminescence",
+              "luminosity",
+              "shining",
+              "gleaming",
+              "gleam",
+              "brilliance",
+              "radiance",
+              "luster",
+              "glowing",
+              "glow",
+              "blaze",
+              "glare",
+              "dazzle",
+              "incandescence",
+              "phosphorescence",
+              "sunlight",
+              "moonlight",
+              "starlight",
+              "lamplight",
+              "firelight",
+              "electric light",
+              "gaslight",
+              "ray of light",
+              "shaft of light",
+              "beam of light"
+            ],
+            "m_en_gbus0581170.007"
+          ],
+          [
+            [
+              "daylight",
+              "light of day",
+              "natural light",
+              "sunlight",
+              "daylight hours",
+              "daytime",
+              "day",
+              "hours of sunlight"
+            ],
+            "m_en_gbus0581170.007"
+          ],
+          [
+            [
+              "lamp",
+              "flashlight",
+              "headlight",
+              "headlamp",
+              "sidelight",
+              "wall light",
+              "street light",
+              "floodlight",
+              "lantern",
+              "candle",
+              "taper",
+              "beacon",
+              "torch",
+              "standard lamp"
+            ],
+            "m_en_gbus0581170.009"
+          ],
+          [
+            [
+              "talent",
+              "skill",
+              "ability",
+              "intelligence",
+              "mental powers",
+              "intellect",
+              "knowledge",
+              "understanding"
+            ],
+            "m_en_gbus0581170.022"
+          ],
+          [
+            [
+              "aspect",
+              "angle",
+              "slant",
+              "approach",
+              "interpretation",
+              "viewpoint",
+              "standpoint",
+              "context",
+              "point of view",
+              "vantage point",
+              "appearance",
+              "guise",
+              "hue",
+              "complexion"
+            ],
+            "m_en_gbus0581170.024"
+          ],
+          [
+            [
+              "understanding",
+              "enlightenment",
+              "illumination",
+              "comprehension",
+              "insight",
+              "awareness",
+              "knowledge",
+              "elucidation",
+              "explanation",
+              "clarification",
+              "edification"
+            ],
+            "m_en_gbus0581170.024"
+          ],
+          [
+            [
+              "match",
+              "(cigarette) lighter",
+              "flame",
+              "spark",
+              "source of fire"
+            ],
+            "m_en_gbus0581170.029"
+          ],
+          [
+            [
+              "bigwig",
+              "big gun",
+              "big shot",
+              "big noise",
+              "celeb"
+            ],
+            "m_en_gbus0581170.036",
+            [
+              [
+                "informal"
+              ]
+            ]
+          ],
+          [
+            [
+              "expert",
+              "authority",
+              "master",
+              "leader",
+              "guru",
+              "leading light",
+              "guiding light",
+              "luminary",
+              "celebrity",
+              "dignitary",
+              "public figure",
+              "worthy",
+              "VIP",
+              "big name",
+              "star"
+            ],
+            "m_en_gbus0581170.036"
+          ]
+        ],
+        "light",
+        1
+      ],
+      [
+        "verb",
+        [
+          [
+            [
+              "enkindle"
+            ],
+            "m_en_gbus0581170.056",
+            [
+              [
+                "archaic"
+              ]
+            ]
+          ],
+          [
+            [
+              "set alight",
+              "set light to",
+              "set burning",
+              "set on fire",
+              "set fire to",
+              "put/set a match to",
+              "ignite",
+              "kindle",
+              "burn",
+              "spark (off)",
+              "fire",
+              "touch off",
+              "start",
+              "torch"
+            ],
+            "m_en_gbus0581170.056"
+          ],
+          [
+            [
+              "come across",
+              "chance on",
+              "hit on",
+              "happen on",
+              "stumble on/across",
+              "blunder on",
+              "find",
+              "discover",
+              "uncover",
+              "arrive at",
+              "encounter",
+              "think of",
+              "come up with"
+            ],
+            "m_en_gbus0581190.010"
+          ]
+        ],
+        "light",
+        2
+      ],
+      [
+        "adjective",
+        [
+          [
+            [
+              "bright",
+              "full of light",
+              "well lit",
+              "well lighted",
+              "well illuminated",
+              "sunny",
+              "sunshiny",
+              "undimmed",
+              "brilliant"
+            ],
+            "m_en_gbus0581170.061"
+          ],
+          [
+            [
+              "light-colored",
+              "light-toned",
+              "pale",
+              "pale-colored",
+              "pastel",
+              "pastel-colored",
+              "whitish",
+              "faded",
+              "faint",
+              "weak",
+              "bleached"
+            ],
+            "m_en_gbus0581170.066"
+          ],
+          [
+            [
+              "fair",
+              "light-colored",
+              "blond",
+              "golden",
+              "flaxen",
+              "yellow"
+            ],
+            "m_en_gbus0581170.066"
+          ],
+          [
+            [
+              "easy to lift",
+              "not heavy",
+              "weighing very little",
+              "lightweight",
+              "easy to carry",
+              "portable",
+              "transportable",
+              "weightless",
+              "insubstantial",
+              "airy"
+            ],
+            "m_en_gbus0581180.008"
+          ],
+          [
+            [
+              "flimsy",
+              "lightweight",
+              "insubstantial",
+              "thin",
+              "delicate",
+              "floaty",
+              "gauzy",
+              "sheer",
+              "gossamer",
+              "diaphanous",
+              "transparent",
+              "translucent",
+              "see-through"
+            ],
+            "m_en_gbus0581180.014"
+          ],
+          [
+            [
+              "friable",
+              "sandy",
+              "easily dug",
+              "workable",
+              "crumbly",
+              "not dense",
+              "loose",
+              "porous"
+            ],
+            "m_en_gbus0581180.018"
+          ],
+          [
+            [
+              "cushy"
+            ],
+            "m_en_gbus0581180.023",
+            [
+              [
+                "informal"
+              ]
+            ]
+          ],
+          [
+            [
+              "easy",
+              "simple",
+              "undemanding",
+              "untaxing",
+              "unexacting",
+              "not burdensome",
+              "moderate",
+              "endurable",
+              "bearable",
+              "tolerable"
+            ],
+            "m_en_gbus0581180.023"
+          ],
+          [
+            [
+              "small",
+              "modest",
+              "scanty",
+              "simple",
+              "skimpy",
+              "frugal",
+              "not heavy",
+              "not rich",
+              "not large",
+              "easily digested",
+              "digestible"
+            ],
+            "m_en_gbus0581180.025"
+          ],
+          [
+            [
+              "gentle",
+              "delicate",
+              "soft",
+              "dainty",
+              "graceful",
+              "faint",
+              "indistinct"
+            ],
+            "m_en_gbus0581180.030"
+          ],
+          [
+            [
+              "entertaining",
+              "lightweight",
+              "diverting",
+              "recreative",
+              "undemanding",
+              "easily understood",
+              "middle-of-the-road",
+              "amusing",
+              "humorous",
+              "funny",
+              "chucklesome",
+              "witty",
+              "lighthearted",
+              "frivolous",
+              "unserious",
+              "superficial",
+              "trivial",
+              "trifling"
+            ],
+            "m_en_gbus0581180.033"
+          ],
+          [
+            [
+              "gentle",
+              "mild",
+              "moderate",
+              "slight",
+              "playful",
+              "lighthearted",
+              "easygoing",
+              "witty",
+              "dry"
+            ],
+            "m_en_gbus0581180.034"
+          ],
+          [
+            [
+              "gay"
+            ],
+            "m_en_gbus0581180.034",
+            [
+              [
+                "dated"
+              ]
+            ]
+          ],
+          [
+            [
+              "carefree",
+              "lighthearted",
+              "cheerful",
+              "cheery",
+              "happy",
+              "merry",
+              "jolly",
+              "blithe",
+              "bright",
+              "sunny",
+              "untroubled",
+              "buoyant",
+              "vivacious",
+              "bubbly",
+              "jaunty",
+              "bouncy",
+              "breezy",
+              "optimistic",
+              "positive",
+              "upbeat",
+              "ebullient",
+              "easygoing",
+              "free and easy",
+              "happy-go-lucky"
+            ],
+            "m_en_gbus0581180.034"
+          ]
+        ],
+        "light",
+        3
+      ]
+    ],
+    [
+      [
+        "noun",
+        [
+          [
+            "the natural agent that stimulates sight and makes things visible.",
+            "m_en_gbus0581170.007",
+            "the light of the sun"
+          ],
+          [
+            "an expression in someone's eyes indicating a particular emotion or mood.",
+            "m_en_gbus0581170.021",
+            "a shrewd light entered his eyes"
+          ],
+          [
+            "understanding of a problem or mystery; enlightenment.",
+            "m_en_gbus0581170.024",
+            "she saw light dawn on the woman's face"
+          ],
+          [
+            "an area of something that is brighter or paler than its surroundings.",
+            "m_en_gbus0581170.027",
+            "sunshine will brighten the natural lights in your hair"
+          ],
+          [
+            "a device that makes something start burning, as a match, lighter, or flame.",
+            "m_en_gbus0581170.029",
+            "he asked me for a light"
+          ],
+          [
+            "a window or opening in a wall to let light in.",
+            "m_en_gbus0581170.032",
+            "the bedroom has a wide bay with leaded lights"
+          ],
+          [
+            "a person notable or eminent in a particular sphere of activity or place.",
+            "m_en_gbus0581170.036",
+            "volunteers have been the shining lights of the community"
+          ]
+        ],
+        "light",
+        1
+      ],
+      [
+        "verb",
+        [
+          [
+            "provide with light or lighting; illuminate.",
+            "m_en_gbus0581170.046",
+            "the room was lighted by a number of small lamps"
+          ],
+          [
+            "make (something) start burning; ignite.",
+            "m_en_gbus0581170.056",
+            "Allen gathered sticks and lit a fire"
+          ],
+          [
+            "come upon or discover by chance.",
+            "m_en_gbus0581190.010",
+            "he lit on a possible solution"
+          ],
+          [
+            "descend.",
+            "m_en_gbus0581190.019",
+            "from the horse he lit down",
+            [
+              [
+                "archaic"
+              ]
+            ]
+          ]
+        ],
+        "light",
+        2
+      ],
+      [
+        "adjective",
+        [
+          [
+            "having a considerable or sufficient amount of natural light; not dark.",
+            "m_en_gbus0581170.061",
+            "the bedrooms are light and airy"
+          ],
+          [
+            "(of a color) pale.",
+            "m_en_gbus0581170.066",
+            "her eyes were light blue"
+          ],
+          [
+            "of little weight; not heavy.",
+            "m_en_gbus0581180.008",
+            "they are very light and portable"
+          ],
+          [
+            "relatively low in density, amount, or intensity.",
+            "m_en_gbus0581180.021",
+            "passenger traffic was light"
+          ],
+          [
+            "(of food or a meal) small in quantity and easy to digest.",
+            "m_en_gbus0581180.025",
+            "a light supper"
+          ],
+          [
+            "gentle or delicate.",
+            "m_en_gbus0581180.030",
+            "she planted a light kiss on his cheek"
+          ],
+          [
+            "(of entertainment) requiring little mental effort; not profound or serious.",
+            "m_en_gbus0581180.033",
+            "pop is thought of as light entertainment"
+          ],
+          [
+            "(of a woman) having many casual sexual encounters or relationships.",
+            "m_en_gbus0581180.037",
+            null,
+            [
+              [
+                "archaic"
+              ]
+            ]
+          ]
+        ],
+        "light",
+        3
+      ]
+    ],
+    [
+      [
+        [
+          "she planted a <b>light</b> kiss on his cheek",
+          null,
+          null,
+          null,
+          null,
+          "m_en_gbus0581180.030"
+        ],
+        [
+          "he received a relatively <b>light</b> sentence",
+          null,
+          null,
+          null,
+          null,
+          "m_en_gbus0581180.023"
+        ],
+        [
+          "a glass of <b>light</b> Hungarian wine",
+          null,
+          null,
+          null,
+          null,
+          "m_en_gbus0581180.027"
+        ],
+        [
+          "<b>light</b> commercial vehicles",
+          null,
+          null,
+          null,
+          null,
+          "m_en_gbus0581180.015"
+        ],
+        [
+          "turn right at the <b>light</b>",
+          null,
+          null,
+          null,
+          null,
+          "m_en_gbus0581170.014"
+        ],
+        [
+          "his tone was <b>light</b>",
+          null,
+          null,
+          null,
+          null,
+          "m_en_gbus0581180.034"
+        ],
+        [
+          "I'm a <b>light</b> sleeper",
+          null,
+          null,
+          null,
+          null,
+          "m_en_gbus0581180.022"
+        ],
+        [
+          "<b>light</b> summer breezes",
+          null,
+          null,
+          null,
+          null,
+          "m_en_gbus0581180.021"
+        ],
+        [
+          "a <b>light</b> supper",
+          null,
+          null,
+          null,
+          null,
+          "m_en_gbus0581180.025"
+        ],
+        [
+          "the plant requires good <b>light</b>",
+          null,
+          null,
+          null,
+          null,
+          "m_en_gbus0581170.015"
+        ],
+        [
+          "her sleep was <b>light</b> and fitful",
+          null,
+          null,
+          null,
+          null,
+          "m_en_gbus0581180.022"
+        ],
+        [
+          "trading was <b>light</b> for most of the day",
+          null,
+          null,
+          null,
+          null,
+          "m_en_gbus0581180.021"
+        ],
+        [
+          "her eyes were <b>light</b> blue",
+          null,
+          null,
+          null,
+          null,
+          "m_en_gbus0581170.066"
+        ],
+        [
+          "stick to a <b>light</b> diet",
+          null,
+          null,
+          null,
+          null,
+          "m_en_gbus0581180.026"
+        ],
+        [
+          "the bedrooms are <b>light</b> and airy",
+          null,
+          null,
+          null,
+          null,
+          "m_en_gbus0581170.061"
+        ],
+        [
+          "the gas wouldn't <b>light</b> properly",
+          null,
+          null,
+          null,
+          null,
+          "m_en_gbus0581170.057"
+        ],
+        [
+          "some <b>light</b> reading",
+          null,
+          null,
+          null,
+          null,
+          "m_en_gbus0581180.033"
+        ],
+        [
+          "it was almost <b>light</b> outside",
+          null,
+          null,
+          null,
+          null,
+          "m_en_gbus0581170.061"
+        ],
+        [
+          "pop is thought of as <b>light</b> entertainment",
+          null,
+          null,
+          null,
+          null,
+          "m_en_gbus0581180.033"
+        ],
+        [
+          "they are very <b>light</b> and portable",
+          null,
+          null,
+          null,
+          null,
+          "m_en_gbus0581180.008"
+        ],
+        [
+          "the <b>light</b> of the sun",
+          null,
+          null,
+          null,
+          null,
+          "m_en_gbus0581170.007"
+        ],
+        [
+          "a shrewd <b>light</b> entered his eyes",
+          null,
+          null,
+          null,
+          null,
+          "m_en_gbus0581170.021"
+        ],
+        [
+          "the sack of potatoes is 5 pounds <b>light</b>",
+          null,
+          null,
+          null,
+          null,
+          "m_en_gbus0581180.012"
+        ],
+        [
+          "the street lamps shed a faint <b>light</b> into the room",
+          null,
+          null,
+          null,
+          null,
+          "m_en_gbus0581170.007"
+        ],
+        [
+          "you're as <b>light</b> as a feather",
+          null,
+          null,
+          null,
+          null,
+          "m_en_gbus0581180.008"
+        ],
+        [
+          "it was delicious, the pastry <b>light</b> and flaky",
+          null,
+          null,
+          null,
+          null,
+          "m_en_gbus0581180.028"
+        ],
+        [
+          "a <b>light</b> came on in his room",
+          null,
+          null,
+          null,
+          null,
+          "m_en_gbus0581170.009"
+        ],
+        [
+          "he asked me for a <b>light</b>",
+          null,
+          null,
+          null,
+          null,
+          "m_en_gbus0581170.029"
+        ],
+        [
+          "some <b>light</b> housework",
+          null,
+          null,
+          null,
+          null,
+          "m_en_gbus0581180.023"
+        ],
+        [
+          "my breathing was steady and <b>light</b>",
+          null,
+          null,
+          null,
+          null,
+          "m_en_gbus0581180.030"
+        ]
+      ]
+    ]
+  ]
+}

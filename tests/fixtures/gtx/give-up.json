@@ -1,0 +1,102 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=vi&q=give+up&dt=t&dt=bd&dt=ss&dt=at&dt=md&dt=ex",
+    "headers": {}
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json; charset=utf-8"
+  },
+  "elapsedMs": 80,
+  "fetchedAt": "2026-09-14T15:41:19.577Z",
+  "body": [
+    [
+      [
+        "bỏ cuộc",
+        "give up",
+        null,
+        null,
+        10
+      ]
+    ],
+    [
+      [
+        "verb",
+        [
+          "từ chối"
+        ],
+        [
+          [
+            "từ chối",
+            [
+              "refuse",
+              "reject",
+              "deny",
+              "decline",
+              "withhold",
+              "give up"
+            ]
+          ]
+        ],
+        "give up",
+        2
+      ]
+    ],
+    "en",
+    null,
+    null,
+    [
+      [
+        "give up",
+        null,
+        [
+          [
+            "bỏ cuộc",
+            null,
+            true,
+            false,
+            [
+              10
+            ]
+          ],
+          [
+            "từ bỏ",
+            null,
+            true,
+            false,
+            [
+              3
+            ],
+            null,
+            [
+              [
+                3
+              ]
+            ]
+          ],
+          [
+            "buông xuôi",
+            null,
+            true,
+            false,
+            [
+              8
+            ]
+          ]
+        ],
+        [
+          [
+            0,
+            7
+          ]
+        ],
+        "give up",
+        0,
+        0
+      ]
+    ],
+    null,
+    []
+  ]
+}

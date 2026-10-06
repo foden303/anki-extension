@@ -1,0 +1,205 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://api.datamuse.com/words?max=20&rel_jjb=decision&md=pf",
+    "headers": {}
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json"
+  },
+  "elapsedMs": 387,
+  "fetchedAt": "2026-09-14T15:41:14.559Z",
+  "body": [
+    {
+      "word": "final",
+      "score": 1001,
+      "tags": [
+        "adj",
+        "n",
+        "v",
+        "f:86.538436"
+      ]
+    },
+    {
+      "word": "important",
+      "score": 1000,
+      "tags": [
+        "adj",
+        "f:310.080991"
+      ]
+    },
+    {
+      "word": "right",
+      "score": 999,
+      "tags": [
+        "adj",
+        "n",
+        "adv",
+        "v",
+        "f:336.057616"
+      ]
+    },
+    {
+      "word": "conscious",
+      "score": 998,
+      "tags": [
+        "adj",
+        "n",
+        "f:26.874374"
+      ]
+    },
+    {
+      "word": "political",
+      "score": 997,
+      "tags": [
+        "adj",
+        "n",
+        "f:257.231452"
+      ]
+    },
+    {
+      "word": "judicial",
+      "score": 996,
+      "tags": [
+        "adj",
+        "n",
+        "f:15.421325"
+      ]
+    },
+    {
+      "word": "difficult",
+      "score": 995,
+      "tags": [
+        "adj",
+        "v",
+        "f:124.633346"
+      ]
+    },
+    {
+      "word": "ultimate",
+      "score": 994,
+      "tags": [
+        "adj",
+        "n",
+        "v",
+        "f:24.263417"
+      ]
+    },
+    {
+      "word": "major",
+      "score": 993,
+      "tags": [
+        "adj",
+        "n",
+        "v",
+        "f:167.678075"
+      ]
+    },
+    {
+      "word": "recent",
+      "score": 992,
+      "tags": [
+        "adj",
+        "n",
+        "f:81.625616"
+      ]
+    },
+    {
+      "word": "unanimous",
+      "score": 991,
+      "tags": [
+        "adj",
+        "f:2.911132"
+      ]
+    },
+    {
+      "word": "quick",
+      "score": 990,
+      "tags": [
+        "adj",
+        "adv",
+        "n",
+        "v",
+        "f:28.974385"
+      ]
+    },
+    {
+      "word": "initial",
+      "score": 989,
+      "tags": [
+        "adj",
+        "n",
+        "v",
+        "f:62.731493"
+      ]
+    },
+    {
+      "word": "informed",
+      "score": 988,
+      "tags": [
+        "adj",
+        "f:25.240795"
+      ]
+    },
+    {
+      "word": "wrong",
+      "score": 987,
+      "tags": [
+        "adj",
+        "adv",
+        "n",
+        "v",
+        "f:63.088222"
+      ]
+    },
+    {
+      "word": "personal",
+      "score": 986,
+      "tags": [
+        "adj",
+        "n",
+        "f:121.031204"
+      ]
+    },
+    {
+      "word": "wise",
+      "score": 985,
+      "tags": [
+        "adj",
+        "n",
+        "v",
+        "f:23.517586"
+      ]
+    },
+    {
+      "word": "rational",
+      "score": 984,
+      "tags": [
+        "adj",
+        "n",
+        "f:23.678479"
+      ]
+    },
+    {
+      "word": "earlier",
+      "score": 983,
+      "tags": [
+        "adv",
+        "adj",
+        "f:94.626099"
+      ]
+    },
+    {
+      "word": "correct",
+      "score": 982,
+      "tags": [
+        "adj",
+        "v",
+        "n",
+        "adv",
+        "f:51.084068"
+      ]
+    }
+  ]
+}

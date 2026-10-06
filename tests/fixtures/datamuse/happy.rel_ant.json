@@ -1,0 +1,52 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://api.datamuse.com/words?max=20&rel_ant=happy&md=pf",
+    "headers": {}
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json"
+  },
+  "elapsedMs": 424,
+  "fetchedAt": "2026-09-14T15:41:08.792Z",
+  "body": [
+    {
+      "word": "sad",
+      "score": 32055,
+      "tags": [
+        "adj",
+        "v",
+        "n",
+        "f:16.697201"
+      ]
+    },
+    {
+      "word": "distressed",
+      "score": 29032,
+      "tags": [
+        "adj",
+        "f:3.342835"
+      ]
+    },
+    {
+      "word": "unhappy",
+      "score": 12036,
+      "tags": [
+        "adj",
+        "n",
+        "v",
+        "f:9.383148"
+      ]
+    },
+    {
+      "word": "dysphoric",
+      "score": 5018,
+      "tags": [
+        "n",
+        "adj",
+        "f:0.166486"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://en.wiktionary.org/api/rest_v1/page/definition/give_up",
+    "headers": {
+      "Api-User-Agent": "anki-add-vocabulary-fixture-probe/0.1 (local development)"
+    }
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json; charset=utf-8; profile=\"https://www.mediawiki.org/wiki/Specs/definition/0.8.1\""
+  },
+  "elapsedMs": 474,
+  "fetchedAt": "2026-09-14T15:41:17.485Z",
+  "body": {
+    "en": [
+      {
+        "partOfSpeech": "Verb",
+        "language": "English",
+        "definitions": [
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt4\" typeof=\"mw:Transclusion\"></span> To <a rel=\"mw:WikiLink\" href=\"/wiki/surrender\" title=\"surrender\">surrender</a> ; to <a rel=\"mw:WikiLink\" href=\"/wiki/inform\" title=\"inform\">inform</a> on (someone).",
+            "parsedExamples": [
+              {
+                "example": "He was surrounded, so <b>gave</b> himself <b>up</b>."
+              },
+              {
+                "example": "They <b>gave</b> him <b>up</b> to the police."
+              }
+            ],
+            "examples": [
+              "He was surrounded, so <b>gave</b> himself <b>up</b>.",
+              "They <b>gave</b> him <b>up</b> to the police."
+            ]
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt9\" typeof=\"mw:Transclusion\"></span> To <a rel=\"mw:WikiLink\" href=\"/wiki/relinquish\" title=\"relinquish\">relinquish</a>",
+            "parsedExamples": [
+              {
+                "example": "He <b>gave up</b> his seat to an old man."
+              },
+              {
+                "example": "The king <b>gave up</b> land in exchange for peace."
+              }
+            ],
+            "examples": [
+              "He <b>gave up</b> his seat to an old man.",
+              "The king <b>gave up</b> land in exchange for peace."
+            ]
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt16\" typeof=\"mw:Transclusion\"></span> Devote or dedicate (<i>oneself, one's life</i>, etc.) to something.",
+            "parsedExamples": [
+              {
+                "example": "I <b>gave</b> myself <b>up</b> to working for this cause."
+              },
+              {
+                "example": "She persuaded us to <b>give up</b> our time to the project."
+              }
+            ],
+            "examples": [
+              "I <b>gave</b> myself <b>up</b> to working for this cause.",
+              "She persuaded us to <b>give up</b> our time to the project."
+            ]
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt19\" typeof=\"mw:Transclusion\"></span> To have someone obtain (something) to one's disadvantage; to <a rel=\"mw:WikiLink\" href=\"/wiki/concede\" title=\"concede\">concede</a>.",
+            "parsedExamples": [
+              {
+                "example": "A good pitcher will <b>give up</b> very few home runs."
+              },
+              {
+                "example": "Don't tell them where you are, and try not to <b>give up</b> any clues either."
+              }
+            ],
+            "examples": [
+              "A good pitcher will <b>give up</b> very few home runs.",
+              "Don't tell them where you are, and try not to <b>give up</b> any clues either."
+            ]
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt23\" typeof=\"mw:Transclusion\"></span> To <a rel=\"mw:WikiLink\" href=\"/wiki/stop\" title=\"stop\">stop</a> or <a rel=\"mw:WikiLink\" href=\"/wiki/quit\" title=\"quit\">quit</a> .",
+            "parsedExamples": [
+              {
+                "example": "They <b>gave up</b> the search when it got dark."
+              }
+            ],
+            "examples": [
+              "They <b>gave up</b> the search when it got dark."
+            ]
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt29\" typeof=\"mw:Transclusion\"></span> To <a rel=\"mw:WikiLink\" href=\"/wiki/abandon\" title=\"abandon\">abandon</a>",
+            "parsedExamples": [
+              {
+                "example": "I <b>gave up</b> my faith years ago."
+              }
+            ],
+            "examples": [
+              "I <b>gave up</b> my faith years ago."
+            ]
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt37\" typeof=\"mw:Transclusion\"></span> To <a rel=\"mw:WikiLink\" href=\"/wiki/lose\" title=\"lose\">lose</a> <a rel=\"mw:WikiLink\" href=\"/wiki/hope\" title=\"hope\">hope</a> concerning",
+            "parsedExamples": [
+              {
+                "example": "They <b>gave him up</b> for dead."
+              }
+            ],
+            "examples": [
+              "They <b>gave him up</b> for dead."
+            ]
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt40\" typeof=\"mw:Transclusion\"></span> To <a rel=\"mw:WikiLink\" href=\"/wiki/admit\" title=\"admit\">admit</a> <a rel=\"mw:WikiLink\" href=\"/wiki/defeat\" title=\"defeat\">defeat</a>, <a rel=\"mw:WikiLink\" href=\"/wiki/capitulate\" title=\"capitulate\">capitulate</a>; to <a rel=\"mw:WikiLink\" href=\"/wiki/desist\" title=\"desist\">desist</a> for that reason.",
+            "parsedExamples": [
+              {
+                "example": "OK, I <b>give up</b>, you win."
+              }
+            ],
+            "examples": [
+              "OK, I <b>give up</b>, you win."
+            ]
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt45\" typeof=\"mw:Transclusion\"></span> To <a rel=\"mw:WikiLink\" href=\"/wiki/execute\" title=\"execute\">execute</a> a <a rel=\"mw:WikiLink\" href=\"/wiki/trade\" title=\"trade\">trade</a> <a rel=\"mw:WikiLink\" href=\"/wiki/on_behalf_of\" title=\"on behalf of\">on behalf of</a> another <a rel=\"mw:WikiLink\" href=\"/wiki/broker\" title=\"broker\">broker</a>."
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt46\" typeof=\"mw:Transclusion\"></span> To <a rel=\"mw:WikiLink\" href=\"/wiki/acknowledge#Verb\" title=\"acknowledge\">acknowledge</a>, <a rel=\"mw:WikiLink\" href=\"/wiki/recognize#Verb\" title=\"recognize\">recognize</a> as."
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt48\" typeof=\"mw:Transclusion\"></span> To reveal (something).",
+            "parsedExamples": [
+              {
+                "example": "He <b>gave up</b> that he was the one who opened the door."
+              }
+            ],
+            "examples": [
+              "He <b>gave up</b> that he was the one who opened the door."
+            ]
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "Adjective",
+        "language": "English",
+        "definitions": [
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt335\" typeof=\"mw:Transclusion\"></span> Become fully taken over by a certain quality, activity, trait, etc."
+          }
+        ]
+      }
+    ]
+  }
+}

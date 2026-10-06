@@ -1,0 +1,183 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://api.datamuse.com/words?max=20&rel_jja=decision&md=pf",
+    "headers": {}
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json"
+  },
+  "elapsedMs": 295,
+  "fetchedAt": "2026-09-14T15:41:14.171Z",
+  "body": [
+    {
+      "word": "making",
+      "score": 1001,
+      "tags": [
+        "n",
+        "f:163.367031"
+      ]
+    },
+    {
+      "word": "makers",
+      "score": 1000,
+      "tags": [
+        "n",
+        "f:10.738161"
+      ]
+    },
+    {
+      "word": "maker",
+      "score": 999,
+      "tags": [
+        "n",
+        "f:7.302854"
+      ]
+    },
+    {
+      "word": "support",
+      "score": 998,
+      "tags": [
+        "n",
+        "v",
+        "f:167.340302"
+      ]
+    },
+    {
+      "word": "procedure",
+      "score": 997,
+      "tags": [
+        "n",
+        "f:65.430553"
+      ]
+    },
+    {
+      "word": "process",
+      "score": 996,
+      "tags": [
+        "n",
+        "v",
+        "f:257.175940"
+      ]
+    },
+    {
+      "word": "taking",
+      "score": 995,
+      "tags": [
+        "n",
+        "adj",
+        "f:93.902423"
+      ]
+    },
+    {
+      "word": "decoding",
+      "score": 994,
+      "tags": [
+        "n",
+        "f:1.710005"
+      ]
+    },
+    {
+      "word": "rules",
+      "score": 993,
+      "tags": [
+        "n",
+        "f:76.107582"
+      ]
+    },
+    {
+      "word": "tree",
+      "score": 992,
+      "tags": [
+        "n",
+        "v",
+        "f:55.037083"
+      ]
+    },
+    {
+      "word": "procedures",
+      "score": 991,
+      "tags": [
+        "n",
+        "f:49.117821"
+      ]
+    },
+    {
+      "word": "takers",
+      "score": 990,
+      "tags": [
+        "N",
+        "f:0.856255"
+      ]
+    },
+    {
+      "word": "trap",
+      "score": 989,
+      "tags": [
+        "n",
+        "v",
+        "f:9.513289"
+      ]
+    },
+    {
+      "word": "oriented",
+      "score": 988,
+      "tags": [
+        "adj",
+        "f:22.901844"
+      ]
+    },
+    {
+      "word": "dissonance",
+      "score": 987,
+      "tags": [
+        "n",
+        "f:1.662627"
+      ]
+    },
+    {
+      "word": "based",
+      "score": 986,
+      "tags": [
+        "v",
+        "adj",
+        "f:189.719625"
+      ]
+    },
+    {
+      "word": "feedback",
+      "score": 985,
+      "tags": [
+        "n",
+        "v",
+        "f:18.492466"
+      ]
+    },
+    {
+      "word": "aiding",
+      "score": 984,
+      "tags": [
+        "n",
+        "f:1.633794"
+      ]
+    },
+    {
+      "word": "decoder",
+      "score": 983,
+      "tags": [
+        "n",
+        "f:0.926350"
+      ]
+    },
+    {
+      "word": "regret",
+      "score": 982,
+      "tags": [
+        "n",
+        "v",
+        "f:7.797501"
+      ]
+    }
+  ]
+}

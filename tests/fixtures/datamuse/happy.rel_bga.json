@@ -1,0 +1,197 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://api.datamuse.com/words?max=20&rel_bga=happy&md=pf",
+    "headers": {}
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json"
+  },
+  "elapsedMs": 297,
+  "fetchedAt": "2026-09-14T15:41:09.090Z",
+  "body": [
+    {
+      "word": "to",
+      "score": 113072,
+      "tags": [
+        "adv",
+        "n",
+        "f:6737.872536"
+      ]
+    },
+    {
+      "word": ".",
+      "score": 106202,
+      "tags": [
+        "f:0.000000"
+      ]
+    },
+    {
+      "word": "and",
+      "score": 51385,
+      "tags": [
+        "n",
+        "v",
+        "adj",
+        "f:1122.503704"
+      ]
+    },
+    {
+      "word": "in",
+      "score": 37112,
+      "tags": [
+        "adv",
+        "adj",
+        "n",
+        "v",
+        "f:13718.174726"
+      ]
+    },
+    {
+      "word": "with",
+      "score": 36390,
+      "tags": [
+        "adv",
+        "n",
+        "f:4197.855552"
+      ]
+    },
+    {
+      "word": "as",
+      "score": 21003,
+      "tags": [
+        "adv",
+        "n",
+        "f:3178.485243"
+      ]
+    },
+    {
+      "word": "that",
+      "score": 15894,
+      "tags": [
+        "adv",
+        "n",
+        "f:5454.541130"
+      ]
+    },
+    {
+      "word": "about",
+      "score": 15304,
+      "tags": [
+        "adv",
+        "adj",
+        "v",
+        "f:963.500775"
+      ]
+    },
+    {
+      "word": "for",
+      "score": 13391,
+      "tags": [
+        "n",
+        "f:5330.802977"
+      ]
+    },
+    {
+      "word": "ending",
+      "score": 12042,
+      "tags": [
+        "n",
+        "f:14.914838"
+      ]
+    },
+    {
+      "word": "life",
+      "score": 11246,
+      "tags": [
+        "n",
+        "v",
+        "f:484.140126"
+      ]
+    },
+    {
+      "word": "days",
+      "score": 9755,
+      "tags": [
+        "n",
+        "adv",
+        "f:178.399817"
+      ]
+    },
+    {
+      "word": "one",
+      "score": 9724,
+      "tags": [
+        "n",
+        "adj",
+        "v",
+        "f:1709.119485"
+      ]
+    },
+    {
+      "word": "when",
+      "score": 8861,
+      "tags": [
+        "adv",
+        "n",
+        "f:691.686007"
+      ]
+    },
+    {
+      "word": "at",
+      "score": 8498,
+      "tags": [
+        "n",
+        "adj",
+        "f:2665.094377"
+      ]
+    },
+    {
+      "word": "if",
+      "score": 7991,
+      "tags": [
+        "n",
+        "f:254.361739"
+      ]
+    },
+    {
+      "word": "or",
+      "score": 7665,
+      "tags": [
+        "n",
+        "adj",
+        "adv",
+        "f:203.816421"
+      ]
+    },
+    {
+      "word": "man",
+      "score": 7403,
+      "tags": [
+        "n",
+        "adj",
+        "v",
+        "f:430.851569"
+      ]
+    },
+    {
+      "word": "family",
+      "score": 7309,
+      "tags": [
+        "n",
+        "adj",
+        "f:254.593884"
+      ]
+    },
+    {
+      "word": "birthday",
+      "score": 7139,
+      "tags": [
+        "n",
+        "v",
+        "f:9.106298"
+      ]
+    }
+  ]
+}

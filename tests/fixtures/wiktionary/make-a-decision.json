@@ -1,0 +1,36 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://en.wiktionary.org/api/rest_v1/page/definition/make_a_decision",
+    "headers": {
+      "Api-User-Agent": "anki-add-vocabulary-fixture-probe/0.1 (local development)"
+    }
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json; charset=utf-8; profile=\"https://www.mediawiki.org/wiki/Specs/definition/0.8.1\""
+  },
+  "elapsedMs": 828,
+  "fetchedAt": "2026-09-14T15:41:18.315Z",
+  "body": {
+    "en": [
+      {
+        "partOfSpeech": "Verb",
+        "language": "English",
+        "definitions": [
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt4\" typeof=\"mw:Transclusion\"></span> To <a rel=\"mw:WikiLink\" href=\"/wiki/decide\" title=\"decide\">decide</a>.",
+            "parsedExamples": [
+              {
+                "example": "You need to <b>make a decision</b> whether or not to go."
+              }
+            ],
+            "examples": [
+              "You need to <b>make a decision</b> whether or not to go."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

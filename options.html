@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Anki Add Vocabulary — Settings</title>
+  <link rel="stylesheet" href="options.css">
+</head>
+<body>
+  <main>
+    <h1>Anki Add Vocabulary</h1>
+    <p class="lede">Selected vocabulary is translated and enriched for a preview. It is added to Anki only after you review the card, choose a deck, and confirm Add.</p>
+    <section>
+      <h2>AnkiConnect</h2>
+      <label>AnkiConnect URL<input id="ankiUrl" inputmode="url" value="http://127.0.0.1:8765"></label>
+      <p>Default AnkiConnect port is 8765. If another local application occupies it, configure AnkiConnect on another local port and enter that exact loopback URL here.</p>
+      <label>AnkiConnect API key <span class="optional">optional</span><input id="ankiApiKey" type="password" autocomplete="off"></label>
+      <button id="test" class="primary">Test Anki connection</button>
+      <output id="result" aria-live="polite"></output>
+    </section>
+    <section>
+      <h2>Note types</h2>
+      <p>Words are added to <code>VocabBot Word</code> and collocations to <code>VocabBot Collocation</code>. A missing note type is created on your first add. An existing note type is never changed unless you click Upgrade here.</p>
+      <button id="checkModels" class="secondary">Check note types</button>
+      <ul id="models" class="models" aria-live="polite"></ul>
+      <button id="upgradeModels" class="primary" hidden>Upgrade card templates</button>
+      <output id="modelResult" aria-live="polite"></output>
+    </section>
+    <section>
+      <h2>Translation language</h2>
+      <label>Default target language
+        <select id="targetLanguage">
+          <option value="vi">🇻🇳 VI — Vietnamese</option>
+          <option value="en">🇺🇸 EN — English</option>
+          <option value="ja">🇯🇵 JA — Japanese</option>
+          <option value="ko">🇰🇷 KO — Korean</option>
+          <option value="zh-CN">🇨🇳 ZH — Chinese</option>
+          <option value="fr">🇫🇷 FR — French</option>
+          <option value="de">🇩🇪 DE — German</option>
+          <option value="es">🇪🇸 ES — Spanish</option>
+          <option value="th">🇹🇭 TH — Thai</option>
+          <option value="ru">🇷🇺 RU — Russian</option>
+          <option value="pt">🇧🇷 PT — Portuguese</option>
+          <option value="it">🇮🇹 IT — Italian</option>
+          <option value="ar">🇸🇦 AR — Arabic</option>
+          <option value="hi">🇮🇳 HI — Hindi</option>
+          <option value="id">🇮🇩 ID — Indonesian</option>
+          <option value="tr">🇹🇷 TR — Turkish</option>
+          <option value="pl">🇵🇱 PL — Polish</option>
+          <option value="nl">🇳🇱 NL — Dutch</option>
+          <option value="sv">🇸🇪 SV — Swedish</option>
+          <option value="ms">🇲🇾 MS — Malay</option>
+        </select>
+      </label>
+      <p>The source language is detected automatically for every selection. You can also switch the target language directly from the translation screen.</p>
+    </section>
+    <section>
+      <h2>Privacy</h2>
+      <p>The extension sends only the selected word or phrase to <code>translate.googleapis.com</code>, <code>api.datamuse.com</code>, and <code>en.wiktionary.org</code>; a single English word is also looked up at <code>api.dictionaryapi.dev</code>. It never sends the page sentence, page HTML, cookies, or your source URL to those services.</p>
+      <p>Use the checkbox on the translation screen to disable automatic translation for the current site.</p>
+    </section>
+    <section>
+      <h2>Keyboard</h2>
+      <p><kbd>Alt</kbd> + <kbd>A</kbd> translates the selection. One word opens the word flow; two or more words open the collocation flow.</p>
+    </section>
+  </main>
+  <script type="module" src="options.js"></script>
+</body>
+</html>

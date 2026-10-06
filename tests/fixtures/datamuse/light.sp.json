@@ -1,0 +1,26 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://api.datamuse.com/words?max=1&sp=light&md=pf",
+    "headers": {}
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json"
+  },
+  "elapsedMs": 572,
+  "fetchedAt": "2026-09-14T15:41:02.808Z",
+  "body": [
+    {
+      "word": "light",
+      "score": 202124,
+      "tags": [
+        "n",
+        "adj",
+        "v",
+        "adv",
+        "f:173.467557"
+      ]
+    }
+  ]
+}

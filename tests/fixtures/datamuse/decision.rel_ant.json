@@ -1,0 +1,31 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://api.datamuse.com/words?max=20&rel_ant=decision&md=pf",
+    "headers": {}
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json"
+  },
+  "elapsedMs": 293,
+  "fetchedAt": "2026-09-14T15:41:13.278Z",
+  "body": [
+    {
+      "word": "indecision",
+      "score": 5033,
+      "tags": [
+        "n",
+        "f:1.024692"
+      ]
+    },
+    {
+      "word": "indecisiveness",
+      "score": 1024,
+      "tags": [
+        "n",
+        "f:0.181668"
+      ]
+    }
+  ]
+}

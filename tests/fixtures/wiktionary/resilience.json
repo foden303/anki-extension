@@ -1,0 +1,37 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://en.wiktionary.org/api/rest_v1/page/definition/resilience",
+    "headers": {
+      "Api-User-Agent": "anki-add-vocabulary-fixture-probe/0.1 (local development)"
+    }
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json; charset=utf-8; profile=\"https://www.mediawiki.org/wiki/Specs/definition/0.8.1\""
+  },
+  "elapsedMs": 524,
+  "fetchedAt": "2026-09-14T15:41:19.279Z",
+  "body": {
+    "en": [
+      {
+        "partOfSpeech": "Noun",
+        "language": "English",
+        "definitions": [
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt14\" typeof=\"mw:Transclusion\"></span> The mental ability to recover quickly from <a rel=\"mw:WikiLink\" href=\"/wiki/depression\" title=\"depression\">depression</a>, <a rel=\"mw:WikiLink\" href=\"/wiki/illness\" title=\"illness\">illness</a> or <a rel=\"mw:WikiLink\" href=\"/wiki/misfortune\" title=\"misfortune\">misfortune</a>."
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt18\" typeof=\"mw:Transclusion\"></span> The physical property of material that can resume its shape after being <a rel=\"mw:WikiLink\" href=\"/wiki/stretched\" title=\"stretched\">stretched</a> or <a rel=\"mw:WikiLink\" href=\"/wiki/deformed\" title=\"deformed\">deformed</a>; <a rel=\"mw:WikiLink\" href=\"/wiki/elasticity\" title=\"elasticity\">elasticity</a>."
+          },
+          {
+            "definition": "The positive capacity of an organizational system or company to adapt and return to equilibrium after a crisis, failure or any kind of disruption, including: an <a rel=\"mw:WikiLink\" href=\"/wiki/outage\" title=\"outage\">outage</a>, natural disasters, man-made disasters, terrorism, or similar (particularly <a rel=\"mw:WikiLink\" href=\"/wiki/IT\" title=\"IT\">IT</a> systems, <a rel=\"mw:WikiLink\" href=\"/wiki/archive\" title=\"archive\">archives</a>)."
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt23\" typeof=\"mw:Transclusion\"></span> The capacity to resist destruction or defeat, especially when under extreme pressure."
+          }
+        ]
+      }
+    ]
+  }
+}

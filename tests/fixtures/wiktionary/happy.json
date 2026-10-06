@@ -1,0 +1,198 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://en.wiktionary.org/api/rest_v1/page/definition/happy",
+    "headers": {
+      "Api-User-Agent": "anki-add-vocabulary-fixture-probe/0.1 (local development)"
+    }
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json; charset=utf-8; profile=\"https://www.mediawiki.org/wiki/Specs/definition/0.8.1\""
+  },
+  "elapsedMs": 55,
+  "fetchedAt": "2026-09-14T15:41:16.428Z",
+  "body": {
+    "en": [
+      {
+        "partOfSpeech": "Adjective",
+        "language": "English",
+        "definitions": [
+          {
+            "definition": "Having a <a rel=\"mw:WikiLink\" href=\"/wiki/feeling\" title=\"feeling\">feeling</a> <a rel=\"mw:WikiLink\" href=\"/wiki/arise\" title=\"arise\">arising</a> from a <a rel=\"mw:WikiLink\" href=\"/wiki/consciousness\" title=\"consciousness\">consciousness</a> of <a rel=\"mw:WikiLink\" href=\"/wiki/well-being\" title=\"well-being\">well-being</a> or of <a rel=\"mw:WikiLink\" href=\"/wiki/enjoyment\" title=\"enjoyment\">enjoyment</a>; <a rel=\"mw:WikiLink\" href=\"/wiki/enjoy\" title=\"enjoy\">enjoying</a> <a rel=\"mw:WikiLink\" href=\"/wiki/good\" title=\"good\">good</a> of any kind, such as <a rel=\"mw:WikiLink\" href=\"/wiki/comfort\" title=\"comfort\">comfort</a>, <a rel=\"mw:WikiLink\" href=\"/wiki/peace\" title=\"peace\">peace</a>, or <a rel=\"mw:WikiLink\" href=\"/wiki/tranquillity\" title=\"tranquillity\">tranquillity</a>; <a rel=\"mw:WikiLink\" href=\"/wiki/blissful\" title=\"blissful\">blissful</a>, <a rel=\"mw:WikiLink\" href=\"/wiki/contented\" title=\"contented\">contented</a>, <a rel=\"mw:WikiLink\" href=\"/wiki/joyous\" title=\"joyous\">joyous</a>.",
+            "parsedExamples": [
+              {
+                "example": "Music makes me feel <b>happy</b>."
+              }
+            ],
+            "examples": [
+              "Music makes me feel <b>happy</b>."
+            ]
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt43\" typeof=\"mw:Transclusion\"></span> <a rel=\"mw:WikiLink\" href=\"/wiki/experience#Verb\" title=\"experience\">Experiencing</a> the effect of <a rel=\"mw:WikiLink\" href=\"/wiki/favourable\" title=\"favourable\">favourable</a> <a rel=\"mw:WikiLink\" href=\"/wiki/fortune\" title=\"fortune\">fortune</a>; <a rel=\"mw:WikiLink\" href=\"/wiki/favor#Verb\" title=\"favor\">favored</a> by fortune or <a rel=\"mw:WikiLink\" href=\"/wiki/luck\" title=\"luck\">luck</a>; <a rel=\"mw:WikiLink\" href=\"/wiki/fortunate\" title=\"fortunate\">fortunate</a>, <a rel=\"mw:WikiLink\" href=\"/wiki/lucky\" title=\"lucky\">lucky</a>."
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt48\" typeof=\"mw:Transclusion\"></span> <a rel=\"mw:WikiLink\" href=\"/wiki/elect\" title=\"elect\">Elect</a> or <a rel=\"mw:WikiLink\" href=\"/wiki/saved\" title=\"saved\">saved</a> after <a rel=\"mw:WikiLink\" href=\"/wiki/death\" title=\"death\">death</a>, <a rel=\"mw:WikiLink\" href=\"/wiki/blessed\" title=\"blessed\">blessed</a>."
+          },
+          {
+            "definition": "<a rel=\"mw:WikiLink\" href=\"/wiki/content#Adjective\" title=\"content\">Content</a>, <a rel=\"mw:WikiLink\" href=\"/wiki/willing\" title=\"willing\">willing</a>, <a rel=\"mw:WikiLink\" href=\"/wiki/satisfied\" title=\"satisfied\">satisfied</a> (with or to do something); having no <a rel=\"mw:WikiLink\" href=\"/wiki/objection\" title=\"objection\">objection</a> (to something).",
+            "parsedExamples": [
+              {
+                "example": "Are you <b>happy</b> to pay me back by the end of the week<span typeof=\"mw:Entity\">?</span>"
+              },
+              {
+                "example": "Yes, I am <b>happy</b> with the decision."
+              }
+            ],
+            "examples": [
+              "Are you <b>happy</b> to pay me back by the end of the week<span typeof=\"mw:Entity\">?</span>",
+              "Yes, I am <b>happy</b> with the decision."
+            ]
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt57\" typeof=\"mw:Transclusion\"></span> <span class=\"Latn\" lang=\"en\" about=\"#mwt58\" typeof=\"mw:Transclusion\"><a rel=\"mw:WikiLink\" href=\"/wiki/bringing#English\" title=\"bringing\">Bringing</a></span> or <a rel=\"mw:WikiLink\" href=\"/wiki/being\" title=\"being\">being</a> an instance of <a rel=\"mw:WikiLink\" href=\"/wiki/favourable\" title=\"favourable\">favourable</a> <a rel=\"mw:WikiLink\" href=\"/wiki/fortune\" title=\"fortune\">fortune</a>; <a rel=\"mw:WikiLink\" href=\"/wiki/apt\" title=\"apt\">apt</a>, <a rel=\"mw:WikiLink\" href=\"/wiki/felicitous\" title=\"felicitous\">felicitous</a>, <a rel=\"mw:WikiLink\" href=\"/wiki/fortunate\" title=\"fortunate\">fortunate</a>, <a rel=\"mw:WikiLink\" href=\"/wiki/propitious\" title=\"propitious\">propitious</a>.",
+            "parsedExamples": [
+              {
+                "example": "<b>happy</b> coincidence"
+              }
+            ],
+            "examples": [
+              "<b>happy</b> coincidence"
+            ]
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt66\" typeof=\"mw:Transclusion\"></span> <a rel=\"mw:WikiLink\" href=\"/wiki/favoring\" title=\"favoring\">Favoring</a> or <a rel=\"mw:WikiLink\" href=\"/wiki/inclined\" title=\"inclined\">inclined</a> to use.",
+            "parsedExamples": [
+              {
+                "example": "<a rel=\"mw:WikiLink\" href=\"/wiki/slaphappy#English\" title=\"slaphappy\">slap<b>happy</b></a>, <a rel=\"mw:WikiLink\" href=\"/wiki/trigger-happy#English\" title=\"trigger-happy\">trigger-<b>happy</b></a>"
+              }
+            ],
+            "examples": [
+              "<a rel=\"mw:WikiLink\" href=\"/wiki/slaphappy#English\" title=\"slaphappy\">slap<b>happy</b></a>, <a rel=\"mw:WikiLink\" href=\"/wiki/trigger-happy#English\" title=\"trigger-happy\">trigger-<b>happy</b></a>"
+            ]
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt70\" typeof=\"mw:Transclusion\"></span> <a rel=\"mw:WikiLink\" href=\"/wiki/dexterous\" title=\"dexterous\">Dexterous</a>, <a rel=\"mw:WikiLink\" href=\"/wiki/ready\" title=\"ready\">ready</a>, <a rel=\"mw:WikiLink\" href=\"/wiki/skilful\" title=\"skilful\">skilful</a>."
+          },
+          {
+            "definition": "<span class=\"use-with-mention\" about=\"#mwt72\" typeof=\"mw:Transclusion\">Implying “May you have a happy ⁓” or similar<span typeof=\"mw:Entity\">;</span> used in phrases to wish someone happiness or good fortune at the time of a festival, celebration, or other event or activity.</span>",
+            "parsedExamples": [
+              {
+                "example": "<b>Happy</b> birthday<span typeof=\"mw:Entity\">!</span>"
+              },
+              {
+                "example": "<b>Happy</b> Fourth of July<span typeof=\"mw:Entity\">!</span>"
+              },
+              {
+                "example": "<b>Happy</b> anniversary<span typeof=\"mw:Entity\">!</span>"
+              },
+              {
+                "example": "<b>Happy</b> job-hunting<span typeof=\"mw:Entity\">!</span>"
+              }
+            ],
+            "examples": [
+              "<b>Happy</b> birthday<span typeof=\"mw:Entity\">!</span>",
+              "<b>Happy</b> Fourth of July<span typeof=\"mw:Entity\">!</span>",
+              "<b>Happy</b> anniversary<span typeof=\"mw:Entity\">!</span>",
+              "<b>Happy</b> job-hunting<span typeof=\"mw:Entity\">!</span>"
+            ]
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "Noun",
+        "language": "English",
+        "definitions": [
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt560\" typeof=\"mw:Transclusion\"></span> A happy <a rel=\"mw:WikiLink\" href=\"/wiki/event\" title=\"event\">event</a>, <a rel=\"mw:WikiLink\" href=\"/wiki/thing\" title=\"thing\">thing</a>, <a rel=\"mw:WikiLink\" href=\"/wiki/person\" title=\"person\">person</a>, etc."
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "Verb",
+        "language": "English",
+        "definitions": [
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt563\" typeof=\"mw:Transclusion\"></span> <i>Often followed by</i> <b><span class=\"Latn\" lang=\"en\" about=\"#mwt564\" typeof=\"mw:Transclusion\"><a rel=\"mw:WikiLink\" href=\"/wiki/up#English\" title=\"up\">up</a></span></b>: to <a rel=\"mw:WikiLink\" href=\"/wiki/become\" title=\"become\">become</a> happy; to <a rel=\"mw:WikiLink\" href=\"/wiki/brighten_up\" title=\"brighten up\">brighten up</a>, to <a rel=\"mw:WikiLink\" href=\"/wiki/cheer_up\" title=\"cheer up\">cheer up</a>."
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt568\" typeof=\"mw:Transclusion\"></span> <i>Often followed by</i> <b><span class=\"Latn\" lang=\"en\" about=\"#mwt569\" typeof=\"mw:Transclusion\"><a rel=\"mw:WikiLink\" href=\"/wiki/up#English\" title=\"up\">up</a></span></b>: to <a rel=\"mw:WikiLink\" href=\"/wiki/make\" title=\"make\">make</a> happy; to <a rel=\"mw:WikiLink\" href=\"/wiki/brighten\" title=\"brighten\">brighten</a>, to <a rel=\"mw:WikiLink\" href=\"/wiki/cheer#Verb\" title=\"cheer\">cheer</a>, to <a rel=\"mw:WikiLink\" href=\"/wiki/enliven\" title=\"enliven\">enliven</a>."
+          }
+        ]
+      }
+    ],
+    "zh": [
+      {
+        "partOfSpeech": "Verb",
+        "language": "Chinese",
+        "definitions": [
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt579\" typeof=\"mw:Transclusion\"></span> to <a rel=\"mw:WikiLink\" href=\"/wiki/amuse\" title=\"amuse\">amuse</a> oneself"
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt580\" typeof=\"mw:Transclusion\"></span> to <a rel=\"mw:WikiLink\" href=\"/wiki/party\" title=\"party\">party</a>; to <a rel=\"mw:WikiLink\" href=\"/wiki/make_love\" title=\"make love\">make love</a>"
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "Adjective",
+        "language": "Chinese",
+        "definitions": [
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt582\" typeof=\"mw:Transclusion\"></span> <a rel=\"mw:WikiLink\" href=\"/wiki/happy#English\" class=\"mw-selflink-fragment\">happy</a>"
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "Adverb",
+        "language": "Chinese",
+        "definitions": [
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt584\" typeof=\"mw:Transclusion\"></span> <a rel=\"mw:WikiLink\" href=\"/wiki/happily\" title=\"happily\">happily</a>"
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "Adjective",
+        "language": "Chinese",
+        "definitions": [
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt588\" typeof=\"mw:Transclusion\"></span> <a rel=\"mw:WikiLink\" href=\"/wiki/happy#English\" class=\"mw-selflink-fragment\">happy</a>; <a rel=\"mw:WikiLink\" href=\"/wiki/delightful\" title=\"delightful\">delightful</a>; <a rel=\"mw:WikiLink\" href=\"/wiki/delighted\" title=\"delighted\">delighted</a>"
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "Adverb",
+        "language": "Chinese",
+        "definitions": [
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt590\" typeof=\"mw:Transclusion\"></span> <a rel=\"mw:WikiLink\" href=\"/wiki/happily\" title=\"happily\">happily</a>; <a rel=\"mw:WikiLink\" href=\"/wiki/delightfully\" title=\"delightfully\">delightfully</a>; <a rel=\"mw:WikiLink\" href=\"/wiki/delightedly\" title=\"delightedly\">delightedly</a>"
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "partOfSpeech": "Adjective",
+        "language": "German",
+        "definitions": [
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt598\" typeof=\"mw:Transclusion\"></span> <a rel=\"mw:WikiLink\" href=\"/wiki/glad\" title=\"glad\">glad</a>; <a rel=\"mw:WikiLink\" href=\"/wiki/satisfied\" title=\"satisfied\">satisfied</a>; momentarily <span class=\"Latn\" lang=\"en\" about=\"#mwt599\" typeof=\"mw:Transclusion\"><a rel=\"mw:WikiLink\" href=\"/wiki/happy#English\" class=\"mw-selflink-fragment\">happy</a></span>"
+          }
+        ]
+      }
+    ],
+    "other": [
+      {
+        "partOfSpeech": "Adjective",
+        "language": "Middle English",
+        "definitions": [
+          {
+            "definition": "<a rel=\"mw:WikiLink\" href=\"/wiki/fortunate\" title=\"fortunate\">fortunate</a>, <a rel=\"mw:WikiLink\" href=\"/wiki/prosperous\" title=\"prosperous\">prosperous</a>, <a rel=\"mw:WikiLink\" href=\"/wiki/lucky\" title=\"lucky\">lucky</a>; <a rel=\"mw:WikiLink\" href=\"/wiki/blessed\" title=\"blessed\">blessed</a>"
+          }
+        ]
+      }
+    ]
+  }
+}

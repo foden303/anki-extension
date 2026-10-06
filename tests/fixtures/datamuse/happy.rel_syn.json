@@ -1,0 +1,192 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://api.datamuse.com/words?max=20&rel_syn=happy&md=pf",
+    "headers": {}
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json"
+  },
+  "elapsedMs": 296,
+  "fetchedAt": "2026-09-14T15:41:08.366Z",
+  "body": [
+    {
+      "word": "halcyon",
+      "score": 61042,
+      "tags": [
+        "adj",
+        "n",
+        "f:0.295747"
+      ]
+    },
+    {
+      "word": "content",
+      "score": 57050,
+      "tags": [
+        "n",
+        "adj",
+        "v",
+        "f:73.803356"
+      ]
+    },
+    {
+      "word": "bright",
+      "score": 43054,
+      "tags": [
+        "adj",
+        "n",
+        "adv",
+        "v",
+        "f:28.536653"
+      ]
+    },
+    {
+      "word": "felicitous",
+      "score": 43032,
+      "tags": [
+        "adj",
+        "f:0.407329"
+      ]
+    },
+    {
+      "word": "riant",
+      "score": 41024,
+      "tags": [
+        "adj",
+        "f:0.038331"
+      ]
+    },
+    {
+      "word": "expansive",
+      "score": 36036,
+      "tags": [
+        "adj",
+        "f:2.045110"
+      ]
+    },
+    {
+      "word": "elysian",
+      "score": 34031,
+      "tags": [
+        "n",
+        "adj",
+        "prop",
+        "f:0.166716"
+      ]
+    },
+    {
+      "word": "joyful",
+      "score": 33031,
+      "tags": [
+        "adj",
+        "f:2.185022"
+      ]
+    },
+    {
+      "word": "pleased",
+      "score": 33028,
+      "tags": [
+        "adj",
+        "f:19.640009"
+      ]
+    },
+    {
+      "word": "euphoric",
+      "score": 28028,
+      "tags": [
+        "adj",
+        "n",
+        "f:0.468104"
+      ]
+    },
+    {
+      "word": "joyous",
+      "score": 25031,
+      "tags": [
+        "adj",
+        "f:2.050441"
+      ]
+    },
+    {
+      "word": "prosperous",
+      "score": 25030,
+      "tags": [
+        "adj",
+        "f:5.198194"
+      ]
+    },
+    {
+      "word": "blissful",
+      "score": 18028,
+      "tags": [
+        "adj",
+        "f:0.859597"
+      ]
+    },
+    {
+      "word": "blessed",
+      "score": 17035,
+      "tags": [
+        "adj",
+        "n",
+        "prop",
+        "f:11.260460"
+      ]
+    },
+    {
+      "word": "golden",
+      "score": 16045,
+      "tags": [
+        "adj",
+        "n",
+        "v",
+        "prop",
+        "f:23.076029"
+      ]
+    },
+    {
+      "word": "glad",
+      "score": 15043,
+      "tags": [
+        "adj",
+        "v",
+        "n",
+        "f:21.389943"
+      ]
+    },
+    {
+      "word": "fortunate",
+      "score": 15031,
+      "tags": [
+        "adj",
+        "f:7.807732"
+      ]
+    },
+    {
+      "word": "euphoriant",
+      "score": 10021,
+      "tags": [
+        "adj",
+        "n",
+        "f:0.018401"
+      ]
+    },
+    {
+      "word": "paradisal",
+      "score": 9019,
+      "tags": [
+        "adj",
+        "f:0.071871"
+      ]
+    },
+    {
+      "word": "paradisiac",
+      "score": 8016,
+      "tags": [
+        "adj",
+        "f:0.012213"
+      ]
+    }
+  ]
+}

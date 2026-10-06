@@ -1,0 +1,64 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://api.dictionaryapi.dev/api/v2/entries/en/resilient",
+    "headers": {}
+  },
+  "status": 200,
+  "headers": {
+    "x-ratelimit-limit": "450",
+    "x-ratelimit-remaining": "449",
+    "x-ratelimit-reset": "1785197851",
+    "content-type": "application/json; charset=utf-8"
+  },
+  "elapsedMs": 19680,
+  "fetchedAt": "2026-09-14T15:44:47.427Z",
+  "body": [
+    {
+      "word": "resilient",
+      "phonetics": [
+        {
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/resilient-us.mp3",
+          "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=50423048",
+          "license": {
+            "name": "BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0"
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "(of objects or substances) Returning quickly to original shape after force is applied; elastic.",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "(organisms or people, of systems) Returning quickly to normal after damaging events or conditions.",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ],
+          "synonyms": [
+            "bendable",
+            "flexible",
+            "strong"
+          ],
+          "antonyms": [
+            "brittle",
+            "fragile"
+          ]
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "sourceUrls": [
+        "https://en.wiktionary.org/wiki/resilient"
+      ]
+    }
+  ]
+}

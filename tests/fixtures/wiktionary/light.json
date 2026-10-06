@@ -1,0 +1,718 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://en.wiktionary.org/api/rest_v1/page/definition/light",
+    "headers": {
+      "Api-User-Agent": "anki-add-vocabulary-fixture-probe/0.1 (local development)"
+    }
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json; charset=utf-8; profile=\"https://www.mediawiki.org/wiki/Specs/definition/0.8.1\""
+  },
+  "elapsedMs": 186,
+  "fetchedAt": "2026-09-14T15:41:16.318Z",
+  "body": {
+    "en": [
+      {
+        "partOfSpeech": "Noun",
+        "language": "English",
+        "definitions": [
+          {
+            "definition": ""
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\"></span> <a rel=\"mw:WikiLink\" href=\"/wiki/electromagnetic_radiation#Noun\" title=\"electromagnetic radiation\">Electromagnetic radiation</a> in the <a rel=\"mw:WikiLink\" href=\"/wiki/wavelength#Noun\" title=\"wavelength\">wavelength</a> range <a rel=\"mw:WikiLink\" href=\"/wiki/visible#Adjective\" title=\"visible\">visible</a> to the human <a rel=\"mw:WikiLink\" href=\"/wiki/eye#Noun\" title=\"eye\">eye</a> (about 400–750 <a rel=\"mw:WikiLink\" href=\"/wiki/nanometer#Noun\" title=\"nanometer\">nanometers</a>): <a rel=\"mw:WikiLink\" href=\"/wiki/visible_light#Noun\" title=\"visible light\">visible light</a>.",
+            "parsedExamples": [
+              {
+                "example": "As you can see, this spacious dining-room gets a lot of <b>light</b> in the mornings."
+              }
+            ],
+            "examples": [
+              "As you can see, this spacious dining-room gets a lot of <b>light</b> in the mornings."
+            ]
+          },
+          {
+            "definition": ""
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\"></span> <a rel=\"mw:WikiLink\" href=\"/wiki/electromagnetic_radiation#Noun\" title=\"electromagnetic radiation\">Electromagnetic radiation</a> in the <a rel=\"mw:WikiLink\" href=\"/wiki/wavelength#Noun\" title=\"wavelength\">wavelength</a> range <a rel=\"mw:WikiLink\" href=\"/wiki/visible#Adjective\" title=\"visible\">visible</a> to the human <a rel=\"mw:WikiLink\" href=\"/wiki/eye#Noun\" title=\"eye\">eye</a> or in nearby ranges (<a rel=\"mw:WikiLink\" href=\"/wiki/infrared#Adjective\" title=\"infrared\">infrared</a> or <a rel=\"mw:WikiLink\" href=\"/wiki/ultraviolet#Adjective\" title=\"ultraviolet\">ultraviolet</a> radiation).",
+            "parsedExamples": [
+              {
+                "example": "<a rel=\"mw:WikiLink\" href=\"/wiki/black_light#Noun\" title=\"black light\">black <b>light</b></a>"
+              }
+            ],
+            "examples": [
+              "<a rel=\"mw:WikiLink\" href=\"/wiki/black_light#Noun\" title=\"black light\">black <b>light</b></a>"
+            ]
+          },
+          {
+            "definition": ""
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\"></span> <a rel=\"mw:WikiLink\" href=\"/wiki/electromagnetic_radiation#Noun\" title=\"electromagnetic radiation\">Electromagnetic radiation</a> of any wavelength."
+          },
+          {
+            "definition": ""
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\"></span> A <a rel=\"mw:WikiLink\" href=\"/wiki/source#Noun\" title=\"source\">source</a> of <a rel=\"mw:WikiLink\" href=\"/wiki/illumination#Noun\" title=\"illumination\">illumination</a>.",
+            "parsedExamples": [
+              {
+                "example": "Put that <b>light</b> out<span typeof=\"mw:Entity\">!</span>"
+              },
+              {
+                "example": "We turned off all the <b>lights</b> and went to sleep."
+              },
+              {
+                "example": "To get to our house, turn right at the third <b>light</b>."
+              }
+            ],
+            "examples": [
+              "Put that <b>light</b> out<span typeof=\"mw:Entity\">!</span>",
+              "We turned off all the <b>lights</b> and went to sleep.",
+              "To get to our house, turn right at the third <b>light</b>."
+            ]
+          },
+          {
+            "definition": "A <a rel=\"mw:WikiLink\" href=\"/wiki/lightbulb#Noun\" title=\"lightbulb\">lightbulb</a> or similar light-emitting <a rel=\"mw:WikiLink\" href=\"/wiki/device#Noun\" title=\"device\">device</a>, regardless of whether it is lit.",
+            "parsedExamples": [
+              {
+                "example": "We turned off all the <b>lights</b> and went to sleep."
+              }
+            ],
+            "examples": [
+              "We turned off all the <b>lights</b> and went to sleep."
+            ]
+          },
+          {
+            "definition": "A <a rel=\"mw:WikiLink\" href=\"/wiki/traffic_light#Noun\" title=\"traffic light\">traffic light</a>, or <span class=\"usage-label-sense\"></span> an <a rel=\"mw:WikiLink\" href=\"/wiki/intersection#Noun\" title=\"intersection\">intersection</a> controlled by traffic lights.",
+            "parsedExamples": [
+              {
+                "example": "To get to our house, turn right at the third <b>light</b>."
+              }
+            ],
+            "examples": [
+              "To get to our house, turn right at the third <b>light</b>."
+            ]
+          },
+          {
+            "definition": ""
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\"></span> Spiritual or mental illumination; enlightenment, useful information.",
+            "parsedExamples": [
+              {
+                "example": "Can you throw any <b>light</b> on this problem<span typeof=\"mw:Entity\">?</span>"
+              }
+            ],
+            "examples": [
+              "Can you throw any <b>light</b> on this problem<span typeof=\"mw:Entity\">?</span>"
+            ]
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt87\" typeof=\"mw:Transclusion\"></span> Facts; pieces of information; <a rel=\"mw:WikiLink\" href=\"/wiki/idea\" title=\"idea\">ideas</a>, <a rel=\"mw:WikiLink\" href=\"/wiki/concept\" title=\"concept\">concepts</a>."
+          },
+          {
+            "definition": "A notable person within a specific field or discipline.",
+            "parsedExamples": [
+              {
+                "example": "Picasso was one of the leading <b>lights</b> of the cubist movement."
+              }
+            ],
+            "examples": [
+              "Picasso was one of the leading <b>lights</b> of the cubist movement."
+            ]
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt92\" typeof=\"mw:Transclusion\"></span> The manner in which the light strikes a picture; that part of a picture which represents those objects upon which the light is supposed to fall; the more illuminated part of a landscape or other scene; opposed to <i><a rel=\"mw:WikiLink\" href=\"/wiki/shade\" title=\"shade\">shade</a></i>."
+          },
+          {
+            "definition": "A point of view, or aspect from which a concept, person or thing is regarded.",
+            "parsedExamples": [
+              {
+                "example": "I'm really seeing you in a different <b>light</b> today."
+              },
+              {
+                "example": "Magoon's governorship in Cuba was viewed in a negative <b>light</b> by many Cuban historians for years thereafter."
+              }
+            ],
+            "examples": [
+              "I'm really seeing you in a different <b>light</b> today.",
+              "Magoon's governorship in Cuba was viewed in a negative <b>light</b> by many Cuban historians for years thereafter."
+            ]
+          },
+          {
+            "definition": "A <a rel=\"mw:WikiLink\" href=\"/wiki/flame\" title=\"flame\">flame</a> or something used to create fire.\n\n<ol><li><span class=\"usage-label-sense\" about=\"#mwt99\" typeof=\"mw:Transclusion\"></span> A cigarette <a rel=\"mw:WikiLink\" href=\"/wiki/lighter\" title=\"lighter\">lighter</a>.",
+            "parsedExamples": [
+              {
+                "example": "Hey, buddy, you got a <b>light</b><span typeof=\"mw:Entity\">?</span>"
+              }
+            ],
+            "examples": [
+              "Hey, buddy, you got a <b>light</b><span typeof=\"mw:Entity\">?</span>"
+            ]
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt99\" typeof=\"mw:Transclusion\"></span> A cigarette <a rel=\"mw:WikiLink\" href=\"/wiki/lighter\" title=\"lighter\">lighter</a>.",
+            "parsedExamples": [
+              {
+                "example": "Hey, buddy, you got a <b>light</b><span typeof=\"mw:Entity\">?</span>"
+              }
+            ],
+            "examples": [
+              "Hey, buddy, you got a <b>light</b><span typeof=\"mw:Entity\">?</span>"
+            ]
+          },
+          {
+            "definition": "A <a rel=\"mw:WikiLink\" href=\"/wiki/firework\" title=\"firework\">firework</a> made by filling a <a rel=\"mw:WikiLink\" href=\"/wiki/case\" title=\"case\">case</a> with a substance which burns brilliantly with a white or coloured flame.",
+            "parsedExamples": [
+              {
+                "example": "a <a rel=\"mw:WikiLink\" href=\"/wiki/Bengal_light#English\" title=\"Bengal light\">Bengal <b>light</b></a>"
+              }
+            ],
+            "examples": [
+              "a <a rel=\"mw:WikiLink\" href=\"/wiki/Bengal_light#English\" title=\"Bengal light\">Bengal <b>light</b></a>"
+            ]
+          },
+          {
+            "definition": ""
+          },
+          {
+            "definition": "A <a rel=\"mw:WikiLink\" href=\"/wiki/window\" title=\"window\">window</a> in architecture, carriage design, or motor car design: either the opening itself or the window pane of glass that fills it, if any.",
+            "parsedExamples": [
+              {
+                "example": "This facade has eight south-facing <b>lights</b>."
+              }
+            ],
+            "examples": [
+              "This facade has eight south-facing <b>lights</b>."
+            ]
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt105\" typeof=\"mw:Transclusion\"></span> The <a rel=\"mw:WikiLink\" href=\"/wiki/series\" title=\"series\">series</a> of <a rel=\"mw:WikiLink\" href=\"/wiki/square\" title=\"square\">squares</a> reserved for the <a rel=\"mw:WikiLink\" href=\"/wiki/answer\" title=\"answer\">answer</a> to a <a rel=\"mw:WikiLink\" href=\"/wiki/crossword\" title=\"crossword\">crossword</a> <a rel=\"mw:WikiLink\" href=\"/wiki/clue\" title=\"clue\">clue</a>.",
+            "parsedExamples": [
+              {
+                "example": "The average length of a <b>light</b> on a 15×15 grid is 7 or 8."
+              }
+            ],
+            "examples": [
+              "The average length of a <b>light</b> on a 15×15 grid is 7 or 8."
+            ]
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt107\" typeof=\"mw:Transclusion\"></span> A <a rel=\"mw:WikiLink\" href=\"/wiki/cross-light\" title=\"cross-light\">cross-light</a> in a <a rel=\"mw:WikiLink\" href=\"/wiki/double_acrostic\" title=\"double acrostic\">double acrostic</a> or <a rel=\"mw:WikiLink\" href=\"/wiki/triple_acrostic\" title=\"triple acrostic\">triple acrostic</a>."
+          },
+          {
+            "definition": "Open view; a visible state or condition; public observation; publicity."
+          },
+          {
+            "definition": ""
+          },
+          {
+            "definition": "The power of perception by vision: <a rel=\"mw:WikiLink\" href=\"/wiki/eyesight\" title=\"eyesight\">eyesight</a> (<a rel=\"mw:WikiLink\" href=\"/wiki/sightedness\" title=\"sightedness\">sightedness</a>; <a rel=\"mw:WikiLink\" href=\"/wiki/vision\" title=\"vision\">vision</a><!--the state of having the visual sense; the visual sense itself-->)."
+          },
+          {
+            "definition": "The brightness of the eye or eyes."
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "Verb",
+        "language": "English",
+        "definitions": [
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt135\" typeof=\"mw:Transclusion\"></span> To <a rel=\"mw:WikiLink\" href=\"/wiki/start\" title=\"start\">start</a> (a <a rel=\"mw:WikiLink\" href=\"/wiki/fire\" title=\"fire\">fire</a>).",
+            "parsedExamples": [
+              {
+                "example": "We <b>lit</b> the fire to get some heat."
+              }
+            ],
+            "examples": [
+              "We <b>lit</b> the fire to get some heat."
+            ]
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt139\" typeof=\"mw:Transclusion\"></span> To <a rel=\"mw:WikiLink\" href=\"/wiki/set_fire\" title=\"set fire\" class=\"mw-redirect\">set fire</a> to; to set burning.",
+            "parsedExamples": [
+              {
+                "example": "She <b>lit</b> her last match."
+              }
+            ],
+            "examples": [
+              "She <b>lit</b> her last match."
+            ]
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt144\" typeof=\"mw:Transclusion\"></span> To <a rel=\"mw:WikiLink\" href=\"/wiki/illuminate\" title=\"illuminate\">illuminate</a>; to provide light for when it is dark.",
+            "parsedExamples": [
+              {
+                "example": "I used my torch to <b>light</b> the way home through the woods in the night."
+              }
+            ],
+            "examples": [
+              "I used my torch to <b>light</b> the way home through the woods in the night."
+            ]
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt151\" typeof=\"mw:Transclusion\"></span> To become ignited; to take fire.",
+            "parsedExamples": [
+              {
+                "example": "This soggy match will not <b>light</b>."
+              }
+            ],
+            "examples": [
+              "This soggy match will not <b>light</b>."
+            ]
+          },
+          {
+            "definition": "To attend or conduct with a light; to show the way to by means of a light."
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt155\" typeof=\"mw:Transclusion\"></span> To make (a bonus) available to be collected by hitting a <a rel=\"mw:WikiLink\" href=\"/wiki/target\" title=\"target\">target</a>, and thus light up the <span class=\"new\">feature light</span> corresponding to that bonus to indicate its availability.",
+            "parsedExamples": [
+              {
+                "example": "<b>Light</b> the extra ball by amassing 500 million points in the wizard mode."
+              }
+            ],
+            "examples": [
+              "<b>Light</b> the extra ball by amassing 500 million points in the wizard mode."
+            ]
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "Adjective",
+        "language": "English",
+        "definitions": [
+          {
+            "definition": "Having light; <a rel=\"mw:WikiLink\" href=\"/wiki/bright\" title=\"bright\">bright</a>; <a rel=\"mw:WikiLink\" href=\"/wiki/clear\" title=\"clear\">clear</a>; not <a rel=\"mw:WikiLink\" href=\"/wiki/dark\" title=\"dark\">dark</a> or <a rel=\"mw:WikiLink\" href=\"/wiki/obscure\" title=\"obscure\">obscure</a>.",
+            "parsedExamples": [
+              {
+                "example": "The room is <b>light</b> when the Sun shines through the window."
+              }
+            ],
+            "examples": [
+              "The room is <b>light</b> when the Sun shines through the window."
+            ]
+          },
+          {
+            "definition": "<a rel=\"mw:WikiLink\" href=\"/wiki/pale\" title=\"pale\">Pale</a> or <a rel=\"mw:WikiLink\" href=\"/wiki/whitish\" title=\"whitish\">whitish</a> in <a rel=\"mw:WikiLink\" href=\"/wiki/color\" title=\"color\">color</a>; highly <a rel=\"mw:WikiLink\" href=\"/wiki/luminous\" title=\"luminous\">luminous</a> and more or less deficient in <a rel=\"mw:WikiLink\" href=\"/wiki/chroma\" title=\"chroma\">chroma</a>.",
+            "parsedExamples": [
+              {
+                "example": "She had <b>light</b> skin."
+              }
+            ],
+            "examples": [
+              "She had <b>light</b> skin."
+            ]
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt204\" typeof=\"mw:Transclusion\"></span> <a rel=\"mw:WikiLink\" href=\"/wiki/serve\" title=\"serve\">Served</a> with extra milk or cream.",
+            "parsedExamples": [
+              {
+                "example": "Do you want your coffee <b>light</b> or black<span typeof=\"mw:Entity\">?</span> -I like mine <b>light</b>."
+              }
+            ],
+            "examples": [
+              "Do you want your coffee <b>light</b> or black<span typeof=\"mw:Entity\">?</span> -I like mine <b>light</b>."
+            ]
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "Adjective",
+        "language": "English",
+        "definitions": [
+          {
+            "definition": ""
+          },
+          {
+            "definition": "Having <a rel=\"mw:WikiLink\" href=\"/wiki/little\" title=\"little\">little</a> or relatively little actual <a rel=\"mw:WikiLink\" href=\"/wiki/weight\" title=\"weight\">weight</a>; not <a rel=\"mw:WikiLink\" href=\"/wiki/heavy\" title=\"heavy\">heavy</a>; not <a rel=\"mw:WikiLink\" href=\"/wiki/cumbrous\" title=\"cumbrous\">cumbrous</a> or <a rel=\"mw:WikiLink\" href=\"/wiki/unwieldy\" title=\"unwieldy\">unwieldy</a>.",
+            "parsedExamples": [
+              {
+                "example": "a <b>light</b> load <span typeof=\"mw:Entity\">;</span> a <b>lighter</b> backpack after having removed the books <span typeof=\"mw:Entity\">;</span> <b>light</b> weapons"
+              }
+            ],
+            "examples": [
+              "a <b>light</b> load <span typeof=\"mw:Entity\">;</span> a <b>lighter</b> backpack after having removed the books <span typeof=\"mw:Entity\">;</span> <b>light</b> weapons"
+            ]
+          },
+          {
+            "definition": "Having little weight as compared with <a rel=\"mw:WikiLink\" href=\"/wiki/bulk\" title=\"bulk\">bulk</a>; of little <a rel=\"mw:WikiLink\" href=\"/wiki/density\" title=\"density\">density</a> or <a rel=\"mw:WikiLink\" href=\"/wiki/specific_gravity\" title=\"specific gravity\">specific gravity</a>.",
+            "parsedExamples": [
+              {
+                "example": "feathers and cork are <b>light</b> <span typeof=\"mw:Entity\">;</span> oil is <b>lighter</b> than water"
+              }
+            ],
+            "examples": [
+              "feathers and cork are <b>light</b> <span typeof=\"mw:Entity\">;</span> oil is <b>lighter</b> than water"
+            ]
+          },
+          {
+            "definition": "Of <a rel=\"mw:WikiLink\" href=\"/wiki/short\" title=\"short\">short</a> or <a rel=\"mw:WikiLink\" href=\"/wiki/insufficient\" title=\"insufficient\">insufficient</a> weight; weighing less than the <a rel=\"mw:WikiLink\" href=\"/wiki/legal\" title=\"legal\">legal</a>, <a rel=\"mw:WikiLink\" href=\"/wiki/standard\" title=\"standard\">standard</a><span class=\"serial-comma\" about=\"#mwt275\" typeof=\"mw:Transclusion\">,</span> or <a rel=\"mw:WikiLink\" href=\"/wiki/proper\" title=\"proper\">proper</a> amount; <a rel=\"mw:WikiLink\" href=\"/wiki/clipped\" title=\"clipped\">clipped</a> or <a rel=\"mw:WikiLink\" href=\"/wiki/diminished\" title=\"diminished\">diminished</a>.",
+            "parsedExamples": [
+              {
+                "example": "to issue <b>light</b> coin"
+              }
+            ],
+            "examples": [
+              "to issue <b>light</b> coin"
+            ]
+          },
+          {
+            "definition": "Lacking that which burdens or makes heavy.\n<ol><li>Free from <a rel=\"mw:WikiLink\" href=\"/wiki/burden\" title=\"burden\">burden</a> or <a rel=\"mw:WikiLink\" href=\"/wiki/impediment\" title=\"impediment\">impediment</a>; <a rel=\"mw:WikiLink\" href=\"/wiki/unencumbered\" title=\"unencumbered\">unencumbered</a>.</li>\n<li>Lightly built; typically designed for speed or small loads.",
+            "parsedExamples": [
+              {
+                "example": "a <b>light</b> aircraft <span typeof=\"mw:Entity\">;</span> a <b>light</b> tank"
+              },
+              {
+                "example": "<b>light</b> infantry<span typeof=\"mw:Entity\">;</span> a troop of <b>light</b> horse"
+              },
+              {
+                "example": "if a ship is <b>light</b> or partially loaded <span typeof=\"mw:Entity\">;</span> the <b>light</b> draft of a vessel, or its <b>light</b> displacement"
+              },
+              {
+                "example": "the <b>light</b> locomotives <span typeof=\"mw:Entity\">;</span> a locomotive may be moved <b>light</b>"
+              }
+            ],
+            "examples": [
+              "a <b>light</b> aircraft <span typeof=\"mw:Entity\">;</span> a <b>light</b> tank",
+              "<b>light</b> infantry<span typeof=\"mw:Entity\">;</span> a troop of <b>light</b> horse",
+              "if a ship is <b>light</b> or partially loaded <span typeof=\"mw:Entity\">;</span> the <b>light</b> draft of a vessel, or its <b>light</b> displacement",
+              "the <b>light</b> locomotives <span typeof=\"mw:Entity\">;</span> a locomotive may be moved <b>light</b>"
+            ]
+          },
+          {
+            "definition": "Free from <a rel=\"mw:WikiLink\" href=\"/wiki/burden\" title=\"burden\">burden</a> or <a rel=\"mw:WikiLink\" href=\"/wiki/impediment\" title=\"impediment\">impediment</a>; <a rel=\"mw:WikiLink\" href=\"/wiki/unencumbered\" title=\"unencumbered\">unencumbered</a>."
+          },
+          {
+            "definition": "Lightly built; typically designed for speed or small loads.",
+            "parsedExamples": [
+              {
+                "example": "a <b>light</b> aircraft <span typeof=\"mw:Entity\">;</span> a <b>light</b> tank"
+              }
+            ],
+            "examples": [
+              "a <b>light</b> aircraft <span typeof=\"mw:Entity\">;</span> a <b>light</b> tank"
+            ]
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt278\" typeof=\"mw:Transclusion\"></span> Not heavily <a rel=\"mw:WikiLink\" href=\"/wiki/armed\" title=\"armed\">armed</a>; armed with light <a rel=\"mw:WikiLink\" href=\"/wiki/weapon\" title=\"weapon\">weapons</a>.",
+            "parsedExamples": [
+              {
+                "example": "<b>light</b> infantry<span typeof=\"mw:Entity\">;</span> a troop of <b>light</b> horse"
+              }
+            ],
+            "examples": [
+              "<b>light</b> infantry<span typeof=\"mw:Entity\">;</span> a troop of <b>light</b> horse"
+            ]
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt280\" typeof=\"mw:Transclusion\"></span> <a rel=\"mw:WikiLink\" href=\"/wiki/ride\" title=\"ride\">Riding</a> high because of no <a rel=\"mw:WikiLink\" href=\"/wiki/cargo\" title=\"cargo\">cargo</a>; <span class=\"use-with-mention\" about=\"#mwt281\" typeof=\"mw:Transclusion\">by extension,</span> pertaining to a ship which is light.",
+            "parsedExamples": [
+              {
+                "example": "if a ship is <b>light</b> or partially loaded <span typeof=\"mw:Entity\">;</span> the <b>light</b> draft of a vessel, or its <b>light</b> displacement"
+              }
+            ],
+            "examples": [
+              "if a ship is <b>light</b> or partially loaded <span typeof=\"mw:Entity\">;</span> the <b>light</b> draft of a vessel, or its <b>light</b> displacement"
+            ]
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt283\" typeof=\"mw:Transclusion\"></span> Without any piece of equipment attached or attached only to a <a rel=\"mw:WikiLink\" href=\"/wiki/caboose\" title=\"caboose\">caboose</a>.",
+            "parsedExamples": [
+              {
+                "example": "the <b>light</b> locomotives <span typeof=\"mw:Entity\">;</span> a locomotive may be moved <b>light</b>"
+              }
+            ],
+            "examples": [
+              "the <b>light</b> locomotives <span typeof=\"mw:Entity\">;</span> a locomotive may be moved <b>light</b>"
+            ]
+          },
+          {
+            "definition": "With low <a rel=\"mw:WikiLink\" href=\"/wiki/viscosity\" title=\"viscosity\">viscosity</a>."
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt286\" typeof=\"mw:Transclusion\"></span> Not heavy or <a rel=\"mw:WikiLink\" href=\"/wiki/soggy\" title=\"soggy\">soggy</a>; <a rel=\"mw:WikiLink\" href=\"/wiki/spongy\" title=\"spongy\">spongy</a>; well <a rel=\"mw:WikiLink\" href=\"/wiki/raise\" title=\"raise\">raised</a>.",
+            "parsedExamples": [
+              {
+                "example": "a <b>light</b> bread <span typeof=\"mw:Entity\">;</span> sponge cake is a <b>light</b> cake"
+              }
+            ],
+            "examples": [
+              "a <b>light</b> bread <span typeof=\"mw:Entity\">;</span> sponge cake is a <b>light</b> cake"
+            ]
+          },
+          {
+            "definition": "<a rel=\"mw:WikiLink\" href=\"/wiki/low\" title=\"low\">Low</a> in fat, calories, alcohol, salt, etc.",
+            "parsedExamples": [
+              {
+                "example": "This <b>light</b> beer still gets you drunk if you have enough of it."
+              }
+            ],
+            "examples": [
+              "This <b>light</b> beer still gets you drunk if you have enough of it."
+            ]
+          },
+          {
+            "definition": "<a rel=\"mw:WikiLink\" href=\"/wiki/slight\" title=\"slight\">Slight</a>, not forceful or intense; small in amount or intensity.",
+            "parsedExamples": [
+              {
+                "example": "a <b>light</b> drizzle<span typeof=\"mw:Entity\">/</span><span typeof=\"mw:Entity\">/</span>a <b>light</b> rain was falling<span typeof=\"mw:Entity\">/</span><span typeof=\"mw:Entity\">/</span>a <b>light</b> snow set in"
+              }
+            ],
+            "examples": [
+              "a <b>light</b> drizzle<span typeof=\"mw:Entity\">/</span><span typeof=\"mw:Entity\">/</span>a <b>light</b> rain was falling<span typeof=\"mw:Entity\">/</span><span typeof=\"mw:Entity\">/</span>a <b>light</b> snow set in"
+            ]
+          },
+          {
+            "definition": ""
+          },
+          {
+            "definition": "Gentle; having little force or momentum.",
+            "parsedExamples": [
+              {
+                "example": "This artist clearly had a <b>light</b>, flowing touch."
+              }
+            ],
+            "examples": [
+              "This artist clearly had a <b>light</b>, flowing touch."
+            ]
+          },
+          {
+            "definition": "Easy to endure or perform.",
+            "parsedExamples": [
+              {
+                "example": "<b>light</b> duties around the house"
+              }
+            ],
+            "examples": [
+              "<b>light</b> duties around the house"
+            ]
+          },
+          {
+            "definition": "Unimportant, <a rel=\"mw:WikiLink\" href=\"/wiki/trivial\" title=\"trivial\">trivial</a>, having little value or significance.",
+            "parsedExamples": [
+              {
+                "example": "I made some <b>light</b> comment, and we moved on."
+              }
+            ],
+            "examples": [
+              "I made some <b>light</b> comment, and we moved on."
+            ]
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt296\" typeof=\"mw:Transclusion\"></span> <a rel=\"mw:WikiLink\" href=\"/wiki/unchaste\" title=\"unchaste\">Unchaste</a>, <a rel=\"mw:WikiLink\" href=\"/wiki/wanton\" title=\"wanton\">wanton</a>."
+          },
+          {
+            "definition": "Not encumbered; unembarrassed; clear of impediments; hence, active; <a rel=\"mw:WikiLink\" href=\"/wiki/nimble\" title=\"nimble\">nimble</a>; <a rel=\"mw:WikiLink\" href=\"/wiki/swift\" title=\"swift\">swift</a>."
+          },
+          {
+            "definition": "<a rel=\"mw:WikiLink\" href=\"/wiki/fast\" title=\"fast\">Fast</a>; <a rel=\"mw:WikiLink\" href=\"/wiki/nimble\" title=\"nimble\">nimble</a>."
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt301\" typeof=\"mw:Transclusion\"></span> Easily influenced by trifling considerations; unsteady; unsettled; volatile.",
+            "parsedExamples": [
+              {
+                "example": "<i>a <b>light</b>, vain person; a <b>light</b> mind</i>"
+              }
+            ],
+            "examples": [
+              "<i>a <b>light</b>, vain person; a <b>light</b> mind</i>"
+            ]
+          },
+          {
+            "definition": "Indulging in, or inclined to, levity; lacking dignity or solemnity; frivolous; airy.",
+            "parsedExamples": [
+              {
+                "example": "Ogden Nash was a writer of <b>light</b> verse."
+              }
+            ],
+            "examples": [
+              "Ogden Nash was a writer of <b>light</b> verse."
+            ]
+          },
+          {
+            "definition": "Not quite sound or normal; somewhat impaired or deranged; dizzy; giddy."
+          },
+          {
+            "definition": "Easily interrupted by stimulation.",
+            "parsedExamples": [
+              {
+                "example": "<i><b>light</b> sleep; <b>light</b> anesthesia</i>"
+              }
+            ],
+            "examples": [
+              "<i><b>light</b> sleep; <b>light</b> anesthesia</i>"
+            ]
+          },
+          {
+            "definition": "<a rel=\"mw:WikiLink\" href=\"/wiki/cheerful\" title=\"cheerful\">Cheerful</a>."
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "Adverb",
+        "language": "English",
+        "definitions": [
+          {
+            "definition": "Carrying little.",
+            "parsedExamples": [
+              {
+                "example": "I prefer to travel <b>light</b>."
+              }
+            ],
+            "examples": [
+              "I prefer to travel <b>light</b>."
+            ]
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "Noun",
+        "language": "English",
+        "definitions": [
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt394\" typeof=\"mw:Transclusion\"></span> A <a rel=\"mw:WikiLink\" href=\"/wiki/stone\" title=\"stone\">stone</a> that is not thrown hard enough."
+          },
+          {
+            "definition": "<span class=\"use-with-mention\" about=\"#mwt395\" typeof=\"mw:Transclusion\">See <i class=\"Latn mention\" lang=\"en\"><a rel=\"mw:WikiLink\" href=\"/wiki/lights#English\" title=\"lights\">lights</a></i> <span class=\"mention-gloss-paren annotation-paren\">(</span><span class=\"mention-gloss-double-quote\">“</span><span class=\"mention-gloss\">lungs</span><span class=\"mention-gloss-double-quote\">”</span><span class=\"mention-gloss-paren annotation-paren\">)</span>.</span>"
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt396\" typeof=\"mw:Transclusion\"></span> A low-alcohol <a rel=\"mw:WikiLink\" href=\"/wiki/lager\" title=\"lager\">lager</a>."
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt398\" typeof=\"mw:Transclusion\"></span> A member of the <a rel=\"mw:WikiLink\" href=\"/wiki/light_cavalry\" title=\"light cavalry\">light cavalry</a>."
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "Verb",
+        "language": "English",
+        "definitions": [
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt400\" typeof=\"mw:Transclusion\"></span> To <a rel=\"mw:WikiLink\" href=\"/wiki/unload\" title=\"unload\">unload</a> a ship, or to <a rel=\"mw:WikiLink\" href=\"/wiki/jettison\" title=\"jettison\">jettison</a> material to make it lighter."
+          },
+          {
+            "definition": "To lighten; to ease of a burden; to take off."
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt402\" typeof=\"mw:Transclusion\"></span> To leave; to depart."
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "Verb",
+        "language": "English",
+        "definitions": [
+          {
+            "definition": "To find by <a rel=\"mw:WikiLink\" href=\"/wiki/chance\" title=\"chance\">chance</a>.",
+            "parsedExamples": [
+              {
+                "example": "I <b>lit</b> upon a rare book in a second-hand bookseller's."
+              }
+            ],
+            "examples": [
+              "I <b>lit</b> upon a rare book in a second-hand bookseller's."
+            ]
+          },
+          {
+            "definition": "To <a rel=\"mw:WikiLink\" href=\"/wiki/stop\" title=\"stop\">stop</a> upon <span class=\"mention-gloss-paren\" about=\"#mwt425\" typeof=\"mw:Transclusion\">(</span><span class=\"mention-gloss\" about=\"#mwt425\">of eyes or a glance</span><span class=\"mention-gloss-paren\" about=\"#mwt425\">)</span>; to <a rel=\"mw:WikiLink\" href=\"/wiki/notice\" title=\"notice\">notice</a>."
+          },
+          {
+            "definition": ""
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\"></span> To <a rel=\"mw:WikiLink\" href=\"/wiki/alight\" title=\"alight\">alight</a>; to land or come down.",
+            "parsedExamples": [
+              {
+                "example": "She fell out of the window but luckily <b>lit</b> on her feet."
+              }
+            ],
+            "examples": [
+              "She fell out of the window but luckily <b>lit</b> on her feet."
+            ]
+          }
+        ]
+      }
+    ],
+    "fr": [
+      {
+        "partOfSpeech": "Adjective",
+        "language": "French",
+        "definitions": [
+          {
+            "definition": "light, slight"
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt473\" typeof=\"mw:Transclusion\"></span> diet, low-fat, fat-free, light"
+          }
+        ]
+      }
+    ],
+    "other": [
+      {
+        "partOfSpeech": "Noun",
+        "language": "Middle English",
+        "definitions": [
+          {
+            "definition": "The <a rel=\"mw:WikiLink\" href=\"/wiki/radiation\" title=\"radiation\">radiation</a> which allows for <a rel=\"mw:WikiLink\" href=\"/wiki/vision\" title=\"vision\">vision</a> by <a rel=\"mw:WikiLink\" href=\"/wiki/brighten\" title=\"brighten\">brightening</a> objects and colours."
+          },
+          {
+            "definition": "<a rel=\"mw:WikiLink\" href=\"/wiki/illumination\" title=\"illumination\">Illumination</a> in general, or any source thereof."
+          },
+          {
+            "definition": "The metaphorical <a rel=\"mw:WikiLink\" href=\"/wiki/clarity\" title=\"clarity\">clarity</a> resulting from philosophical or religious ideals such as <a rel=\"mw:WikiLink\" href=\"/wiki/truth\" title=\"truth\">truth</a>, <a rel=\"mw:WikiLink\" href=\"/wiki/wisdom\" title=\"wisdom\">wisdom</a>, <a rel=\"mw:WikiLink\" href=\"/wiki/righteousness\" title=\"righteousness\">righteousness</a>, etc."
+          },
+          {
+            "definition": "Mental or spiritual <a rel=\"mw:WikiLink\" href=\"/wiki/acuity\" title=\"acuity\">acuity</a>; the presence of <a rel=\"mw:WikiLink\" href=\"/wiki/life\" title=\"life\">life</a> in a living being."
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt485\" typeof=\"mw:Transclusion\"></span> The <a rel=\"mw:WikiLink\" href=\"/wiki/property\" title=\"property\">property</a> of <a rel=\"mw:WikiLink\" href=\"/wiki/lustre\" title=\"lustre\">lustre</a>; how <a rel=\"mw:WikiLink\" href=\"/wiki/shiny\" title=\"shiny\">shiny</a> a substance is."
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt486\" typeof=\"mw:Transclusion\"></span> Heavenly <a rel=\"mw:WikiLink\" href=\"/wiki/radiance\" title=\"radiance\">radiance</a>; <a rel=\"mw:WikiLink\" href=\"/wiki/glory\" title=\"glory\">glory</a>"
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt487\" typeof=\"mw:Transclusion\"></span> an opening in a wall allowing for the transmission of light; a <a rel=\"mw:WikiLink\" href=\"/wiki/window\" title=\"window\">window</a>."
+          },
+          {
+            "definition": "The <a rel=\"mw:WikiLink\" href=\"/wiki/sense\" title=\"sense\">sense</a> of <a rel=\"mw:WikiLink\" href=\"/wiki/sight\" title=\"sight\">sight</a>."
+          },
+          {
+            "definition": "The state of being easily seen."
+          }
+        ]
+      }
+    ],
+    "pt": [
+      {
+        "partOfSpeech": "Adjective",
+        "language": "Portuguese",
+        "definitions": [
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt505\" typeof=\"mw:Transclusion\"></span> <span class=\"Latn\" lang=\"en\" about=\"#mwt506\" typeof=\"mw:Transclusion\"><a rel=\"mw:WikiLink\" href=\"/wiki/light#English\" class=\"mw-selflink-fragment\">light</a></span> <span class=\"mention-gloss-paren\" about=\"#mwt507\" typeof=\"mw:Transclusion\">(</span><span class=\"mention-gloss\" about=\"#mwt507\">low in fat, calories, alcohol, salt or other undesirable substances</span><span class=\"mention-gloss-paren\" about=\"#mwt507\">)</span>"
+          }
+        ]
+      }
+    ],
+    "es": [
+      {
+        "partOfSpeech": "Adjective",
+        "language": "Spanish",
+        "definitions": [
+          {
+            "definition": "<span class=\"Latn\" lang=\"en\" about=\"#mwt517\" typeof=\"mw:Transclusion\"><a rel=\"mw:WikiLink\" href=\"/wiki/light#English\" class=\"mw-selflink-fragment\">light</a></span> <span class=\"mention-gloss-paren\" about=\"#mwt518\" typeof=\"mw:Transclusion\">(</span><span class=\"mention-gloss\" about=\"#mwt518\">low in fat, calories, salt, alcohol, etc.</span><span class=\"mention-gloss-paren\" about=\"#mwt518\">)</span>"
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt519\" typeof=\"mw:Transclusion\"></span> <span class=\"Latn\" lang=\"en\" about=\"#mwt520\" typeof=\"mw:Transclusion\"><a rel=\"mw:WikiLink\" href=\"/wiki/light#English\" class=\"mw-selflink-fragment\">light</a></span> <span class=\"mention-gloss-paren\" about=\"#mwt521\" typeof=\"mw:Transclusion\">(</span><span class=\"mention-gloss\" about=\"#mwt521\">low in tar, nicotine and other noxious chemicals</span><span class=\"mention-gloss-paren\" about=\"#mwt521\">)</span>"
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt522\" typeof=\"mw:Transclusion\"></span> Lacking substance or seriousness; <a rel=\"mw:WikiLink\" href=\"/wiki/lite\" title=\"lite\">lite</a>"
+          }
+        ]
+      }
+    ]
+  }
+}

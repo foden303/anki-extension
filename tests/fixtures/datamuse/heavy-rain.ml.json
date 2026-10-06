@@ -1,0 +1,162 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://api.datamuse.com/words?max=20&ml=heavy+rain&md=p",
+    "headers": {}
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json"
+  },
+  "elapsedMs": 523,
+  "fetchedAt": "2026-09-14T15:41:16.131Z",
+  "body": [
+    {
+      "word": "the last of us",
+      "score": 75553,
+      "tags": [
+        "N",
+        "results_type:primary_rel_multi"
+      ]
+    },
+    {
+      "word": "the nomad soul",
+      "score": 75552,
+      "tags": [
+        "N"
+      ]
+    },
+    {
+      "word": "infamous second son",
+      "score": 75551,
+      "tags": [
+        "N"
+      ]
+    },
+    {
+      "word": "infamous first light",
+      "score": 75550,
+      "tags": [
+        "N"
+      ]
+    },
+    {
+      "word": "the last guardian",
+      "score": 75549,
+      "tags": [
+        "N"
+      ]
+    },
+    {
+      "word": "fear effect",
+      "score": 75548,
+      "tags": [
+        "N"
+      ]
+    },
+    {
+      "word": "shadow of the beast",
+      "score": 75547,
+      "tags": [
+        "N"
+      ]
+    },
+    {
+      "word": "alan wake's american nightmare",
+      "score": 75546,
+      "tags": [
+        "N",
+        "prop"
+      ]
+    },
+    {
+      "word": "l.a. noire",
+      "score": 75545,
+      "tags": [
+        "N",
+        "prop"
+      ]
+    },
+    {
+      "word": "assassin's creed unity",
+      "score": 75544,
+      "tags": [
+        "N"
+      ]
+    },
+    {
+      "word": "arc the lad ii",
+      "score": 75543,
+      "tags": [
+        "N",
+        "prop"
+      ]
+    },
+    {
+      "word": "dishonored",
+      "score": 75542,
+      "tags": [
+        "adj"
+      ]
+    },
+    {
+      "word": "red dead redemption",
+      "score": 75541,
+      "tags": [
+        "N"
+      ]
+    },
+    {
+      "word": "the inpatient",
+      "score": 75540,
+      "tags": [
+        "N"
+      ]
+    },
+    {
+      "word": "mass effect 2",
+      "score": 75539,
+      "tags": [
+        "N"
+      ]
+    },
+    {
+      "word": "infamous",
+      "score": 75538,
+      "tags": [
+        "adj"
+      ]
+    },
+    {
+      "word": "system shock",
+      "score": 75537,
+      "tags": [
+        "N"
+      ]
+    },
+    {
+      "word": "primal",
+      "score": 75536,
+      "tags": [
+        "adj",
+        "n",
+        "v"
+      ]
+    },
+    {
+      "word": "dante's inferno",
+      "score": 75535,
+      "tags": [
+        "N",
+        "prop"
+      ]
+    },
+    {
+      "word": "heart of darkness",
+      "score": 75534,
+      "tags": [
+        "N"
+      ]
+    }
+  ]
+}

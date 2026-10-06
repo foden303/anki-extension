@@ -1,0 +1,71 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://en.wiktionary.org/api/rest_v1/page/definition/depend",
+    "headers": {
+      "Api-User-Agent": "anki-add-vocabulary-fixture-probe/0.1 (local development)"
+    }
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json; charset=utf-8; profile=\"https://www.mediawiki.org/wiki/Specs/definition/0.8.1\""
+  },
+  "elapsedMs": 55,
+  "fetchedAt": "2026-09-14T15:41:16.484Z",
+  "body": {
+    "en": [
+      {
+        "partOfSpeech": "Verb",
+        "language": "English",
+        "definitions": [
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt14\" typeof=\"mw:Transclusion\"></span> To be <a rel=\"mw:WikiLink\" href=\"/wiki/contingent\" title=\"contingent\">contingent</a> or <a rel=\"mw:WikiLink\" href=\"/wiki/conditioned\" title=\"conditioned\">conditioned</a>; to have something as a necessary <a rel=\"mw:WikiLink\" href=\"/wiki/condition\" title=\"condition\">condition</a> <style data-mw-deduplicate=\"TemplateStyles:r90144471\" typeof=\"mw:Extension/templatestyles mw:Transclusion\" about=\"#mwt15\">.mw-parser-output .object-usage-tag{font-style:italic}.mw-parser-output .deprecated{color:var(--wikt-palette-grey-lime-8,olivedrab)}</style><span about=\"#mwt15\">[</span><i about=\"#mwt15\">with</i><span about=\"#mwt15\"> </span><b class=\"Latn\" lang=\"en\" about=\"#mwt15\"><a rel=\"mw:WikiLink\" href=\"/wiki/on#English\" title=\"on\">on</a></b><span about=\"#mwt15\"> </span><i about=\"#mwt15\">or</i><span about=\"#mwt15\"> </span><b class=\"Latn\" lang=\"en\" about=\"#mwt15\"><a rel=\"mw:WikiLink\" href=\"/wiki/upon#English\" title=\"upon\">upon</a></b><span about=\"#mwt15\">; </span><i about=\"#mwt15\">or</i><span about=\"#mwt15\"> </span><span about=\"#mwt15\"> </span><i about=\"#mwt15\">with</i><span about=\"#mwt15\"> </span><b class=\"Latn\" lang=\"en\" about=\"#mwt15\"><a rel=\"mw:WikiLink\" href=\"/wiki/of#English\" title=\"of\">of</a></b><span about=\"#mwt15\">]</span>",
+            "parsedExamples": [
+              {
+                "example": "We would like to go skiing, but it <b>depends</b> on the amount of snow."
+              }
+            ],
+            "examples": [
+              "We would like to go skiing, but it <b>depends</b> on the amount of snow."
+            ]
+          },
+          {
+            "definition": ""
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\"></span> To <a rel=\"mw:WikiLink\" href=\"/wiki/trust\" title=\"trust\">trust</a>; to have confidence; to <a rel=\"mw:WikiLink\" href=\"/wiki/rely\" title=\"rely\">rely</a>. <link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r90144471\" about=\"#mwt24\" typeof=\"mw:Extension/templatestyles\">[<i>with</i> <b class=\"Latn\" lang=\"en\"><a rel=\"mw:WikiLink\" href=\"/wiki/on#English\" title=\"on\">on</a></b> <i>or</i> <b class=\"Latn\" lang=\"en\"><a rel=\"mw:WikiLink\" href=\"/wiki/upon#English\" title=\"upon\">upon</a></b> ]",
+            "parsedExamples": [
+              {
+                "example": "we should all be able to <b>depend</b> on the word or assurance of our friends"
+              },
+              {
+                "example": "we <b>depend</b> on the mailman to come at the usual time."
+              }
+            ],
+            "examples": [
+              "we should all be able to <b>depend</b> on the word or assurance of our friends",
+              "we <b>depend</b> on the mailman to come at the usual time."
+            ]
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt28\" typeof=\"mw:Transclusion\"></span> To hang down; to be sustained by being fastened or attached to something above, especially in heraldry, where a badge, decoration, or element is suspended from another part of an achievement of arms."
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt35\" typeof=\"mw:Transclusion\"></span> To be pending; to be undetermined or undecided.",
+            "parsedExamples": [
+              {
+                "example": "a cause <b>depending</b> in court"
+              }
+            ],
+            "examples": [
+              "a cause <b>depending</b> in court"
+            ]
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt40\" typeof=\"mw:Transclusion\"></span> To cause to be contingent or dependent on; to set as a necessity."
+          }
+        ]
+      }
+    ]
+  }
+}

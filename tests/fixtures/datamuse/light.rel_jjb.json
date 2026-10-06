@@ -1,0 +1,214 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://api.datamuse.com/words?max=20&rel_jjb=light&md=pf",
+    "headers": {}
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json"
+  },
+  "elapsedMs": 301,
+  "fetchedAt": "2026-09-14T15:41:04.729Z",
+  "body": [
+    {
+      "word": "new",
+      "score": 1001,
+      "tags": [
+        "adj",
+        "n",
+        "adv",
+        "v",
+        "prop",
+        "f:981.890836"
+      ]
+    },
+    {
+      "word": "red",
+      "score": 1000,
+      "tags": [
+        "adj",
+        "n",
+        "v",
+        "f:99.240438"
+      ]
+    },
+    {
+      "word": "white",
+      "score": 999,
+      "tags": [
+        "adj",
+        "n",
+        "v",
+        "prop",
+        "f:183.830588"
+      ]
+    },
+    {
+      "word": "dim",
+      "score": 998,
+      "tags": [
+        "adj",
+        "n",
+        "v",
+        "f:6.619995"
+      ]
+    },
+    {
+      "word": "bright",
+      "score": 997,
+      "tags": [
+        "adj",
+        "n",
+        "adv",
+        "v",
+        "f:28.536653"
+      ]
+    },
+    {
+      "word": "more",
+      "score": 996,
+      "tags": [
+        "adv",
+        "n",
+        "v",
+        "f:1291.879626"
+      ]
+    },
+    {
+      "word": "electric",
+      "score": 995,
+      "tags": [
+        "adj",
+        "n",
+        "prop",
+        "f:29.682455"
+      ]
+    },
+    {
+      "word": "green",
+      "score": 994,
+      "tags": [
+        "adj",
+        "n",
+        "v",
+        "f:65.114630"
+      ]
+    },
+    {
+      "word": "much",
+      "score": 993,
+      "tags": [
+        "adv",
+        "adj",
+        "n",
+        "f:473.014857"
+      ]
+    },
+    {
+      "word": "polarized",
+      "score": 992,
+      "tags": [
+        "adj",
+        "f:2.971031"
+      ]
+    },
+    {
+      "word": "blue",
+      "score": 991,
+      "tags": [
+        "adj",
+        "n",
+        "v",
+        "f:57.556140"
+      ]
+    },
+    {
+      "word": "visible",
+      "score": 990,
+      "tags": [
+        "adj",
+        "f:29.975907"
+      ]
+    },
+    {
+      "word": "ultraviolet",
+      "score": 989,
+      "tags": [
+        "n",
+        "adj",
+        "f:3.472322"
+      ]
+    },
+    {
+      "word": "yellow",
+      "score": 988,
+      "tags": [
+        "adj",
+        "n",
+        "v",
+        "f:31.527960"
+      ]
+    },
+    {
+      "word": "natural",
+      "score": 987,
+      "tags": [
+        "adj",
+        "n",
+        "adv",
+        "f:125.175988"
+      ]
+    },
+    {
+      "word": "clear",
+      "score": 986,
+      "tags": [
+        "adj",
+        "adv",
+        "v",
+        "n",
+        "f:135.451317"
+      ]
+    },
+    {
+      "word": "artificial",
+      "score": 985,
+      "tags": [
+        "adj",
+        "f:18.247498"
+      ]
+    },
+    {
+      "word": "strong",
+      "score": 984,
+      "tags": [
+        "adj",
+        "adv",
+        "n",
+        "f:112.208948"
+      ]
+    },
+    {
+      "word": "true",
+      "score": 983,
+      "tags": [
+        "adj",
+        "adv",
+        "n",
+        "v",
+        "f:162.715074"
+      ]
+    },
+    {
+      "word": "soft",
+      "score": 982,
+      "tags": [
+        "adj",
+        "n",
+        "adv",
+        "f:37.801223"
+      ]
+    }
+  ]
+}

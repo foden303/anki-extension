@@ -1,0 +1,25 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://api.datamuse.com/words?max=1&sp=happy&md=pf",
+    "headers": {}
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json"
+  },
+  "elapsedMs": 292,
+  "fetchedAt": "2026-09-14T15:41:08.070Z",
+  "body": [
+    {
+      "word": "happy",
+      "score": 165077,
+      "tags": [
+        "adj",
+        "v",
+        "n",
+        "f:49.009288"
+      ]
+    }
+  ]
+}

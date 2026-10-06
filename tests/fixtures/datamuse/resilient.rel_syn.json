@@ -1,0 +1,76 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://api.datamuse.com/words?max=20&rel_syn=resilient&md=pf",
+    "headers": {}
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json"
+  },
+  "elapsedMs": 291,
+  "fetchedAt": "2026-09-14T15:41:05.418Z",
+  "body": [
+    {
+      "word": "spirited",
+      "score": 36033,
+      "tags": [
+        "adj",
+        "f:2.674293"
+      ]
+    },
+    {
+      "word": "live",
+      "score": 15054,
+      "tags": [
+        "v",
+        "adj",
+        "adv",
+        "f:101.428005"
+      ]
+    },
+    {
+      "word": "elastic",
+      "score": 13051,
+      "tags": [
+        "adj",
+        "n",
+        "f:10.468310"
+      ]
+    },
+    {
+      "word": "bouncy",
+      "score": 3026,
+      "tags": [
+        "adj",
+        "f:0.156775"
+      ]
+    },
+    {
+      "word": "springy",
+      "score": 2032,
+      "tags": [
+        "adj",
+        "f:0.253923"
+      ]
+    },
+    {
+      "word": "whippy",
+      "score": 1023,
+      "tags": [
+        "adj",
+        "prop",
+        "f:0.025635"
+      ]
+    },
+    {
+      "word": "lively",
+      "tags": [
+        "adj",
+        "adv",
+        "n",
+        "f:6.969053"
+      ]
+    }
+  ]
+}

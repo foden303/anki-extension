@@ -1,0 +1,208 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://api.datamuse.com/words?max=20&rel_bgb=light&md=pf",
+    "headers": {}
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json"
+  },
+  "elapsedMs": 288,
+  "fetchedAt": "2026-09-14T15:41:04.128Z",
+  "body": [
+    {
+      "word": "the",
+      "score": 235509,
+      "tags": [
+        "adv",
+        "f:407.210664"
+      ]
+    },
+    {
+      "word": "of",
+      "score": 120520,
+      "tags": [
+        "v",
+        "n",
+        "f:23375.750574"
+      ]
+    },
+    {
+      "word": "a",
+      "score": 61495,
+      "tags": [
+        "n",
+        "adj",
+        "v",
+        "adv",
+        "f:440.279225"
+      ]
+    },
+    {
+      "word": "to",
+      "score": 41131,
+      "tags": [
+        "adv",
+        "n",
+        "f:6737.872536"
+      ]
+    },
+    {
+      "word": "in",
+      "score": 36604,
+      "tags": [
+        "adv",
+        "adj",
+        "n",
+        "v",
+        "f:13718.174726"
+      ]
+    },
+    {
+      "word": "and",
+      "score": 31204,
+      "tags": [
+        "n",
+        "v",
+        "adj",
+        "f:1122.503704"
+      ]
+    },
+    {
+      "word": "with",
+      "score": 11753,
+      "tags": [
+        "adv",
+        "n",
+        "f:4197.855552"
+      ]
+    },
+    {
+      "word": "this",
+      "score": 10756,
+      "tags": [
+        "adv",
+        "n",
+        "f:1061.572383"
+      ]
+    },
+    {
+      "word": "that",
+      "score": 9512,
+      "tags": [
+        "adv",
+        "n",
+        "f:5454.541130"
+      ]
+    },
+    {
+      "word": "new",
+      "score": 9294,
+      "tags": [
+        "adj",
+        "n",
+        "adv",
+        "v",
+        "prop",
+        "f:981.890836"
+      ]
+    },
+    {
+      "word": "for",
+      "score": 8288,
+      "tags": [
+        "n",
+        "f:5330.802977"
+      ]
+    },
+    {
+      "word": "some",
+      "score": 8180,
+      "tags": [
+        "adv",
+        "f:259.578453"
+      ]
+    },
+    {
+      "word": "red",
+      "score": 7986,
+      "tags": [
+        "adj",
+        "n",
+        "v",
+        "f:99.240438"
+      ]
+    },
+    {
+      "word": "electric",
+      "score": 7855,
+      "tags": [
+        "adj",
+        "n",
+        "prop",
+        "f:29.682455"
+      ]
+    },
+    {
+      "word": "white",
+      "score": 7635,
+      "tags": [
+        "adj",
+        "n",
+        "v",
+        "prop",
+        "f:183.830588"
+      ]
+    },
+    {
+      "word": "is",
+      "score": 7186,
+      "tags": [
+        "v",
+        "n",
+        "f:5240.944233"
+      ]
+    },
+    {
+      "word": "as",
+      "score": 7048,
+      "tags": [
+        "adv",
+        "n",
+        "f:3178.485243"
+      ]
+    },
+    {
+      "word": "no",
+      "score": 6959,
+      "tags": [
+        "adv",
+        "n",
+        "v",
+        "adj",
+        "f:302.032084"
+      ]
+    },
+    {
+      "word": "very",
+      "score": 6655,
+      "tags": [
+        "adv",
+        "adj",
+        "n",
+        "f:577.371772"
+      ]
+    },
+    {
+      "word": "by",
+      "score": 6529,
+      "tags": [
+        "adv",
+        "adj",
+        "n",
+        "f:3447.271783"
+      ]
+    }
+  ]
+}

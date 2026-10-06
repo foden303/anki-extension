@@ -1,0 +1,208 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://api.datamuse.com/words?max=20&rel_syn=light&md=pf",
+    "headers": {}
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json"
+  },
+  "elapsedMs": 292,
+  "fetchedAt": "2026-09-14T15:41:03.101Z",
+  "body": [
+    {
+      "word": "frivolous",
+      "score": 52040,
+      "tags": [
+        "adj",
+        "f:1.579515"
+      ]
+    },
+    {
+      "word": "clear",
+      "score": 43072,
+      "tags": [
+        "adj",
+        "adv",
+        "v",
+        "n",
+        "f:135.451317"
+      ]
+    },
+    {
+      "word": "bright",
+      "score": 43054,
+      "tags": [
+        "adj",
+        "n",
+        "adv",
+        "v",
+        "f:28.536653"
+      ]
+    },
+    {
+      "word": "livid",
+      "score": 42045,
+      "tags": [
+        "adj",
+        "f:0.620542"
+      ]
+    },
+    {
+      "word": "deficient",
+      "score": 31034,
+      "tags": [
+        "adj",
+        "n",
+        "f:6.256516"
+      ]
+    },
+    {
+      "word": "short",
+      "score": 29072,
+      "tags": [
+        "adj",
+        "adv",
+        "n",
+        "v",
+        "f:146.180344"
+      ]
+    },
+    {
+      "word": "luminescent",
+      "score": 29023,
+      "tags": [
+        "adj",
+        "f:0.328537"
+      ]
+    },
+    {
+      "word": "casual",
+      "score": 28042,
+      "tags": [
+        "adj",
+        "n",
+        "f:7.629802"
+      ]
+    },
+    {
+      "word": "scant",
+      "score": 28036,
+      "tags": [
+        "adj",
+        "v",
+        "n",
+        "adv",
+        "f:2.202531"
+      ]
+    },
+    {
+      "word": "insignificant",
+      "score": 28033,
+      "tags": [
+        "adj",
+        "n",
+        "f:5.495638"
+      ]
+    },
+    {
+      "word": "pure",
+      "score": 27054,
+      "tags": [
+        "adj",
+        "n",
+        "v",
+        "adv",
+        "f:39.471683"
+      ]
+    },
+    {
+      "word": "faint",
+      "score": 27046,
+      "tags": [
+        "adj",
+        "v",
+        "n",
+        "f:8.336933"
+      ]
+    },
+    {
+      "word": "shallow",
+      "score": 27039,
+      "tags": [
+        "adj",
+        "v",
+        "n",
+        "f:11.326991"
+      ]
+    },
+    {
+      "word": "fluorescent",
+      "score": 27037,
+      "tags": [
+        "adj",
+        "n",
+        "f:3.589354"
+      ]
+    },
+    {
+      "word": "flimsy",
+      "score": 27035,
+      "tags": [
+        "adj",
+        "n",
+        "v",
+        "f:0.985928"
+      ]
+    },
+    {
+      "word": "easy",
+      "score": 26045,
+      "tags": [
+        "adj",
+        "adv",
+        "n",
+        "v",
+        "f:70.950324"
+      ]
+    },
+    {
+      "word": "illuminate",
+      "score": 26040,
+      "tags": [
+        "v",
+        "adj",
+        "n",
+        "f:2.205286"
+      ]
+    },
+    {
+      "word": "incandescent",
+      "score": 25040,
+      "tags": [
+        "n",
+        "adj",
+        "f:0.878493"
+      ]
+    },
+    {
+      "word": "perch",
+      "score": 24045,
+      "tags": [
+        "n",
+        "v",
+        "f:1.692924"
+      ]
+    },
+    {
+      "word": "airy",
+      "score": 23040,
+      "tags": [
+        "adj",
+        "n",
+        "f:1.434220"
+      ]
+    }
+  ]
+}

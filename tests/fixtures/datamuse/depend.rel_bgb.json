@@ -1,0 +1,193 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://api.datamuse.com/words?max=20&rel_bgb=depend&md=pf",
+    "headers": {}
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json"
+  },
+  "elapsedMs": 283,
+  "fetchedAt": "2026-09-14T15:41:11.524Z",
+  "body": [
+    {
+      "word": "will",
+      "score": 176506,
+      "tags": [
+        "n",
+        "v",
+        "f:75.292956"
+      ]
+    },
+    {
+      "word": "to",
+      "score": 140705,
+      "tags": [
+        "adv",
+        "n",
+        "f:6737.872536"
+      ]
+    },
+    {
+      "word": "not",
+      "score": 114212,
+      "tags": [
+        "adv",
+        "n",
+        "f:325.893476"
+      ]
+    },
+    {
+      "word": "may",
+      "score": 49127,
+      "tags": [
+        "n",
+        "v",
+        "prop",
+        "f:98.668744"
+      ]
+    },
+    {
+      "word": "must",
+      "score": 40618,
+      "tags": [
+        "n",
+        "v",
+        "f:8.016288"
+      ]
+    },
+    {
+      "word": "would",
+      "score": 39779,
+      "tags": [
+        "v",
+        "n",
+        "f:18.132686"
+      ]
+    },
+    {
+      "word": "they",
+      "score": 26631,
+      "tags": [
+        "v",
+        "f:2099.718828"
+      ]
+    },
+    {
+      "word": "which",
+      "score": 25672,
+      "tags": [
+        "N",
+        "f:1900.917390"
+      ]
+    },
+    {
+      "word": "that",
+      "score": 19904,
+      "tags": [
+        "adv",
+        "n",
+        "f:5454.541130"
+      ]
+    },
+    {
+      "word": "and",
+      "score": 19041,
+      "tags": [
+        "n",
+        "v",
+        "adj",
+        "f:1122.503704"
+      ]
+    },
+    {
+      "word": "can",
+      "score": 15867,
+      "tags": [
+        "n",
+        "v",
+        "f:41.209884"
+      ]
+    },
+    {
+      "word": "also",
+      "score": 14311,
+      "tags": [
+        "adv",
+        "f:998.521601"
+      ]
+    },
+    {
+      "word": "should",
+      "score": 11377,
+      "tags": [
+        "n",
+        "v",
+        "prop",
+        "f:8.752447"
+      ]
+    },
+    {
+      "word": "could",
+      "score": 10457,
+      "tags": [
+        "v",
+        "n",
+        "f:23.183004"
+      ]
+    },
+    {
+      "word": "we",
+      "score": 9957,
+      "tags": [
+        "n",
+        "f:1756.293820"
+      ]
+    },
+    {
+      "word": "who",
+      "score": 8753,
+      "tags": [
+        "n",
+        "f:1031.157706"
+      ]
+    },
+    {
+      "word": "might",
+      "score": 7936,
+      "tags": [
+        "n",
+        "v",
+        "adj",
+        "f:7.881085"
+      ]
+    },
+    {
+      "word": "all",
+      "score": 7083,
+      "tags": [
+        "adv",
+        "n",
+        "adj",
+        "f:996.935133"
+      ]
+    },
+    {
+      "word": "largely",
+      "score": 6063,
+      "tags": [
+        "adv",
+        "f:46.158285"
+      ]
+    },
+    {
+      "word": "always",
+      "score": 5377,
+      "tags": [
+        "adv",
+        "f:248.384250"
+      ]
+    }
+  ]
+}

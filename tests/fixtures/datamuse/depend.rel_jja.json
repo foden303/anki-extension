@@ -1,0 +1,14 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://api.datamuse.com/words?max=20&rel_jja=depend&md=pf",
+    "headers": {}
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json"
+  },
+  "elapsedMs": 412,
+  "fetchedAt": "2026-09-14T15:41:11.938Z",
+  "body": []
+}

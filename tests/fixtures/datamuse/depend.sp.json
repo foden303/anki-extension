@@ -1,0 +1,23 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://api.datamuse.com/words?max=1&sp=depend&md=pf",
+    "headers": {}
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json"
+  },
+  "elapsedMs": 358,
+  "fetchedAt": "2026-09-14T15:41:10.363Z",
+  "body": [
+    {
+      "word": "depend",
+      "score": 148072,
+      "tags": [
+        "v",
+        "f:28.206768"
+      ]
+    }
+  ]
+}

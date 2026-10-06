@@ -1,0 +1,19 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://en.wiktionary.org/api/rest_v1/page/definition/heavy_rain",
+    "headers": {
+      "Api-User-Agent": "anki-add-vocabulary-fixture-probe/0.1 (local development)"
+    }
+  },
+  "status": 404,
+  "headers": {
+    "content-type": "application/json; charset=utf-8"
+  },
+  "elapsedMs": 438,
+  "fetchedAt": "2026-09-14T15:41:18.754Z",
+  "body": {
+    "status": 404,
+    "type": "Internal error"
+  }
+}

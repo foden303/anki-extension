@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Anki Add Vocabulary — compact card prototype</title>
+<style>
+  :root{--ink:#162033;--muted:#667085;--line:#d8dee8;--soft:#f2f4f7;--blue:#3562df;--green:#2e6b4c;--green-soft:#e3efe7}*{box-sizing:border-box}body{margin:0;min-height:100vh;background:linear-gradient(135deg,#eef2f7,#f9fafc);color:var(--ink);font:15px/1.4 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.page{width:min(940px,calc(100% - 32px));margin:42px auto 110px}.eyebrow{margin:0 0 7px;color:#667085;font-size:12px;font-weight:800;letter-spacing:.1em}.page h1{margin:0;font-size:30px;letter-spacing:-.035em}.lede{max-width:640px;color:var(--muted)}.stage{display:grid;grid-template-columns:1fr 390px;gap:64px;align-items:start;margin-top:36px}.browser-copy{padding:30px;border:1px solid #e1e7ef;border-radius:18px;background:#fff;box-shadow:0 8px 30px rgba(28,39,59,.05)}.browser-copy h2{font-size:22px}.browser-copy p{color:#4a566a;line-height:1.75}.picked{padding:2px 4px;border-radius:4px;background:#fde39a}.callout{padding:13px 14px;border-left:3px solid var(--blue);border-radius:0 9px 9px 0;background:#eef3ff;color:#465a7b;font-size:14px}.overlay-wrap{position:sticky;top:22px}.panel{width:100%;overflow:hidden;border:1px solid #d6dce5;border-radius:15px;background:#fff;box-shadow:0 18px 45px rgba(15,23,42,.21)}.head{display:flex;align-items:center;justify-content:space-between;padding:12px 14px;border-bottom:1px solid #edf0f4}.head strong{font-size:12px;letter-spacing:.09em;color:#5a6678}.close{border:0;background:transparent;color:#667085;font-size:21px}.body{padding:14px}.language-row{display:grid;grid-template-columns:1fr 17px 1fr;gap:7px;align-items:center}.lang{width:100%;padding:8px 9px;border:1px solid #cfd6e0;border-radius:8px;background:#f4f6f9;color:#263249;font:700 13px inherit}.arrow{text-align:center;color:#a3adbc}.term{margin:14px 0 0;color:#657184;font-size:13px}.translation{margin:2px 0 0;font-size:25px;font-weight:800;letter-spacing:-.025em}.meta{margin:2px 0 0;color:#69768a;font-size:13px}.quote{margin:13px 0 0;padding:10px 11px;border-left:3px solid #8ca8f4;border-radius:0 8px 8px 0;background:#f5f7fd;color:#516076;font-size:13px}.actions{display:flex;gap:8px;margin-top:14px}.button{flex:1;min-height:38px;padding:8px;border:1px solid #ccd4df;border-radius:8px;background:#fff;color:#536077;font:750 14px inherit;cursor:pointer}.button.primary{border-color:#111827;background:#111827;color:#fff}.button.blue{border-color:var(--blue);background:var(--blue);color:#fff}.site{display:flex;gap:8px;align-items:center;margin-top:13px;padding-top:11px;border-top:1px solid #e7ebf0;color:#667085;font-size:12px}.site input{width:16px;height:16px}.hidden{display:none!important}.steps{display:flex;align-items:center;gap:5px;color:#a0a9b7;font-size:10px;font-weight:850;letter-spacing:.05em}.steps .active{color:var(--blue)}.steps i{height:1px;flex:1;background:#d8dee7}.kind{display:flex;gap:6px;margin:12px 0 9px}.kind button{flex:1;padding:7px;border:1px solid #cbd3de;border-radius:7px;background:#fff;color:#57647a;font-weight:800}.kind button.active{border-color:var(--blue);background:#edf2ff;color:#274fb8}.form{padding:11px;border-radius:10px;background:#f1f3f6}.form label{display:block;margin-bottom:7px;color:#596579;font-size:11px;font-weight:750}.form label:last-child{margin:0}.form input,.form textarea{width:100%;margin-top:3px;padding:7px 8px;border:1px solid #cad2de;border-radius:7px;background:#fff;color:#172033;font:14px inherit}.form textarea{min-height:48px;resize:vertical}.split{display:grid;grid-template-columns:1fr 1fr;gap:7px}.audio-box{margin-top:10px;padding:9px;border:1px solid #dce3eb;border-radius:9px;background:#fff}.audio-line{display:flex;gap:6px;align-items:center}.audio-line input{min-width:0;flex:1;border:0!important;background:#f5f7fa!important;font-size:11px!important}.audio-state{margin:6px 0 0;color:#667085;font-size:11px}.deck-search{display:flex;gap:7px;margin:11px 0}.deck-search input{flex:1;padding:8px;border:1px solid #cbd3df;border-radius:7px;font:14px inherit}.tree{max-height:225px;overflow:auto;padding:4px;border:1px solid #e2e7ee;border-radius:9px;background:#fbfcfe}.tree-row{display:flex;align-items:center;gap:5px;min-height:31px;padding:0 5px;border-radius:6px}.tree-row.selected{background:#eaf0ff}.twist{width:20px;color:#667085;text-align:center}.folder{color:var(--blue)}.deck-name{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:13px;font-weight:700}.indent{padding-left:24px}.new-deck{display:flex;gap:7px;margin-top:10px}.new-deck input{flex:1;padding:8px;border:1px solid #cbd3df;border-radius:7px;font:14px inherit}.status{margin-top:8px;padding:8px 9px;border-radius:7px;background:#ecfdf3;color:#176741;font-size:12px}.anki-preview{width:min(390px,100%);margin:0 auto;border:1px solid #dce1d7;border-radius:16px;background:#fff;color:#1b211d;line-height:1.55}.anki-preview.front{text-align:center;padding:28px 22px}.anki-preview.back{padding:20px}.anki-term{font-size:32px;font-weight:750;letter-spacing:-.04em}.anki-pron{margin-top:2px;color:#6c766f;font-size:16px}.speaker{display:inline-flex;align-items:center;justify-content:center;min-width:36px;height:30px;margin:12px 0 3px;border:1px solid #cbd7cf;border-radius:50px;background:#fff;color:var(--green);font-size:15px}.tags{display:flex;flex-wrap:wrap;justify-content:center;gap:5px;margin-top:8px}.back .tags{justify-content:flex-start}.tag{padding:3px 8px;border-radius:50px;background:#ecefe8;color:#4c5650;font-size:11px}.tag.level{background:#e3efe7;color:#2e6b4c;font-weight:700}.context-hint{margin-top:18px;padding-top:14px;border-top:1px solid #e6eae1;text-align:left}.label{margin-bottom:3px;color:#8a938c;font-size:10px;font-weight:800;letter-spacing:.09em;text-transform:uppercase}.anki-quote{color:#3f4a43;font-size:13px;font-style:italic}.back-head{margin-bottom:14px;padding-bottom:13px;border-bottom:1px solid #e6eae1}.term-sm{font-size:23px;font-weight:750}.primary-meaning{margin-bottom:14px;padding:11px 12px;border-radius:9px;background:var(--green-soft);color:var(--green);font-size:18px;font-weight:700}.anki-row{margin-bottom:12px}.anki-body{color:#333c36;font-size:13.5px}.italic{font-style:italic}.anki-context{padding:10px 11px;border-left:3px solid var(--green);border-radius:0 8px 8px 0;background:#f5f7f3}.source{margin-top:6px;color:var(--green);font-size:11px}.prototype-bar{position:fixed;z-index:4;bottom:16px;left:50%;display:flex;gap:8px;align-items:center;transform:translateX(-50%);padding:8px 10px;border:1px solid #344054;border-radius:999px;background:#101828;box-shadow:0 10px 30px rgba(15,23,42,.28)}.prototype-bar button{border:0;border-radius:18px;background:#344054;color:#fff;padding:7px 10px;font:700 12px inherit;cursor:pointer}.prototype-bar button.active{background:#fff;color:#101828}@media(max-width:720px){.page{width:min(100% - 22px,450px);margin-top:24px}.stage{grid-template-columns:1fr;gap:18px}.browser-copy{display:none}.overlay-wrap{position:static}.panel{width:min(360px,100%);margin:0 auto}.page h1{font-size:25px}}@media(max-width:390px){.split{grid-template-columns:1fr}.language-row{grid-template-columns:1fr 14px 1fr}.lang{min-width:0;font-size:12px}.body{padding:12px}}
+</style>
+<style>
+  /* Revision requested: compact OpenQuiz-sized overlay, 13px working text. */
+  .stage{grid-template-columns:1fr 344px;gap:48px}.overlay-wrap{width:344px}.panel{max-width:344px;font-size:13px}.head{padding:10px 12px}.head strong{font-size:11px}.body{padding:11px}.language-row{gap:5px}.lang{padding:7px 8px;font-size:12px}.term{margin-top:11px;font-size:12px}.translation{font-size:21px}.meta,.quote{font-size:12px}.quote{margin-top:10px;padding:8px 9px}.actions{gap:6px;margin-top:10px}.button{min-height:34px;padding:6px;font-size:13px}.site{margin-top:10px;padding-top:9px;font-size:11px}.steps{font-size:9px}.kind{margin:9px 0 7px}.kind button{padding:6px;font-size:12px}.form{padding:9px}.form label{margin-bottom:6px;font-size:10px}.form input,.form textarea{padding:6px 7px;font-size:13px}.form textarea{min-height:42px}.audio-box{margin-top:8px;padding:8px}.audio-state{font-size:10px}.deck-search{margin:9px 0}.tree{max-height:190px}.tree-row{min-height:27px}.deck-name{font-size:12px}.new-deck{margin-top:8px}.new-deck input{padding:7px;font-size:12px}.status{margin-top:6px;padding:7px;font-size:11px}.anki-preview.front{padding:22px 18px}.anki-preview.back{padding:16px}.anki-term{font-size:28px}.anki-pron,.anki-body{font-size:12.5px}.primary-meaning{padding:9px 10px;font-size:16px}.anki-row{margin-bottom:9px}.prototype-bar{gap:5px;padding:6px}.prototype-bar button{padding:6px 8px;font-size:11px}@media(max-width:720px){.page{width:calc(100% - 22px);max-width:450px}.stage{grid-template-columns:1fr;gap:18px}.overlay-wrap{position:static;width:min(344px,100%)}.panel{width:100%;max-width:344px;margin:0 auto}}@media(max-width:360px){.panel{max-width:calc(100vw - 16px)}.prototype-bar{max-width:calc(100vw - 14px);overflow:auto;left:7px;transform:none}.prototype-bar button{white-space:nowrap}}
+</style>
+<style>
+  /* Revised approval target: 320px desktop; 304px mobile. */
+  .stage{grid-template-columns:1fr 320px}.overlay-wrap{width:320px}.panel{max-width:320px}
+  @media(max-width:720px){.overlay-wrap{width:304px;max-width:100%}.panel{width:304px;max-width:100%}}
+</style>
+<style>
+  /* Step 1: no header; controls stay in one compact top row like OpenQuiz. */
+  #screen-translate .head{display:none}#screen-translate .body{padding:10px}#screen-translate .language-row{grid-template-columns:90px 10px 90px 26px 26px 26px;gap:4px}#screen-translate .lang{min-width:0;padding:6px 5px;font-size:12px}#screen-translate .top-icon{width:26px;height:28px;padding:0;border:0;border-radius:6px;background:transparent;color:#667085;font-size:17px}#screen-translate .compact-add{display:flex;align-items:center;justify-content:space-between;margin-top:8px;padding-top:7px;border-top:1px solid #e7ebf0;color:#98a2b3;font-size:11px;font-weight:750}#screen-translate .compact-add .button{flex:0 0 auto;min-height:31px;padding:5px 10px;font-size:12px}#screen-translate .actions{display:none}#screen-translate .site{margin-top:9px;padding-top:8px}
+</style>
+<style>
+  /* Step 2/3 have titles only; the large numbered progress strip is removed. */
+  #screen-edit .steps,#screen-deck .steps{display:none}
+  #screen-edit .audio-card{display:grid;grid-template-columns:auto 1fr;gap:8px;align-items:center;margin-top:9px;padding:9px;border:1px solid #d9e4dd;border-radius:10px;background:linear-gradient(135deg,#f7fbf8,#fff)}
+  #screen-edit .audio-play{display:grid;width:31px;height:31px;place-items:center;border:0;border-radius:50%;background:#e3efe7;color:#2e6b4c;cursor:pointer}
+  #screen-edit .audio-info{min-width:0}#screen-edit .audio-name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:#29372e;font-size:12px;font-weight:800}#screen-edit .audio-note{margin-top:1px;color:#718077;font-size:10px}
+  #screen-edit .audio-links{grid-column:2;display:flex;gap:5px;align-items:center}#screen-edit .audio-link{padding:3px 0;border:0;background:none;color:#2e6b4c;font:700 10px inherit;text-decoration:none;cursor:pointer}#screen-edit .audio-link + .audio-link{padding-left:7px;border-left:1px solid #d6e0d9}
+</style>
+<style>
+  /* Slim controls: compact actions without hairline click targets. */
+  .panel .button{min-height:30px;padding:5px 8px;border-radius:7px;font-size:12px}
+  .panel .kind button{padding:5px 7px;font-size:11px}.panel .site input{width:14px;height:14px;accent-color:#3562df}.panel .site{gap:6px;font-size:10px}
+  #screen-edit .actions .button,#screen-deck .actions .button{min-height:31px}
+  #screen-deck .deck-search{gap:6px;margin:8px 0}#screen-deck .deck-search input{height:30px;padding:6px 8px;font-size:12px}
+  #screen-deck .deck-search .button{flex:0 0 30px;width:30px;height:30px;min-height:30px;padding:0;border-color:#172033;background:#172033;color:#fff;font-size:16px;line-height:1}
+  #screen-deck .new-deck input{height:30px;padding:6px 8px;font-size:12px}#screen-deck .new-deck .button{flex:0 0 auto;min-height:30px}
+  #screen-deck .tree-row{min-height:25px}#screen-deck .twist{width:17px}
+</style>
+<style>
+  /* Tighter Step 2: definition remains readable; header and toggle spacing shrink. */
+  #screen-edit .head{min-height:36px;padding:6px 10px}#screen-edit .body{padding:8px 10px}#screen-edit .kind{margin:5px 0 6px}#screen-edit .form label:nth-child(2) input{font-size:15px;font-weight:600}
+  #screen-deck .deck-search .button{border-color:#ccd4df;background:#fff;color:#536077}
+</style>
+<style>
+  /* Step 2 and 3 use one readable 13px type scale. Step 1 keeps its bold meaning emphasis. */
+  #screen-edit .body,#screen-deck .body,#screen-edit .form label,#screen-edit .form input,#screen-edit .form textarea,#screen-edit .audio-note,#screen-edit .audio-name,#screen-edit .audio-link,#screen-deck .meta,#screen-deck .deck-name,#screen-deck .new-deck input,#screen-deck .status{font-size:13px}
+  #screen-edit .form label:nth-child(2) input{font-size:13px;font-weight:400}
+  #screen-edit .button,#screen-deck .button,#screen-edit .kind button{font-size:13px}
+  #screen-deck .deck-search input{font-size:13px}
+</style>
+<style>
+  #screen-translate .translation{font-size:13px}
+</style>
+</head>
+<body>
+<main class="page"><p class="eyebrow">THROWAWAY PROTOTYPE — NOT EXTENSION CODE</p><h1>Compact overlay + VocabBot Anki card</h1><p class="lede">One 360–390px OpenQuiz-style overlay. The final preview maps to the existing VocabBot Word template fields and attaches an MP3 to Anki media instead of retaining only a remote link.</p><div class="stage"><section class="browser-copy"><h2>Selection on a page</h2><p>The company proved <span class="picked">resilient</span> in the downturn. The overlay stays narrow even on a large monitor, exactly like OpenQuiz.</p><div class="callout">Step 1 auto-detects the source language. The target picker persists the selected target. No card is written yet.</div></section><aside class="overlay-wrap"><div id="screen-translate" class="panel"><div class="head"><strong>TRANSLATION</strong><button class="close">×</button></div><div class="body"><div class="language-row"><button class="lang">✓ 🇺🇸 EN</button><span class="arrow">→</span><select class="lang"><option>🇻🇳 VI</option><option>🇯🇵 JA</option><option>🇰🇷 KO</option><option>🇨🇳 ZH</option><option>🇫🇷 FR</option><option>🇩🇪 DE</option><option>🇪🇸 ES</option><option>🇹🇭 TH</option><option>🇷🇺 RU</option></select></div><p class="term">resilient</p><p class="translation">kiên cường; có khả năng phục hồi</p><p class="meta">/rɪˈzɪliənt/ · adjective</p><p class="quote">The company proved resilient in the downturn.</p><div class="actions"><button class="button" onclick="previewAudio()">🔊 Listen</button><button class="button" onclick="show('screen-card')">Card preview</button><button class="button primary" onclick="show('screen-edit')">Add to Anki</button></div><label class="site"><input type="checkbox"> Don’t auto-translate this site</label></div></div>
+<div id="screen-edit" class="panel hidden"><div class="head"><strong>PREVIEW &amp; EDIT</strong><button class="close" onclick="show('screen-translate')">×</button></div><div class="body"><div class="steps"><span>1 TRANSLATE</span><i></i><span class="active">2 EDIT</span><i></i><span>3 DECK</span></div><div class="kind"><button class="active">Word</button><button>Collocation</button></div><div class="form"><label>Term<input value="resilient"></label><label>Meaning VN<input value="kiên cường; có khả năng phục hồi"></label><div class="split"><label>Pronunciation<input value="/rɪˈzɪliənt/"></label><label>Type<input value="adjective"></label></div><label>Pattern<input placeholder="resilient to / resilient in" value="resilient in"></label><label>Example<textarea>The company proved resilient in the downturn.</textarea></label><label>Synonyms<input value="robust; adaptable; strong"></label></div><div class="audio-box"><div class="label">Anki audio</div><div class="audio-line"><input readonly value="resilient-us.mp3"><button class="button" onclick="previewAudio()">Play</button></div><p class="audio-state">Dictionary MP3 found. It will be downloaded, stored by AnkiConnect, and written as <code>[sound:resilient-us.mp3]</code>.</p><div class="actions"><a class="button" href="https://api.dictionaryapi.dev/media/pronunciations/en/resilient-us.mp3" target="_blank" rel="noreferrer">Open MP3</a><a class="button blue" href="https://api.dictionaryapi.dev/media/pronunciations/en/resilient-us.mp3" download>Download MP3</a></div></div><div class="actions"><button class="button" onclick="show('screen-translate')">Back</button><button class="button primary" onclick="show('screen-deck')">Choose deck</button></div></div></div>
+<div id="screen-deck" class="panel hidden"><div class="head"><strong>CHOOSE ANKI DECK</strong><button class="close" onclick="show('screen-edit')">×</button></div><div class="body"><div class="steps"><span>1 TRANSLATE</span><i></i><span>2 EDIT</span><i></i><span class="active">3 DECK</span></div><div class="deck-search"><input placeholder="Search decks…"><button class="button">⌕</button></div><div class="tree"><div class="tree-row"><span class="twist">▸</span><span class="folder">▣</span><span class="deck-name">[Eng] Vocab Reading</span></div><div class="tree-row"><span class="twist">▸</span><span class="folder">▣</span><span class="deck-name">4000 Essential English Words</span></div><div class="tree-row indent"><span class="twist">▸</span><span class="folder">▣</span><span class="deck-name">Book 1</span></div><div class="tree-row selected"><span class="twist">·</span><span class="folder">A</span><span class="deck-name">Vocab-Reading</span></div><div class="tree-row"><span class="twist">▸</span><span class="folder">▣</span><span class="deck-name">IELTS</span></div></div><div class="new-deck"><input placeholder="New Anki deck name"><button class="button blue">Create</button></div><div class="status">✓ Vocab-Reading selected. No note has been written yet.</div><div class="actions"><button class="button" onclick="show('screen-edit')">Back</button><button class="button primary" onclick="show('screen-front')">Add word to Anki</button></div></div></div>
+<div id="screen-front" class="panel hidden"><div class="head"><strong>ANKI CARD — FRONT</strong><button class="close" onclick="show('screen-edit')">×</button></div><div class="body"><div class="anki-preview front"><div class="anki-term">resilient</div><div class="anki-pron">/rɪˈzɪliənt/</div><button class="speaker" onclick="previewAudio()">🔊</button><div class="tags"><span class="tag">adjective</span><span class="tag level">B2</span></div><div class="context-hint"><div class="label">Gặp trong câu</div><div class="anki-quote">The company proved resilient in the downturn.</div></div></div><div class="actions"><button class="button" onclick="show('screen-deck')">Back</button><button class="button primary" onclick="show('screen-back')">Show back</button></div></div></div>
+<div id="screen-back" class="panel hidden"><div class="head"><strong>ANKI CARD — BACK</strong><button class="close" onclick="show('screen-translate')">×</button></div><div class="body"><div class="anki-preview back"><div class="back-head"><div class="term-sm">resilient</div><div class="anki-pron">/rɪˈzɪliənt/ <button class="speaker" onclick="previewAudio()">🔊</button></div><div class="tags"><span class="tag">adjective</span><span class="tag level">B2</span></div></div><div class="primary-meaning">kiên cường; có khả năng phục hồi</div><div class="anki-row"><div class="label">English meaning</div><div class="anki-body">Able to recover quickly from difficult conditions.</div></div><div class="anki-row"><div class="label">Example</div><div class="anki-body italic">The company proved resilient in the downturn.</div></div><div class="anki-row anki-context"><div class="label">Gặp khi đọc</div><div class="anki-body italic">The company proved resilient in the downturn.</div><div class="source">news.example.com/markets-rebound</div></div><div class="anki-row"><div class="label">Collocations</div><div class="anki-body">resilient economy<br>resilient system</div></div><div class="anki-row"><div class="label">Word patterns</div><div class="anki-body">resilient in adversity<br>resilient to change</div></div><div class="anki-row"><div class="label">Synonyms</div><div class="anki-body">robust; adaptable; strong</div></div></div><div class="actions"><button class="button" onclick="show('screen-front')">Show front</button><button class="button primary" onclick="show('screen-translate')">Done</button></div></div></div></aside></div></main>
+<nav class="prototype-bar"><button onclick="show('screen-translate')">1 Translate</button><button onclick="show('screen-edit')">2 Edit + audio</button><button onclick="show('screen-deck')">3 Deck tree</button><button onclick="show('screen-front')">Anki front</button><button onclick="show('screen-back')">Anki back</button></nav>
+<script>const ids=['screen-translate','screen-edit','screen-deck','screen-front','screen-back'];function show(id){ids.forEach(x=>document.getElementById(x).classList.toggle('hidden',x!==id));document.querySelectorAll('.prototype-bar button').forEach(button=>button.classList.toggle('active',button.textContent.toLowerCase().includes(id.replace('screen-','').split('-')[0])))}function previewAudio(){const audio=new Audio('https://api.dictionaryapi.dev/media/pronunciations/en/resilient-us.mp3');audio.play().catch(()=>{const u=new SpeechSynthesisUtterance('resilient');u.lang='en-US';speechSynthesis.speak(u)})}</script>
+<script>document.querySelector(".lede").textContent="One 320px OpenQuiz-style desktop overlay, reduced to 304px on mobile, with 13px working text. The final preview maps to existing VocabBot Word template fields and attaches an MP3 to Anki media instead of retaining only a remote link.";</script>
+<script>
+  (() => {
+    const panel = document.querySelector("#screen-translate");
+    const body = panel.querySelector(".body");
+    const header = panel.querySelector(".head");
+    const languages = panel.querySelector(".language-row");
+    const actions = panel.querySelector(".actions");
+    const listen = [...actions.querySelectorAll("button")].find((button) => button.textContent.includes("Listen"));
+    const cardPreview = [...actions.querySelectorAll("button")].find((button) => button.textContent.includes("Card preview"));
+    const close = header.querySelector(".close");
+    const add = [...actions.querySelectorAll("button")].find((button) => button.textContent === "Add to Anki");
+    panel.querySelector(".quote").remove();
+    cardPreview.remove();
+    close.onclick = () => panel.classList.add("hidden");
+    header.remove();
+    listen.className = "top-icon";
+    listen.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M15.54 8.46a5 5 0 0 1 0 7.07"></path><path d="M19.07 4.93a10 10 0 0 1 0 14.14"></path></svg>';
+    listen.setAttribute("aria-label", "Listen");
+    listen.title = "Listen";
+    close.className = "top-icon";
+    close.textContent = "×";
+    close.title = "Close";
+    const pin = document.createElement("button");
+    pin.className = "top-icon";
+    pin.textContent = "⚐";
+    pin.title = "Pin preview";
+    languages.append(listen, pin, close);
+    const addRow = document.createElement("div");
+    addRow.className = "compact-add";
+    const source = document.createElement("span");
+    source.textContent = "EN";
+    add.textContent = "Add to Anki";
+    addRow.append(source, add);
+    panel.querySelector(".meta").after(addRow);
+  })();
+</script>
+<script>
+  (() => {
+    const audio = document.querySelector("#screen-edit .audio-box");
+    const filename = audio.querySelector("input").value;
+    const mp3Url = "https://api.dictionaryapi.dev/media/pronunciations/en/resilient-us.mp3";
+    const icon = '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M15.54 8.46a5 5 0 0 1 0 7.07"></path><path d="M19.07 4.93a10 10 0 0 1 0 14.14"></path></svg>';
+    const play = document.createElement("button");
+    play.className = "audio-play";
+    play.setAttribute("aria-label", "Preview MP3");
+    play.innerHTML = icon;
+    play.onclick = previewAudio;
+    const info = document.createElement("div");
+    info.className = "audio-info";
+    const name = document.createElement("div");
+    name.className = "audio-name";
+    name.textContent = filename;
+    const note = document.createElement("div");
+    note.className = "audio-note";
+    note.textContent = "Dictionary MP3 · saved to Anki media on final Add";
+    info.append(name, note);
+    const links = document.createElement("div");
+    links.className = "audio-links";
+    const open = document.createElement("a");
+    open.className = "audio-link";
+    open.href = mp3Url;
+    open.target = "_blank";
+    open.rel = "noreferrer";
+    open.textContent = "Open";
+    const download = document.createElement("a");
+    download.className = "audio-link";
+    download.href = mp3Url;
+    download.download = filename;
+    download.textContent = "Download";
+    links.append(open, download);
+    audio.className = "audio-card";
+    audio.replaceChildren(play, info, links);
+  })();
+</script>
+</body></html>

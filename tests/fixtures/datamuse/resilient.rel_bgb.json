@@ -1,0 +1,203 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://api.datamuse.com/words?max=20&rel_bgb=resilient&md=pf",
+    "headers": {}
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json"
+  },
+  "elapsedMs": 549,
+  "fetchedAt": "2026-09-14T15:41:06.913Z",
+  "body": [
+    {
+      "word": "and",
+      "score": 153301,
+      "tags": [
+        "n",
+        "v",
+        "adj",
+        "f:1122.503704"
+      ]
+    },
+    {
+      "word": "more",
+      "score": 131529,
+      "tags": [
+        "adv",
+        "n",
+        "v",
+        "f:1291.879626"
+      ]
+    },
+    {
+      "word": "a",
+      "score": 102549,
+      "tags": [
+        "n",
+        "adj",
+        "v",
+        "adv",
+        "f:440.279225"
+      ]
+    },
+    {
+      "word": "the",
+      "score": 94233,
+      "tags": [
+        "adv",
+        "f:407.210664"
+      ]
+    },
+    {
+      "word": "of",
+      "score": 46231,
+      "tags": [
+        "v",
+        "n",
+        "f:23375.750574"
+      ]
+    },
+    {
+      "word": "are",
+      "score": 36889,
+      "tags": [
+        "n",
+        "f:1982.889722"
+      ]
+    },
+    {
+      "word": "be",
+      "score": 33214,
+      "tags": [
+        "v",
+        "n",
+        "adj",
+        "f:1665.648031"
+      ]
+    },
+    {
+      "word": "is",
+      "score": 29109,
+      "tags": [
+        "v",
+        "n",
+        "f:5240.944233"
+      ]
+    },
+    {
+      "word": "less",
+      "score": 27465,
+      "tags": [
+        "adj",
+        "adv",
+        "n",
+        "v",
+        "f:267.294225"
+      ]
+    },
+    {
+      "word": "remarkably",
+      "score": 27414,
+      "tags": [
+        "adv",
+        "f:7.757338"
+      ]
+    },
+    {
+      "word": "most",
+      "score": 27032,
+      "tags": [
+        "adv",
+        "adj",
+        "n",
+        "f:718.882754"
+      ]
+    },
+    {
+      "word": "very",
+      "score": 20208,
+      "tags": [
+        "adv",
+        "adj",
+        "n",
+        "f:577.371772"
+      ]
+    },
+    {
+      "word": "as",
+      "score": 19623,
+      "tags": [
+        "adv",
+        "n",
+        "f:3178.485243"
+      ]
+    },
+    {
+      "word": "highly",
+      "score": 13204,
+      "tags": [
+        "adv",
+        "f:70.226104"
+      ]
+    },
+    {
+      "word": "so",
+      "score": 12573,
+      "tags": [
+        "adv",
+        "adj",
+        "n",
+        "f:949.097652"
+      ]
+    },
+    {
+      "word": "how",
+      "score": 11790,
+      "tags": [
+        "adv",
+        "n",
+        "f:510.375791"
+      ]
+    },
+    {
+      "word": "or",
+      "score": 10904,
+      "tags": [
+        "n",
+        "adj",
+        "adv",
+        "f:203.816421"
+      ]
+    },
+    {
+      "word": "was",
+      "score": 10823,
+      "tags": [
+        "v",
+        "n",
+        "f:2824.169367"
+      ]
+    },
+    {
+      "word": "with",
+      "score": 10608,
+      "tags": [
+        "adv",
+        "n",
+        "f:4197.855552"
+      ]
+    },
+    {
+      "word": "but",
+      "score": 9644,
+      "tags": [
+        "n",
+        "adv",
+        "v",
+        "f:760.288061"
+      ]
+    }
+  ]
+}

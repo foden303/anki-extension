@@ -1,0 +1,60 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://api.datamuse.com/words?max=20&rel_ant=light&md=pf",
+    "headers": {}
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json"
+  },
+  "elapsedMs": 449,
+  "fetchedAt": "2026-09-14T15:41:03.551Z",
+  "body": [
+    {
+      "word": "heavy",
+      "score": 41055,
+      "tags": [
+        "adj",
+        "adv",
+        "n",
+        "v",
+        "f:59.361283"
+      ]
+    },
+    {
+      "word": "dark",
+      "score": 35050,
+      "tags": [
+        "adj",
+        "n",
+        "v",
+        "f:68.871627"
+      ]
+    },
+    {
+      "word": "obliterate",
+      "score": 27038,
+      "tags": [
+        "v",
+        "adj",
+        "f:0.706037"
+      ]
+    },
+    {
+      "word": "extinguish",
+      "score": 13041,
+      "tags": [
+        "v",
+        "f:0.931574"
+      ]
+    },
+    {
+      "word": "darkness",
+      "tags": [
+        "n",
+        "f:21.719467"
+      ]
+    }
+  ]
+}

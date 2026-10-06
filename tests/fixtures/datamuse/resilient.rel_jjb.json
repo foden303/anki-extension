@@ -1,0 +1,118 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://api.datamuse.com/words?max=20&rel_jjb=resilient&md=pf",
+    "headers": {}
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json"
+  },
+  "elapsedMs": 558,
+  "fetchedAt": "2026-09-14T15:41:07.777Z",
+  "body": [
+    {
+      "word": "more",
+      "score": 1001,
+      "tags": [
+        "adv",
+        "n",
+        "v",
+        "f:1291.879626"
+      ]
+    },
+    {
+      "word": "least",
+      "score": 1000,
+      "tags": [
+        "adv",
+        "n",
+        "f:173.878679"
+      ]
+    },
+    {
+      "word": "error",
+      "score": 999,
+      "tags": [
+        "n",
+        "v",
+        "f:46.698418"
+      ]
+    },
+    {
+      "word": "most",
+      "score": 998,
+      "tags": [
+        "adv",
+        "adj",
+        "n",
+        "f:718.882754"
+      ]
+    },
+    {
+      "word": "career",
+      "score": 997,
+      "tags": [
+        "n",
+        "adj",
+        "v",
+        "f:42.364026"
+      ]
+    },
+    {
+      "word": "orthogonal",
+      "score": 996,
+      "tags": [
+        "adj",
+        "n",
+        "f:2.354168"
+      ]
+    },
+    {
+      "word": "weather",
+      "score": 995,
+      "tags": [
+        "n",
+        "v",
+        "adj",
+        "f:28.864730"
+      ]
+    },
+    {
+      "word": "stress",
+      "score": 994,
+      "tags": [
+        "n",
+        "v",
+        "f:61.413366"
+      ]
+    },
+    {
+      "word": "leakage",
+      "score": 993,
+      "tags": [
+        "n",
+        "f:4.009422"
+      ]
+    },
+    {
+      "word": "strong",
+      "score": 992,
+      "tags": [
+        "adj",
+        "adv",
+        "n",
+        "f:112.208948"
+      ]
+    },
+    {
+      "word": "independent",
+      "score": 991,
+      "tags": [
+        "adj",
+        "n",
+        "f:70.329393"
+      ]
+    }
+  ]
+}

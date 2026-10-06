@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "http://localhost:11434/v1/models",
+    "headers": {}
+  },
+  "error": "ECONNREFUSED",
+  "elapsedMs": 4,
+  "fetchedAt": "2026-09-14T15:41:20.120Z"
+}

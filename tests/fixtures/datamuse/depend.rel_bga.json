@@ -1,0 +1,191 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://api.datamuse.com/words?max=20&rel_bga=depend&md=pf",
+    "headers": {}
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json"
+  },
+  "elapsedMs": 287,
+  "fetchedAt": "2026-09-14T15:41:11.240Z",
+  "body": [
+    {
+      "word": "on",
+      "score": 542963,
+      "tags": [
+        "adj",
+        "adv",
+        "v",
+        "n",
+        "f:3648.612232"
+      ]
+    },
+    {
+      "word": "upon",
+      "score": 219572,
+      "tags": [
+        "f:270.562827"
+      ]
+    },
+    {
+      "word": ".",
+      "score": 20395,
+      "tags": [
+        "f:0.000000"
+      ]
+    },
+    {
+      "word": "for",
+      "score": 20228,
+      "tags": [
+        "n",
+        "f:5330.802977"
+      ]
+    },
+    {
+      "word": "in",
+      "score": 14794,
+      "tags": [
+        "adv",
+        "adj",
+        "n",
+        "v",
+        "f:13718.174726"
+      ]
+    },
+    {
+      "word": "largely",
+      "score": 12410,
+      "tags": [
+        "adv",
+        "f:46.158285"
+      ]
+    },
+    {
+      "word": "to",
+      "score": 11251,
+      "tags": [
+        "adv",
+        "n",
+        "f:6737.872536"
+      ]
+    },
+    {
+      "word": "entirely",
+      "score": 10823,
+      "tags": [
+        "adv",
+        "f:48.666877"
+      ]
+    },
+    {
+      "word": "only",
+      "score": 10400,
+      "tags": [
+        "adv",
+        "adj",
+        "n",
+        "f:936.798460"
+      ]
+    },
+    {
+      "word": "not",
+      "score": 9634,
+      "tags": [
+        "adv",
+        "n",
+        "f:325.893476"
+      ]
+    },
+    {
+      "word": "more",
+      "score": 8599,
+      "tags": [
+        "adv",
+        "n",
+        "v",
+        "f:1291.879626"
+      ]
+    },
+    {
+      "word": "heavily",
+      "score": 7227,
+      "tags": [
+        "adv",
+        "f:21.657498"
+      ]
+    },
+    {
+      "word": "very",
+      "score": 6182,
+      "tags": [
+        "adv",
+        "adj",
+        "n",
+        "f:577.371772"
+      ]
+    },
+    {
+      "word": "solely",
+      "score": 6126,
+      "tags": [
+        "adv",
+        "f:12.471775"
+      ]
+    },
+    {
+      "word": "the",
+      "score": 5343,
+      "tags": [
+        "adv",
+        "f:407.210664"
+      ]
+    },
+    {
+      "word": "primarily",
+      "score": 5298,
+      "tags": [
+        "adv",
+        "f:42.804874"
+      ]
+    },
+    {
+      "word": "mainly",
+      "score": 4819,
+      "tags": [
+        "adv",
+        "f:40.624863"
+      ]
+    },
+    {
+      "word": "so",
+      "score": 3783,
+      "tags": [
+        "adv",
+        "adj",
+        "n",
+        "f:949.097652"
+      ]
+    },
+    {
+      "word": "much",
+      "score": 3538,
+      "tags": [
+        "adv",
+        "adj",
+        "n",
+        "f:473.014857"
+      ]
+    },
+    {
+      "word": "partly",
+      "score": 3474,
+      "tags": [
+        "adv",
+        "f:27.749315"
+      ]
+    }
+  ]
+}

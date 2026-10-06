@@ -1,0 +1,24 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://api.datamuse.com/words?max=1&sp=decision&md=pf",
+    "headers": {}
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json"
+  },
+  "elapsedMs": 315,
+  "fetchedAt": "2026-09-14T15:41:12.544Z",
+  "body": [
+    {
+      "word": "decision",
+      "score": 299123,
+      "tags": [
+        "n",
+        "v",
+        "f:95.658461"
+      ]
+    }
+  ]
+}

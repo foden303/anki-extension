@@ -1,0 +1,186 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://api.datamuse.com/words?max=20&rel_jja=resilient&md=pf",
+    "headers": {}
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json"
+  },
+  "elapsedMs": 303,
+  "fetchedAt": "2026-09-14T15:41:07.218Z",
+  "body": [
+    {
+      "word": "children",
+      "score": 1001,
+      "tags": [
+        "n",
+        "f:293.269161"
+      ]
+    },
+    {
+      "word": "material",
+      "score": 1000,
+      "tags": [
+        "n",
+        "adj",
+        "v",
+        "f:131.495919"
+      ]
+    },
+    {
+      "word": "flooring",
+      "score": 999,
+      "tags": [
+        "n",
+        "f:0.993634"
+      ]
+    },
+    {
+      "word": "modulus",
+      "score": 998,
+      "tags": [
+        "n",
+        "f:3.474379"
+      ]
+    },
+    {
+      "word": "people",
+      "score": 997,
+      "tags": [
+        "n",
+        "v",
+        "f:554.876625"
+      ]
+    },
+    {
+      "word": "materials",
+      "score": 996,
+      "tags": [
+        "N",
+        "f:81.583451"
+      ]
+    },
+    {
+      "word": "system",
+      "score": 995,
+      "tags": [
+        "n",
+        "f:395.282832"
+      ]
+    },
+    {
+      "word": "surface",
+      "score": 994,
+      "tags": [
+        "n",
+        "v",
+        "f:123.607564"
+      ]
+    },
+    {
+      "word": "individuals",
+      "score": 993,
+      "tags": [
+        "N",
+        "f:80.249174"
+      ]
+    },
+    {
+      "word": "spirit",
+      "score": 992,
+      "tags": [
+        "n",
+        "v",
+        "f:79.009050"
+      ]
+    },
+    {
+      "word": "students",
+      "score": 991,
+      "tags": [
+        "n",
+        "f:137.879575"
+      ]
+    },
+    {
+      "word": "nature",
+      "score": 990,
+      "tags": [
+        "n",
+        "v",
+        "f:192.196541"
+      ]
+    },
+    {
+      "word": "tile",
+      "score": 989,
+      "tags": [
+        "n",
+        "v",
+        "f:3.542143"
+      ]
+    },
+    {
+      "word": "floor",
+      "score": 988,
+      "tags": [
+        "n",
+        "v",
+        "f:58.995418"
+      ]
+    },
+    {
+      "word": "systems",
+      "score": 987,
+      "tags": [
+        "n",
+        "f:150.471600"
+      ]
+    },
+    {
+      "word": "child",
+      "score": 986,
+      "tags": [
+        "n",
+        "v",
+        "f:180.886155"
+      ]
+    },
+    {
+      "word": "channels",
+      "score": 985,
+      "tags": [
+        "n",
+        "f:18.921518"
+      ]
+    },
+    {
+      "word": "layer",
+      "score": 984,
+      "tags": [
+        "n",
+        "v",
+        "f:41.988845"
+      ]
+    },
+    {
+      "word": "person",
+      "score": 983,
+      "tags": [
+        "n",
+        "v",
+        "f:162.817686"
+      ]
+    },
+    {
+      "word": "floors",
+      "score": 982,
+      "tags": [
+        "n",
+        "f:6.216404"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://en.wiktionary.org/api/rest_v1/page/definition/resilient",
+    "headers": {
+      "Api-User-Agent": "anki-add-vocabulary-fixture-probe/0.1 (local development)"
+    }
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json; charset=utf-8; profile=\"https://www.mediawiki.org/wiki/Specs/definition/0.8.1\""
+  },
+  "elapsedMs": 53,
+  "fetchedAt": "2026-09-14T15:41:16.372Z",
+  "body": {
+    "en": [
+      {
+        "partOfSpeech": "Adjective",
+        "language": "English",
+        "definitions": [
+          {
+            "definition": "Returning quickly to original shape after force is applied; <a rel=\"mw:WikiLink\" href=\"/wiki/elastic\" title=\"elastic\">elastic</a>. \n<ol><li><span class=\"usage-label-sense\" about=\"#mwt14\" typeof=\"mw:Transclusion\"></span> Having the ability to absorb energy when deformed.</li></ol>"
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt14\" typeof=\"mw:Transclusion\"></span> Having the ability to absorb energy when deformed."
+          },
+          {
+            "definition": "Returning quickly to normal after damaging events or conditions. \n\n<ol><li><span class=\"usage-label-sense\" about=\"#mwt17\" typeof=\"mw:Transclusion\"></span> Having the ability to recover from <a rel=\"mw:WikiLink\" href=\"/wiki/mental_illness\" title=\"mental illness\">mental illness</a>, <a rel=\"mw:WikiLink\" href=\"/wiki/trauma\" title=\"trauma\">trauma</a>, etc.; having <a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/resilience%20(psychology)\" title=\"w:resilience (psychology)\" class=\"extiw\">resilience</a>.</li></ol>"
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt17\" typeof=\"mw:Transclusion\"></span> Having the ability to recover from <a rel=\"mw:WikiLink\" href=\"/wiki/mental_illness\" title=\"mental illness\">mental illness</a>, <a rel=\"mw:WikiLink\" href=\"/wiki/trauma\" title=\"trauma\">trauma</a>, etc.; having <a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/resilience%20(psychology)\" title=\"w:resilience (psychology)\" class=\"extiw\">resilience</a>."
+          }
+        ]
+      }
+    ],
+    "la": [
+      {
+        "partOfSpeech": "Verb",
+        "language": "Latin",
+        "definitions": [
+          {
+            "definition": "<span class=\"form-of-definition use-with-mention\" about=\"#mwt132\" typeof=\"mw:Transclusion\"><a rel=\"mw:WikiLink\" href=\"/wiki/Appendix:Glossary#third_person\" title=\"Appendix:Glossary\">third-person</a> <a rel=\"mw:WikiLink\" href=\"/wiki/Appendix:Glossary#plural_number\" title=\"Appendix:Glossary\">plural</a> <a rel=\"mw:WikiLink\" href=\"/wiki/Appendix:Glossary#future_tense\" title=\"Appendix:Glossary\">future</a> <a rel=\"mw:WikiLink\" href=\"/wiki/Appendix:Glossary#active_voice\" title=\"Appendix:Glossary\">active</a> <a rel=\"mw:WikiLink\" href=\"/wiki/Appendix:Glossary#indicative_mood\" title=\"Appendix:Glossary\">indicative</a> of <span class=\"form-of-definition-link\"><i class=\"Latn mention\" lang=\"la\"><a rel=\"mw:WikiLink\" href=\"/wiki/resilio#Latin\" title=\"resilio\">resiliō</a></i></span></span>"
+          }
+        ]
+      }
+    ]
+  }
+}

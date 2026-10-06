@@ -1,0 +1,196 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://api.datamuse.com/words?max=20&rel_bga=light&md=pf",
+    "headers": {}
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json"
+  },
+  "elapsedMs": 288,
+  "fetchedAt": "2026-09-14T15:41:03.839Z",
+  "body": [
+    {
+      "word": "of",
+      "score": 133989,
+      "tags": [
+        "v",
+        "n",
+        "f:23375.750574"
+      ]
+    },
+    {
+      "word": ".",
+      "score": 85458,
+      "tags": [
+        "f:0.000000"
+      ]
+    },
+    {
+      "word": "and",
+      "score": 61145,
+      "tags": [
+        "n",
+        "v",
+        "adj",
+        "f:1122.503704"
+      ]
+    },
+    {
+      "word": "on",
+      "score": 36844,
+      "tags": [
+        "adj",
+        "adv",
+        "v",
+        "n",
+        "f:3648.612232"
+      ]
+    },
+    {
+      "word": "in",
+      "score": 24519,
+      "tags": [
+        "adv",
+        "adj",
+        "n",
+        "v",
+        "f:13718.174726"
+      ]
+    },
+    {
+      "word": "is",
+      "score": 22435,
+      "tags": [
+        "v",
+        "n",
+        "f:5240.944233"
+      ]
+    },
+    {
+      "word": "from",
+      "score": 16230,
+      "tags": [
+        "N",
+        "f:2734.569334"
+      ]
+    },
+    {
+      "word": "to",
+      "score": 15710,
+      "tags": [
+        "adv",
+        "n",
+        "f:6737.872536"
+      ]
+    },
+    {
+      "word": "that",
+      "score": 12537,
+      "tags": [
+        "adv",
+        "n",
+        "f:5454.541130"
+      ]
+    },
+    {
+      "word": "the",
+      "score": 10548,
+      "tags": [
+        "adv",
+        "f:407.210664"
+      ]
+    },
+    {
+      "word": "was",
+      "score": 10088,
+      "tags": [
+        "v",
+        "n",
+        "f:2824.169367"
+      ]
+    },
+    {
+      "word": "as",
+      "score": 9222,
+      "tags": [
+        "adv",
+        "n",
+        "f:3178.485243"
+      ]
+    },
+    {
+      "word": "upon",
+      "score": 8587,
+      "tags": [
+        "f:270.562827"
+      ]
+    },
+    {
+      "word": "which",
+      "score": 7967,
+      "tags": [
+        "N",
+        "f:1900.917390"
+      ]
+    },
+    {
+      "word": "source",
+      "score": 7020,
+      "tags": [
+        "n",
+        "v",
+        "f:112.547177"
+      ]
+    },
+    {
+      "word": "or",
+      "score": 6731,
+      "tags": [
+        "n",
+        "adj",
+        "adv",
+        "f:203.816421"
+      ]
+    },
+    {
+      "word": "at",
+      "score": 5922,
+      "tags": [
+        "n",
+        "adj",
+        "f:2665.094377"
+      ]
+    },
+    {
+      "word": "a",
+      "score": 5827,
+      "tags": [
+        "n",
+        "adj",
+        "v",
+        "adv",
+        "f:440.279225"
+      ]
+    },
+    {
+      "word": "for",
+      "score": 5658,
+      "tags": [
+        "n",
+        "f:5330.802977"
+      ]
+    },
+    {
+      "word": "brown",
+      "score": 5605,
+      "tags": [
+        "n",
+        "adj",
+        "v",
+        "f:60.545354"
+      ]
+    }
+  ]
+}

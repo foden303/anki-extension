@@ -1,0 +1,195 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://api.datamuse.com/words?max=20&rel_bga=decision&md=pf",
+    "headers": {}
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json"
+  },
+  "elapsedMs": 298,
+  "fetchedAt": "2026-09-14T15:41:13.577Z",
+  "body": [
+    {
+      "word": "to",
+      "score": 110237,
+      "tags": [
+        "adv",
+        "n",
+        "f:6737.872536"
+      ]
+    },
+    {
+      "word": ".",
+      "score": 85369,
+      "tags": [
+        "f:0.000000"
+      ]
+    },
+    {
+      "word": "making",
+      "score": 75725,
+      "tags": [
+        "n",
+        "f:163.367031"
+      ]
+    },
+    {
+      "word": "of",
+      "score": 71640,
+      "tags": [
+        "v",
+        "n",
+        "f:23375.750574"
+      ]
+    },
+    {
+      "word": "in",
+      "score": 35145,
+      "tags": [
+        "adv",
+        "adj",
+        "n",
+        "v",
+        "f:13718.174726"
+      ]
+    },
+    {
+      "word": "was",
+      "score": 33673,
+      "tags": [
+        "v",
+        "n",
+        "f:2824.169367"
+      ]
+    },
+    {
+      "word": "is",
+      "score": 28508,
+      "tags": [
+        "v",
+        "n",
+        "f:5240.944233"
+      ]
+    },
+    {
+      "word": "on",
+      "score": 25181,
+      "tags": [
+        "adj",
+        "adv",
+        "v",
+        "n",
+        "f:3648.612232"
+      ]
+    },
+    {
+      "word": "and",
+      "score": 18229,
+      "tags": [
+        "n",
+        "v",
+        "adj",
+        "f:1122.503704"
+      ]
+    },
+    {
+      "word": "makers",
+      "score": 16525,
+      "tags": [
+        "n",
+        "f:10.738161"
+      ]
+    },
+    {
+      "word": "that",
+      "score": 15482,
+      "tags": [
+        "adv",
+        "n",
+        "f:5454.541130"
+      ]
+    },
+    {
+      "word": "by",
+      "score": 12185,
+      "tags": [
+        "adv",
+        "adj",
+        "n",
+        "f:3447.271783"
+      ]
+    },
+    {
+      "word": "as",
+      "score": 11725,
+      "tags": [
+        "adv",
+        "n",
+        "f:3178.485243"
+      ]
+    },
+    {
+      "word": "maker",
+      "score": 10891,
+      "tags": [
+        "n",
+        "f:7.302854"
+      ]
+    },
+    {
+      "word": "about",
+      "score": 9474,
+      "tags": [
+        "adv",
+        "adj",
+        "v",
+        "f:963.500775"
+      ]
+    },
+    {
+      "word": "for",
+      "score": 8385,
+      "tags": [
+        "n",
+        "f:5330.802977"
+      ]
+    },
+    {
+      "word": "support",
+      "score": 7497,
+      "tags": [
+        "n",
+        "v",
+        "f:167.340302"
+      ]
+    },
+    {
+      "word": "not",
+      "score": 7225,
+      "tags": [
+        "adv",
+        "n",
+        "f:325.893476"
+      ]
+    },
+    {
+      "word": "has",
+      "score": 7008,
+      "tags": [
+        "N",
+        "f:412.414222"
+      ]
+    },
+    {
+      "word": "process",
+      "score": 6535,
+      "tags": [
+        "n",
+        "v",
+        "f:257.175940"
+      ]
+    }
+  ]
+}

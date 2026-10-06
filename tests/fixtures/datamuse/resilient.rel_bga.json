@@ -1,0 +1,193 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://api.datamuse.com/words?max=20&rel_bga=resilient&md=pf",
+    "headers": {}
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json"
+  },
+  "elapsedMs": 638,
+  "fetchedAt": "2026-09-14T15:41:06.363Z",
+  "body": [
+    {
+      "word": "and",
+      "score": 121481,
+      "tags": [
+        "n",
+        "v",
+        "adj",
+        "f:1122.503704"
+      ]
+    },
+    {
+      "word": ".",
+      "score": 116618,
+      "tags": [
+        "f:0.000000"
+      ]
+    },
+    {
+      "word": "to",
+      "score": 69936,
+      "tags": [
+        "adv",
+        "n",
+        "f:6737.872536"
+      ]
+    },
+    {
+      "word": "than",
+      "score": 38363,
+      "tags": [
+        "adv",
+        "n",
+        "f:934.057620"
+      ]
+    },
+    {
+      "word": "in",
+      "score": 36733,
+      "tags": [
+        "adv",
+        "adj",
+        "n",
+        "v",
+        "f:13718.174726"
+      ]
+    },
+    {
+      "word": "children",
+      "score": 28162,
+      "tags": [
+        "n",
+        "f:293.269161"
+      ]
+    },
+    {
+      "word": "flooring",
+      "score": 25990,
+      "tags": [
+        "n",
+        "f:0.993634"
+      ]
+    },
+    {
+      "word": "enough",
+      "score": 19923,
+      "tags": [
+        "adv",
+        "n",
+        "f:161.860136"
+      ]
+    },
+    {
+      "word": "as",
+      "score": 18991,
+      "tags": [
+        "adv",
+        "n",
+        "f:3178.485243"
+      ]
+    },
+    {
+      "word": "modulus",
+      "score": 17255,
+      "tags": [
+        "n",
+        "f:3.474379"
+      ]
+    },
+    {
+      "word": "material",
+      "score": 13027,
+      "tags": [
+        "n",
+        "adj",
+        "v",
+        "f:131.495919"
+      ]
+    },
+    {
+      "word": "floor",
+      "score": 12120,
+      "tags": [
+        "n",
+        "v",
+        "f:58.995418"
+      ]
+    },
+    {
+      "word": "people",
+      "score": 11938,
+      "tags": [
+        "n",
+        "v",
+        "f:554.876625"
+      ]
+    },
+    {
+      "word": "tile",
+      "score": 7253,
+      "tags": [
+        "n",
+        "v",
+        "f:3.542143"
+      ]
+    },
+    {
+      "word": "or",
+      "score": 7126,
+      "tags": [
+        "n",
+        "adj",
+        "adv",
+        "f:203.816421"
+      ]
+    },
+    {
+      "word": "individuals",
+      "score": 7103,
+      "tags": [
+        "N",
+        "f:80.249174"
+      ]
+    },
+    {
+      "word": "materials",
+      "score": 6357,
+      "tags": [
+        "N",
+        "f:81.583451"
+      ]
+    },
+    {
+      "word": "of",
+      "score": 5331,
+      "tags": [
+        "v",
+        "n",
+        "f:23375.750574"
+      ]
+    },
+    {
+      "word": "self",
+      "score": 5207,
+      "tags": [
+        "n",
+        "adj",
+        "v",
+        "f:186.743563"
+      ]
+    },
+    {
+      "word": "floors",
+      "score": 5125,
+      "tags": [
+        "n",
+        "f:6.216404"
+      ]
+    }
+  ]
+}

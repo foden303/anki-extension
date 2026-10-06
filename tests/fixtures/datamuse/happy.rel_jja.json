@@ -1,0 +1,192 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://api.datamuse.com/words?max=20&rel_jja=happy&md=pf",
+    "headers": {}
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json"
+  },
+  "elapsedMs": 296,
+  "fetchedAt": "2026-09-14T15:41:09.681Z",
+  "body": [
+    {
+      "word": "life",
+      "score": 1001,
+      "tags": [
+        "n",
+        "v",
+        "f:484.140126"
+      ]
+    },
+    {
+      "word": "ending",
+      "score": 1000,
+      "tags": [
+        "n",
+        "f:14.914838"
+      ]
+    },
+    {
+      "word": "days",
+      "score": 999,
+      "tags": [
+        "n",
+        "adv",
+        "f:178.399817"
+      ]
+    },
+    {
+      "word": "man",
+      "score": 998,
+      "tags": [
+        "n",
+        "adj",
+        "v",
+        "f:430.851569"
+      ]
+    },
+    {
+      "word": "day",
+      "score": 997,
+      "tags": [
+        "n",
+        "v",
+        "f:348.105956"
+      ]
+    },
+    {
+      "word": "marriage",
+      "score": 996,
+      "tags": [
+        "n",
+        "f:64.067272"
+      ]
+    },
+    {
+      "word": "family",
+      "score": 995,
+      "tags": [
+        "n",
+        "adj",
+        "f:254.593884"
+      ]
+    },
+    {
+      "word": "people",
+      "score": 994,
+      "tags": [
+        "n",
+        "v",
+        "f:554.876625"
+      ]
+    },
+    {
+      "word": "home",
+      "score": 993,
+      "tags": [
+        "n",
+        "adj",
+        "adv",
+        "v",
+        "f:228.796558"
+      ]
+    },
+    {
+      "word": "birthday",
+      "score": 992,
+      "tags": [
+        "n",
+        "v",
+        "f:9.106298"
+      ]
+    },
+    {
+      "word": "state",
+      "score": 991,
+      "tags": [
+        "n",
+        "v",
+        "adj",
+        "f:402.267294"
+      ]
+    },
+    {
+      "word": "hours",
+      "score": 990,
+      "tags": [
+        "n",
+        "f:96.325267"
+      ]
+    },
+    {
+      "word": "year",
+      "score": 989,
+      "tags": [
+        "n",
+        "f:273.465840"
+      ]
+    },
+    {
+      "word": "thought",
+      "score": 988,
+      "tags": [
+        "n",
+        "f:249.773804"
+      ]
+    },
+    {
+      "word": "times",
+      "score": 987,
+      "tags": [
+        "n",
+        "v",
+        "f:205.497144"
+      ]
+    },
+    {
+      "word": "hour",
+      "score": 986,
+      "tags": [
+        "n",
+        "f:63.914462"
+      ]
+    },
+    {
+      "word": "couple",
+      "score": 985,
+      "tags": [
+        "n",
+        "v",
+        "adj",
+        "f:36.862169"
+      ]
+    },
+    {
+      "word": "memories",
+      "score": 984,
+      "tags": [
+        "N",
+        "f:15.999754"
+      ]
+    },
+    {
+      "word": "event",
+      "score": 983,
+      "tags": [
+        "n",
+        "v",
+        "f:58.743980"
+      ]
+    },
+    {
+      "word": "endings",
+      "score": 982,
+      "tags": [
+        "n",
+        "f:2.846773"
+      ]
+    }
+  ]
+}

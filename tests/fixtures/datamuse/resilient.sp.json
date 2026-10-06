@@ -1,0 +1,23 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://api.datamuse.com/words?max=1&sp=resilient&md=pf",
+    "headers": {}
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json"
+  },
+  "elapsedMs": 396,
+  "fetchedAt": "2026-09-14T15:41:05.126Z",
+  "body": [
+    {
+      "word": "resilient",
+      "score": 306105,
+      "tags": [
+        "adj",
+        "f:1.335117"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://api.datamuse.com/words?max=20&rel_jja=light&md=pf",
+    "headers": {}
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json"
+  },
+  "elapsedMs": 297,
+  "fetchedAt": "2026-09-14T15:41:04.427Z",
+  "body": [
+    {
+      "word": "source",
+      "score": 1001,
+      "tags": [
+        "n",
+        "v",
+        "f:112.547177"
+      ]
+    },
+    {
+      "word": "brown",
+      "score": 1000,
+      "tags": [
+        "n",
+        "adj",
+        "v",
+        "f:60.545354"
+      ]
+    },
+    {
+      "word": "years",
+      "score": 999,
+      "tags": [
+        "n",
+        "f:442.790473"
+      ]
+    },
+    {
+      "word": "weight",
+      "score": 998,
+      "tags": [
+        "n",
+        "v",
+        "f:70.446905"
+      ]
+    },
+    {
+      "word": "intensity",
+      "score": 997,
+      "tags": [
+        "n",
+        "f:29.158396"
+      ]
+    },
+    {
+      "word": "hair",
+      "score": 996,
+      "tags": [
+        "n",
+        "v",
+        "f:57.648662"
+      ]
+    },
+    {
+      "word": "microscopy",
+      "score": 995,
+      "tags": [
+        "n",
+        "f:5.224007"
+      ]
+    },
+    {
+      "word": "color",
+      "score": 994,
+      "tags": [
+        "n",
+        "adj",
+        "v",
+        "f:58.379672"
+      ]
+    },
+    {
+      "word": "rays",
+      "score": 993,
+      "tags": [
+        "n",
+        "f:13.374939"
+      ]
+    },
+    {
+      "word": "breeze",
+      "score": 992,
+      "tags": [
+        "n",
+        "v",
+        "f:5.828095"
+      ]
+    },
+    {
+      "word": "infantry",
+      "score": 991,
+      "tags": [
+        "n",
+        "f:9.806361"
+      ]
+    },
+    {
+      "word": "industry",
+      "score": 990,
+      "tags": [
+        "n",
+        "f:94.801556"
+      ]
+    },
+    {
+      "word": "energy",
+      "score": 989,
+      "tags": [
+        "n",
+        "f:130.591030"
+      ]
+    },
+    {
+      "word": "bulb",
+      "score": 988,
+      "tags": [
+        "n",
+        "v",
+        "f:4.097664"
+      ]
+    },
+    {
+      "word": "touch",
+      "score": 987,
+      "tags": [
+        "n",
+        "v",
+        "f:35.472207"
+      ]
+    },
+    {
+      "word": "eyes",
+      "score": 986,
+      "tags": [
+        "N",
+        "f:150.575008"
+      ]
+    },
+    {
+      "word": "colour",
+      "score": 985,
+      "tags": [
+        "n",
+        "adj",
+        "v",
+        "f:21.760502"
+      ]
+    },
+    {
+      "word": "scattering",
+      "score": 984,
+      "tags": [
+        "n",
+        "f:9.868801"
+      ]
+    },
+    {
+      "word": "blue",
+      "score": 983,
+      "tags": [
+        "adj",
+        "n",
+        "v",
+        "f:57.556140"
+      ]
+    },
+    {
+      "word": "soil",
+      "score": 982,
+      "tags": [
+        "n",
+        "v",
+        "f:52.272776"
+      ]
+    }
+  ]
+}

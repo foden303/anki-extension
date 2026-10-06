@@ -1,0 +1,210 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://api.datamuse.com/words?max=20&rel_jjb=happy&md=pf",
+    "headers": {}
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json"
+  },
+  "elapsedMs": 321,
+  "fetchedAt": "2026-09-14T15:41:10.004Z",
+  "body": [
+    {
+      "word": "little",
+      "score": 1001,
+      "tags": [
+        "adj",
+        "adv",
+        "n",
+        "f:343.154023"
+      ]
+    },
+    {
+      "word": "old",
+      "score": 1000,
+      "tags": [
+        "adj",
+        "n",
+        "f:298.550312"
+      ]
+    },
+    {
+      "word": "how",
+      "score": 999,
+      "tags": [
+        "adv",
+        "n",
+        "f:510.375791"
+      ]
+    },
+    {
+      "word": "hard",
+      "score": 998,
+      "tags": [
+        "adj",
+        "adv",
+        "n",
+        "v",
+        "f:111.908028"
+      ]
+    },
+    {
+      "word": "rough",
+      "score": 997,
+      "tags": [
+        "adj",
+        "n",
+        "v",
+        "adv",
+        "f:19.737300"
+      ]
+    },
+    {
+      "word": "glorious",
+      "score": 996,
+      "tags": [
+        "adj",
+        "f:7.473237"
+      ]
+    },
+    {
+      "word": "poor",
+      "score": 995,
+      "tags": [
+        "adj",
+        "n",
+        "v",
+        "f:102.777063"
+      ]
+    },
+    {
+      "word": "good",
+      "score": 994,
+      "tags": [
+        "adj",
+        "adv",
+        "n",
+        "v",
+        "f:414.056577"
+      ]
+    },
+    {
+      "word": "slap",
+      "score": 993,
+      "tags": [
+        "n",
+        "v",
+        "adv",
+        "adj",
+        "f:1.887471"
+      ]
+    },
+    {
+      "word": "variable",
+      "score": 992,
+      "tags": [
+        "adj",
+        "n",
+        "f:47.842088"
+      ]
+    },
+    {
+      "word": "snappy",
+      "score": 991,
+      "tags": [
+        "adj",
+        "f:0.290697"
+      ]
+    },
+    {
+      "word": "victorious",
+      "score": 990,
+      "tags": [
+        "adj",
+        "f:3.709398"
+      ]
+    },
+    {
+      "word": "more",
+      "score": 989,
+      "tags": [
+        "adv",
+        "n",
+        "v",
+        "f:1291.879626"
+      ]
+    },
+    {
+      "word": "headline",
+      "score": 988,
+      "tags": [
+        "n",
+        "v",
+        "f:2.184066"
+      ]
+    },
+    {
+      "word": "mortal",
+      "score": 987,
+      "tags": [
+        "adj",
+        "n",
+        "adv",
+        "f:6.216103"
+      ]
+    },
+    {
+      "word": "very",
+      "score": 986,
+      "tags": [
+        "adv",
+        "adj",
+        "n",
+        "f:577.371772"
+      ]
+    },
+    {
+      "word": "last",
+      "score": 985,
+      "tags": [
+        "adj",
+        "adv",
+        "v",
+        "n",
+        "f:233.819604"
+      ]
+    },
+    {
+      "word": "steady",
+      "score": 984,
+      "tags": [
+        "adj",
+        "v",
+        "n",
+        "adv",
+        "f:21.093189"
+      ]
+    },
+    {
+      "word": "grave",
+      "score": 983,
+      "tags": [
+        "adj",
+        "n",
+        "v",
+        "f:18.838968"
+      ]
+    },
+    {
+      "word": "beautiful",
+      "score": 982,
+      "tags": [
+        "adj",
+        "n",
+        "f:49.557927"
+      ]
+    }
+  ]
+}

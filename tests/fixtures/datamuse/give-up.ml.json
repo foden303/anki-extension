@@ -1,0 +1,188 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://api.datamuse.com/words?max=20&ml=give+up&md=p",
+    "headers": {}
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json"
+  },
+  "elapsedMs": 526,
+  "fetchedAt": "2026-09-14T15:41:15.086Z",
+  "body": [
+    {
+      "word": "part with",
+      "score": 40079154,
+      "tags": [
+        "syn",
+        "v",
+        "results_type:primary_rel_multi"
+      ]
+    },
+    {
+      "word": "relinquish",
+      "score": 40079004,
+      "tags": [
+        "syn",
+        "v"
+      ]
+    },
+    {
+      "word": "resign",
+      "score": 40078960,
+      "tags": [
+        "syn",
+        "v"
+      ]
+    },
+    {
+      "word": "surrender",
+      "score": 40078738,
+      "tags": [
+        "syn",
+        "n",
+        "v"
+      ]
+    },
+    {
+      "word": "quit",
+      "score": 40078504,
+      "tags": [
+        "syn",
+        "v",
+        "adj",
+        "n"
+      ]
+    },
+    {
+      "word": "waive",
+      "score": 40078136,
+      "tags": [
+        "syn",
+        "v",
+        "n"
+      ]
+    },
+    {
+      "word": "leave",
+      "score": 40077159,
+      "tags": [
+        "syn",
+        "v",
+        "n"
+      ]
+    },
+    {
+      "word": "abandon",
+      "score": 40077157,
+      "tags": [
+        "syn",
+        "v",
+        "n"
+      ]
+    },
+    {
+      "word": "renounce",
+      "score": 40077059,
+      "tags": [
+        "syn",
+        "v",
+        "n"
+      ]
+    },
+    {
+      "word": "cede",
+      "score": 40076997,
+      "tags": [
+        "syn",
+        "v"
+      ]
+    },
+    {
+      "word": "vacate",
+      "score": 40076900,
+      "tags": [
+        "syn",
+        "v"
+      ]
+    },
+    {
+      "word": "lay off",
+      "score": 40076661,
+      "tags": [
+        "syn",
+        "v"
+      ]
+    },
+    {
+      "word": "deliver",
+      "score": 40076490,
+      "tags": [
+        "syn",
+        "v",
+        "adj"
+      ]
+    },
+    {
+      "word": "throw in the towel",
+      "score": 40076410,
+      "tags": [
+        "syn",
+        "v"
+      ]
+    },
+    {
+      "word": "forfeit",
+      "score": 40076325,
+      "tags": [
+        "syn",
+        "v",
+        "n",
+        "adj"
+      ]
+    },
+    {
+      "word": "discontinue",
+      "score": 40076267,
+      "tags": [
+        "syn",
+        "v"
+      ]
+    },
+    {
+      "word": "chuck up the sponge",
+      "score": 40076180,
+      "tags": [
+        "syn",
+        "v"
+      ]
+    },
+    {
+      "word": "cease",
+      "score": 40075903,
+      "tags": [
+        "syn",
+        "v",
+        "n"
+      ]
+    },
+    {
+      "word": "drop out",
+      "score": 40075700,
+      "tags": [
+        "syn",
+        "v"
+      ]
+    },
+    {
+      "word": "release",
+      "score": 40075611,
+      "tags": [
+        "syn",
+        "n",
+        "v"
+      ]
+    }
+  ]
+}

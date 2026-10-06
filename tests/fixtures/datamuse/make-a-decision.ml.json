@@ -1,0 +1,160 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://api.datamuse.com/words?max=20&ml=make+a+decision&md=p",
+    "headers": {}
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json"
+  },
+  "elapsedMs": 520,
+  "fetchedAt": "2026-09-14T15:41:15.607Z",
+  "body": [
+    {
+      "word": "decide",
+      "score": 10075530,
+      "tags": [
+        "v",
+        "syn",
+        "results_type:primary_rel_multi"
+      ]
+    },
+    {
+      "word": "make up one's mind",
+      "score": 10075529,
+      "tags": [
+        "v"
+      ]
+    },
+    {
+      "word": "choose",
+      "score": 10075528,
+      "tags": [
+        "v",
+        "syn"
+      ]
+    },
+    {
+      "word": "elect",
+      "score": 10075527,
+      "tags": [
+        "n"
+      ]
+    },
+    {
+      "word": "decide upon",
+      "score": 10075526,
+      "tags": [
+        "v"
+      ]
+    },
+    {
+      "word": "resolve",
+      "score": 10075525,
+      "tags": [
+        "n"
+      ]
+    },
+    {
+      "word": "settle on",
+      "score": 10075524,
+      "tags": [
+        "v"
+      ]
+    },
+    {
+      "word": "decide on",
+      "score": 10075523,
+      "tags": [
+        "v"
+      ]
+    },
+    {
+      "word": "take",
+      "score": 10075522,
+      "tags": [
+        "v"
+      ]
+    },
+    {
+      "word": "rule",
+      "score": 10075521,
+      "tags": [
+        "n",
+        "syn"
+      ]
+    },
+    {
+      "word": "go for it",
+      "score": 10075520,
+      "tags": [
+        "v"
+      ]
+    },
+    {
+      "word": "redecide",
+      "score": 10075519,
+      "tags": [
+        "v"
+      ]
+    },
+    {
+      "word": "dictate",
+      "score": 10075518,
+      "tags": [
+        "v"
+      ]
+    },
+    {
+      "word": "choose up",
+      "score": 10075517,
+      "tags": [
+        "v"
+      ]
+    },
+    {
+      "word": "find",
+      "score": 10075516,
+      "tags": [
+        "v"
+      ]
+    },
+    {
+      "word": "dijudicate",
+      "score": 10075515,
+      "tags": [
+        "v"
+      ]
+    },
+    {
+      "word": "pick",
+      "score": 10075514,
+      "tags": [
+        "v"
+      ]
+    },
+    {
+      "word": "define",
+      "score": 10075513,
+      "tags": [
+        "v"
+      ]
+    },
+    {
+      "word": "rule on",
+      "score": 10075512,
+      "tags": [
+        "v"
+      ]
+    },
+    {
+      "word": "determine",
+      "score": 10075511,
+      "tags": [
+        "v",
+        "syn"
+      ]
+    }
+  ]
+}

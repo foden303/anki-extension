@@ -1,0 +1,16 @@
+node_modules/
+dist/
+coverage/
+.env
+.env.*
+!.env.example
+*.sqlite
+*.sqlite-*
+__pycache__/
+# generated
+out/
+*.log
+
+# session scratch
+tests/fixtures/*.tmp
+.claude

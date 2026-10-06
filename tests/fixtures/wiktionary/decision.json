@@ -1,0 +1,118 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://en.wiktionary.org/api/rest_v1/page/definition/decision",
+    "headers": {
+      "Api-User-Agent": "anki-add-vocabulary-fixture-probe/0.1 (local development)"
+    }
+  },
+  "status": 200,
+  "headers": {
+    "content-type": "application/json; charset=utf-8; profile=\"https://www.mediawiki.org/wiki/Specs/definition/0.8.1\""
+  },
+  "elapsedMs": 523,
+  "fetchedAt": "2026-09-14T15:41:17.009Z",
+  "body": {
+    "en": [
+      {
+        "partOfSpeech": "Noun",
+        "language": "English",
+        "definitions": [
+          {
+            "definition": "The act of <a rel=\"mw:WikiLink\" href=\"/wiki/deciding\" title=\"deciding\">deciding</a>."
+          },
+          {
+            "definition": "A <a rel=\"mw:WikiLink\" href=\"/wiki/choice\" title=\"choice\">choice</a> or <a rel=\"mw:WikiLink\" href=\"/wiki/judgement\" title=\"judgement\">judgement</a>.",
+            "parsedExamples": [
+              {
+                "example": "It is the <b>decision</b> of the court that movies are protected as free speech."
+              },
+              {
+                "example": "His life has always been filled with big <b>decisions</b>."
+              },
+              {
+                "example": "It's a tough <b>decision</b>, but I'll take vanilla."
+              },
+              {
+                "example": "I told him about my <b>decision</b> to leave forever."
+              }
+            ],
+            "examples": [
+              "It is the <b>decision</b> of the court that movies are protected as free speech.",
+              "His life has always been filled with big <b>decisions</b>.",
+              "It's a tough <b>decision</b>, but I'll take vanilla.",
+              "I told him about my <b>decision</b> to leave forever."
+            ]
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt22\" typeof=\"mw:Transclusion\"></span> Firmness of conviction.",
+            "parsedExamples": [
+              {
+                "example": "After agonizing deliberations, they finally proceeded with <b>decision</b>."
+              }
+            ],
+            "examples": [
+              "After agonizing deliberations, they finally proceeded with <b>decision</b>."
+            ]
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt24\" typeof=\"mw:Transclusion\"></span> A <a rel=\"mw:WikiLink\" href=\"/wiki/result\" title=\"result\">result</a> arrived at by the <a rel=\"mw:WikiLink\" href=\"/wiki/judge\" title=\"judge\">judges</a> when there is no clear winner at the end of the contest.",
+            "parsedExamples": [
+              {
+                "example": "He has won twice by knockout, once by <b>decision</b>."
+              }
+            ],
+            "examples": [
+              "He has won twice by knockout, once by <b>decision</b>."
+            ]
+          },
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt26\" typeof=\"mw:Transclusion\"></span> A <a rel=\"mw:WikiLink\" href=\"/wiki/win\" title=\"win\">win</a> or a <a rel=\"mw:WikiLink\" href=\"/wiki/loss\" title=\"loss\">loss</a> awarded to a pitcher."
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "Verb",
+        "language": "English",
+        "definitions": [
+          {
+            "definition": "<span class=\"usage-label-sense\" about=\"#mwt269\" typeof=\"mw:Transclusion\"></span> To <a rel=\"mw:WikiLink\" href=\"/wiki/defeat\" title=\"defeat\">defeat</a> an opponent by a decision of the <a rel=\"mw:WikiLink\" href=\"/wiki/judge\" title=\"judge\">judges</a>, rather than by a <a rel=\"mw:WikiLink\" href=\"/wiki/knockout\" title=\"knockout\">knockout</a>"
+          }
+        ]
+      }
+    ],
+    "lmo": [
+      {
+        "partOfSpeech": "Noun",
+        "language": "Lombard",
+        "definitions": [
+          {
+            "definition": "<span class=\"Latn\" lang=\"en\" about=\"#mwt274\" typeof=\"mw:Transclusion\"><a rel=\"mw:WikiLink\" href=\"/wiki/decision#English\" class=\"mw-selflink-fragment\">decision</a></span>"
+          }
+        ]
+      }
+    ],
+    "other": [
+      {
+        "partOfSpeech": "Noun",
+        "language": "Middle French",
+        "definitions": [
+          {
+            "definition": "<span class=\"Latn\" lang=\"en\" about=\"#mwt277\" typeof=\"mw:Transclusion\"><a rel=\"mw:WikiLink\" href=\"/wiki/decision#English\" class=\"mw-selflink-fragment\">decision</a></span>"
+          }
+        ]
+      }
+    ],
+    "oc": [
+      {
+        "partOfSpeech": "Noun",
+        "language": "Occitan",
+        "definitions": [
+          {
+            "definition": "<span class=\"Latn\" lang=\"en\" about=\"#mwt284\" typeof=\"mw:Transclusion\"><a rel=\"mw:WikiLink\" href=\"/wiki/decision#English\" class=\"mw-selflink-fragment\">decision</a></span>"
+          }
+        ]
+      }
+    ]
+  }
+}
